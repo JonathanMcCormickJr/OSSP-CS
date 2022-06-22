@@ -1,5 +1,7 @@
 # 🚀 My Open-Source Study Path — Computer Science (OSSP-CS)
 
+<link rel="icon" href="https://cdn.pixabay.com/photo/2012/04/13/17/00/lcd-32872_1280.png">
+
 Inspired by the [Open-Source Computer Science Degree](https://github.com/mvillaloboz/open-source-cs-degree) and [Open Source Society University](https://github.com/ossu/computer-science), this project aims to document my path toward becoming at least as knowledgable and competent in the field of Computer Science as a person with a 4-year CS degree. The following document outlines my study resources used. The groupings by Term are meant to pace and structure the course more or less according to a typical Computer Science track at a college or university. The focus is on the core Computer Science courses. While liberal arts or "GenEd" courses may be included (especially during my year at Andrews University), my overall goal is to become proficient in CS specifically.
 
 ## Table of Contents
@@ -28,7 +30,7 @@ Inspired by the [Open-Source Computer Science Degree](https://github.com/mvillal
 
 
 ## 🟩 Term 0
-### Andrews University (AU): Fall 2019. 
+**Andrews University (AU): Fall 2019**
 [View transcript.](https://user-images.githubusercontent.com/67705789/175010700-5a5efe9a-15c8-4ce0-9951-77e288bc2f6b.png)
 * 🟢 HONS 105H: Western Heritage (pt.1). Grade: A-.
 * 🟢 HONS 115H: Transcribing the Self. Grade: A.
@@ -37,7 +39,7 @@ Inspired by the [Open-Source Computer Science Degree](https://github.com/mvillal
 * 🟢 PLSC 104: American Government. Grade: A.
 
 ## 🟩 Term 1
-### AU: Spring 2020
+**AU: Spring 2020**
 [View transcript.](https://user-images.githubusercontent.com/67705789/175010700-5a5efe9a-15c8-4ce0-9951-77e288bc2f6b.png)
 * 🟢 BSAD 341: Business Law. Grade: A-.
 * 🟢 COMM 280: Voice & Diction. Grade: A.
@@ -46,13 +48,13 @@ Inspired by the [Open-Source Computer Science Degree](https://github.com/mvillal
 * 🟢 STAT 285: Intro to Applied Statistics. Grade: A. 
 
 ## 🟩 Term 2
-### AU: Summer 2020
+**AU: Summer 2020**
 [View transcript.](https://user-images.githubusercontent.com/67705789/175010700-5a5efe9a-15c8-4ce0-9951-77e288bc2f6b.png)
 * MATH 145: Math for the (Mis)Information Age. Grade: B+. 
 
 
 ## 🟩 Term 3
-Self-study
+**Self-study: Summer 2020 - Spring 2022**
 
 ```
 if item NOT in andrewsUniversity && item.Date < 20220621 {
