@@ -14,10 +14,10 @@ Inspired by the [Open-Source Computer Science Degree](https://github.com/mvillal
 
 ## Table of Contents
 ### [💛 "Weather Stone Degree" (≈ 2-years associate's degree)](#-weather-stone-degree)
-1. [🟩 Term 0](#-term-0)
-2. [🟩 Term 1](#-term-1)
-3. [🟩 Term 2](#-term-2)
-4. [🟩 Term 3](#-term-3)
+[🟩 Term 0](#-term-0)
+[🟩 Term 1](#-term-1)
+[🟩 Term 2](#-term-2)
+[🟩 Term 3](#-term-3)
 5. [🟨 Term 4](#-term-4)
 ### [❤️ "Fahrenheit Degree" (≈ 4-years batchelor's degree)](#%EF%B8%8F-fahrenheit-degree)
 6. [🟥 Term 5](#-term-5)
