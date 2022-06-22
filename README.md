@@ -275,7 +275,7 @@ if item NOT in andrewsUniversity && item.Date < 20220621 {
 
 ## 🟥 Term 8
 
-### 🔴 
+### 🔴 Electronic Materials and Devices
 [MIT 3.15.1x Electronic Materials and Devices](https://openlearninglibrary.mit.edu/courses/course-v1:MITX+3.15.1x+2T2017/about).
 
 ## 🟥 Term 9
