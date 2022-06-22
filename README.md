@@ -171,6 +171,8 @@ Build multiple versions of the same app.
 
 ### 🔴 Internship
 
+Pick 3 companies to apply to.
+
 ### 🔴 Calculus 1B
 
 [MIT Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about).
@@ -287,4 +289,32 @@ Build multiple versions of the same app.
 ### 🔴 Electronic Materials and Devices
 [MIT 3.15.1x Electronic Materials and Devices](https://openlearninglibrary.mit.edu/courses/course-v1:MITX+3.15.1x+2T2017/about).
 
+### 🔴 Network and Computer Systems Security
+
+[MIT 6.857 Network and Computer Security](https://ocw.mit.edu/courses/6-857-network-and-computer-security-spring-2014/).
+OR
+[MIT 6.858 Computer Systems Security](https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/).
+
+### 🔴 Distributed Computer Systems Engineering
+
+[MIT ](https://ocw.mit.edu/courses/6-824-distributed-computer-systems-engineering-spring-2006/).
+
+### 🔴 Cryptography and Cryptanalysis
+
+[MIT 6.875 Cryptography and Cryptnalysis](https://ocw.mit.edu/courses/6-875-cryptography-and-cryptanalysis-spring-2005/).
+
+### 🔴 Law for the Entrepreneur and Manager
+
+[MIT 15.615 Law for the Entrepreneur and Manager](https://ocw.mit.edu/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/).
+
 ## 🟥 Term 9
+
+
+### 🔴 Advanced Cryptography
+
+[MIT 6.876J Advanced Topics in Cryptography](https://ocw.mit.edu/courses/6-876j-advanced-topics-in-cryptography-spring-2003/).
+
+
+### 🔴 Engineering Risk-Benefit Analysis
+
+[MIT ESD.72 Engineering Risk-Benefit Analysis](https://ocw.mit.edu/courses/esd-72-engineering-risk-benefit-analysis-spring-2007/).
