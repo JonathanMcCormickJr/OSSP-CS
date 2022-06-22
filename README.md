@@ -11,6 +11,8 @@ Inspired by the [Open-Source Computer Science Degree](https://github.com/mvillal
 6. [🟥 Term 5](#-term-5)
 7. [🟥 Term 6](#-term-6)
 8. [🟥 Term 7](#-term-7)
+9. [🟥 Term 8](#-term-8)
+10. [🟥 Term 9](#-term-9)
 
 
 ## Key:
@@ -269,3 +271,11 @@ if item NOT in andrewsUniversity && item.Date < 20220621 {
 **🔴 Machine Learning**
 
 > [Carnegie Mellon 10-806](http://www.cs.cmu.edu/~ninamf/courses/806/)
+
+
+## 🟥 Term 8
+
+### 🔴 
+[MIT 3.15.1x Electronic Materials and Devices](https://openlearninglibrary.mit.edu/courses/course-v1:MITX+3.15.1x+2T2017/about).
+
+## 🟥 Term 9
