@@ -160,7 +160,16 @@ if item NOT in andrewsUniversity && item.Date < 20220621 {
 > *or*  
 > [UC Berkeley CS61C](https://inst.eecs.berkeley.edu/~cs61c/archives)
 
+### 🔴 Project: Build an app.
+Build multiple versions of the same app. 
+1. Using Docker.
+2. Using Kubernetes.
+3. Using Nanos/OPS.
+4. Using something else. 
+
 ## 🟥 Term 5
+
+### 🔴 Internship
 
 ### 🔴 Calculus 1B
 
