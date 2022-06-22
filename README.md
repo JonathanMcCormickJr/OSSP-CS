@@ -1,7 +1,5 @@
 # 🚀 My Open-Source Study Path — Computer Science (OSSP-CS)
 
-<link rel="icon" href="https://cdn.pixabay.com/photo/2012/04/13/17/00/lcd-32872_1280.png">
-
 Inspired by the [Open-Source Computer Science Degree](https://github.com/mvillaloboz/open-source-cs-degree) and [Open Source Society University](https://github.com/ossu/computer-science), this project aims to document my path toward becoming at least as knowledgable and competent in the field of Computer Science as a person with a 4-year CS degree. The following document outlines my study resources used. The groupings by Term are meant to pace and structure the course more or less according to a typical Computer Science track at a college or university. The focus is on the core Computer Science courses. While liberal arts or "GenEd" courses may be included (especially during my year at Andrews University), my overall goal is to become proficient in CS specifically.
 
 ## Table of Contents
