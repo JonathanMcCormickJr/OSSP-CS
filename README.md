@@ -1,6 +1,6 @@
 # 🚀 My Open-Source Study Path — Computer Science (OSSP-CS)
 
-Inspired by the [Open-Source Computer Science Degree](https://github.com/mvillaloboz/open-source-cs-degree) and [Open Source Society University](https://github.com/ossu/computer-science), this project aims to document my path toward becoming at least as knowledgable and competent in the field of Computer Science as a person with a 4-year CS degree. The following document outlines my study resources used. The groupings by Term are meant to pace and structure the course more or less according to a typical Computer Science track at a college or university. The focus is on the core Computer Science courses. While liberal arts or "GenEd" courses may be included (especially during my year at Andrews University), my overall goal is to become proficient in CS.
+Inspired by the [Open-Source Computer Science Degree](https://github.com/mvillaloboz/open-source-cs-degree) and [Open Source Society University](https://github.com/ossu/computer-science), this project aims to document my path toward becoming at least as knowledgable and competent in the field of Computer Science as a person with a 4-year CS degree. The following document outlines my study resources used. The groupings by Term are meant to pace and structure the course more or less according to a typical Computer Science track at a college or university. The focus is on the core Computer Science courses. While liberal arts or "GenEd" courses may be included (especially during my year at Andrews University), my overall goal is to become proficient in CS specifically.
 
 ## Table of Contents
 1. [🟩 Term 0](#-term-0)
@@ -139,21 +139,18 @@ if item NOT in andrewsUniversity && item.Date < 20220621 {
 > [UC Berkeley CS61A](https://cs61a.org/)
 
 
-**🔴 Calculus 1A**
+### 🔴 Calculus 1A
 
 [MIT Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about). 
 
-**🔴 Calculus 1B**
 
-[MIT Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about).
-
-**🔴 Data Structures**
+### 🔴 Data Structures
 
 > [Stanford CS106B](https://web.stanford.edu/class/cs106b/)  
 > *or*  
 > [UC Berkeley CS61B](https://inst.eecs.berkeley.edu/~cs61b/archives.html)
 
-**🔴 Computer Architecture**
+### 🔴 Computer Architecture
 
 > [Princeton Coursera](https://www.coursera.org/course/comparch)  
 > *or*  
@@ -162,6 +159,10 @@ if item NOT in andrewsUniversity && item.Date < 20220621 {
 > [UC Berkeley CS61C](https://inst.eecs.berkeley.edu/~cs61c/archives)
 
 ## 🟥 Term 5
+
+### 🔴 Calculus 1B
+
+[MIT Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about).
 
 **🔴 UX Design**
 
@@ -191,15 +192,12 @@ if item NOT in andrewsUniversity && item.Date < 20220621 {
 > *or*  
 > [UC San Diego edX](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x)
 
-**🔴 Discrete Mathematics for Computer Science**
-
-> [UC Berkeley CS70](https://www.eecs70.org/)  
-> *or*  
-> [MIT 6.042J](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)  
-> *or*  
-> [Carnegie Mellon 15-251](http://www.cs.cmu.edu/~15251/index.html)  
 
 ## 🟥 Term 6
+
+### Calculus 1C
+
+[MIT 18.01.3x Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about).
 
 **🔴 Programming Languages Theory**
 
@@ -236,7 +234,11 @@ if item NOT in andrewsUniversity && item.Date < 20220621 {
 
 ## 🟥 Term 7
 
-**🔴 Computer Networking**
+### Discrete Math for Computer Science
+
+[MIT 6.042J Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)
+
+### 🔴 Computer Networking**
 
 > [Stanford Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)  
 > *or*  
