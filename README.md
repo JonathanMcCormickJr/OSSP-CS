@@ -160,8 +160,8 @@ if item NOT in andrewsUniversity && item.Date < 20220621 {
 > *or*  
 > [UC Berkeley CS61C](https://inst.eecs.berkeley.edu/~cs61c/archives)
 
-### 🔴 Project: Build an app.
-Build multiple versions of the same app. 
+### 🔴 Project: Build a useful Go app.
+Build multiple versions of the same app using the Go Programming Language. 
 1. Using Docker.
 2. Using Kubernetes.
 3. Using Nanos/OPS.
