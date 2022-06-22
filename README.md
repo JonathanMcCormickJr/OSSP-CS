@@ -138,6 +138,7 @@ if item NOT in andrewsUniversity && item.Date < 20220621 {
 [View cert.](https://user-images.githubusercontent.com/67705789/175014309-cec72208-9164-4b52-96c9-234431f72fcf.png)
 
 ### 🟨 Term 4
+**Self-study: Summer 2022 - ____**
 
 #### 🟡 Golang
 [Sololearn Go Course](https://www.sololearn.com/learning/1164).
