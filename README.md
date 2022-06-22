@@ -150,18 +150,8 @@ https://www.startupschool.org/dashboard
 #### 🔴 Write a 1000-word book report on "Computer Basics (1985)" by Time-Life Books
 
 
-#### 🔴 Intro to Computer Science
-
-> [Stanford CS101](https://web.stanford.edu/class/cs101/) *(Note: teaches in JavaScript)*  
-> *or*  
-> [Stanford CS106a](https://itunes.apple.com/us/itunes-u/programming-methodology/id384232896?mt=10) *(Note: teaches in Java)*  
-> *or*
-> [Stanford CS106a](https://web.stanford.edu/class/cs106a/index.html) *(Note: teaches in Python)*  
-> *or*  
-> [Harvard CS50x](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)  
-> *or*  
-> [UC Berkeley CS61A](https://cs61a.org/)
-
+#### 🟡 Intro to Computer Science
+[MIT 6.0001 Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 
 #### 🔴 Calculus 1A
 
