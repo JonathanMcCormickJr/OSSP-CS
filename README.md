@@ -41,6 +41,8 @@ Inspired by the [Open-Source Computer Science Degree](https://github.com/mvillal
 
 *** 
 
+
+
 ## 💛 Weather Stone Degree
 ≈ 2-years associate's degree
 
@@ -53,6 +55,9 @@ Inspired by the [Open-Source Computer Science Degree](https://github.com/mvillal
 * 🟢 PLSC 101: Intro to History and Political Science. Grade: S.
 * 🟢 PLSC 104: American Government. Grade: A.
 
+
+
+
 ### 🟩 Term 1
 **AU: Spring 2020**
 [View transcript.](https://user-images.githubusercontent.com/67705789/175010700-5a5efe9a-15c8-4ce0-9951-77e288bc2f6b.png)
@@ -62,10 +67,15 @@ Inspired by the [Open-Source Computer Science Degree](https://github.com/mvillal
 * 🟢 HONS 106H: Western Heritage (pt.2). Grade: P.
 * 🟢 STAT 285: Intro to Applied Statistics. Grade: A. 
 
+
+
+
 ### 🟩 Term 2
 **AU: Summer 2020**
 [View transcript.](https://user-images.githubusercontent.com/67705789/175010700-5a5efe9a-15c8-4ce0-9951-77e288bc2f6b.png)
 * MATH 145: Math for the (Mis)Information Age. Grade: B+. 
+
+
 
 
 ### 🟩 Term 3
@@ -77,7 +87,6 @@ if item NOT in andrewsUniversity && item.Date < 20220621 {
 }
 ```
 
-
 #### 🟢 Intro to the Python Programming Language
 
 [Sololearn: Python Core / Python3 Tutorial](https://www.sololearn.com/Certificate/1073-18087379/pdf/). Certificate #1073-18087379. Issued 18 July, 2020.
@@ -88,8 +97,6 @@ if item NOT in andrewsUniversity && item.Date < 20220621 {
 [Y Combinator: Startup School Certificate of Completion (link no longer maintainted by site)](https://www.startupschool.org/users/d-THGMio5cmz0w/certificate). Issued August 2020. 
 
 #### 🟢 Intro to HTML
-
-
 
 [Sololearn: HTML Fundamentals Course](https://www.sololearn.com/Certificate/1014-18087379/pdf/). Certificate #1014-18087379. Issued 06 August, 2020. 
 [View cert.](https://user-images.githubusercontent.com/67705789/175012570-aff7a440-b763-47de-b876-e19443a4532a.png)
@@ -137,6 +144,10 @@ if item NOT in andrewsUniversity && item.Date < 20220621 {
 [Reuters/Meta: Introduction to Digital Journalism](https://reutersdigitaljournalism.com/course_completed_certificate/129614.html?l=en). Completed May, 2022.
 [View cert.](https://user-images.githubusercontent.com/67705789/175014309-cec72208-9164-4b52-96c9-234431f72fcf.png)
 
+
+
+
+
 ### 🟨 Term 4
 **Self-study: Summer 2022 - ____**
 
@@ -158,6 +169,11 @@ https://www.startupschool.org/dashboard
 [MIT Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about). 
 
 
+#### 🟡 C Programming Language
+
+[Sololearn: C](https://www.sololearn.com/learning/1089).
+
+
 #### 🔴 Data Structures
 
 > [Stanford CS106B](https://web.stanford.edu/class/cs106b/)  
@@ -172,6 +188,7 @@ https://www.startupschool.org/dashboard
 > *or*  
 > [UC Berkeley CS61C](https://inst.eecs.berkeley.edu/~cs61c/archives)
 
+
 #### 🔴 Project: Build a useful Go app.
 Build multiple versions of the same app using the Go Programming Language. 
 1. Using Docker.
@@ -179,7 +196,11 @@ Build multiple versions of the same app using the Go Programming Language.
 3. Using Nanos/OPS.
 4. Using something else. 
 
+
+
 *** 
+
+
 
 ## ❤️ Fahrenheit Degree
 ≈ 4-years batchelor's degree
@@ -223,6 +244,7 @@ Pick 3 companies to apply to.
 > [UC San Diego edX](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x)
 
 
+
 ### 🟥 Term 6
 
 #### 🔴 Calculus 1C
@@ -261,6 +283,9 @@ Pick 3 companies to apply to.
 
 #### 🔴 Principles of Computing
 > [Rice University Coursera](https://www.coursera.org/course/principlescomputing1)
+
+
+
 
 ### 🟥 Term 7
 
@@ -301,6 +326,9 @@ Pick 3 companies to apply to.
 > [Carnegie Mellon 10-806](http://www.cs.cmu.edu/~ninamf/courses/806/)
 
 
+
+
+
 ### 🟥 Term 8
 
 #### 🔴 Electronic Materials and Devices
@@ -337,7 +365,13 @@ OR
 * Book event
 * Prep & send invites
 
+
+
+
 ***
+
+
+
 
 ## ❤️ Celsius Degree
 ≈ 6-years master's degree
@@ -357,21 +391,42 @@ OR
 #### 🔴 Engineering Ethics
 [MIT ESD.932 Engineering Ethics](https://ocw.mit.edu/courses/esd-932-engineering-ethics-spring-2006/)
 
+
+
+
 ### 🟥 Term 10
+
+
+
 
 ### 🟥 Term 11
 
+
+
+
 ### 🟥 Term 12
 
+
+
 *** 
+
+
 
 ## ❤️ Kelvin Degree
 
 ### 🟥 Term 13
 
+
+
 ### 🟥 Term 14
+
+
 
 ### 🟥 Term 15
 
+
+
 ### 🟥 Term 16
+
+
 
