@@ -149,9 +149,9 @@ if item NOT in andrewsUniversity && item.Date < 20220621 {
 
 
 ### 🟨 Term 4
-**Self-study: Summer 2022 - ____**
+**Self-study: Summer 2022**
 
-#### 🟡 Golang
+#### [🟡 Golang](/Term-04/golang)
 [Sololearn Go Course](https://www.sololearn.com/learning/1164).
 
 #### 🔴 YC Startup School Live
@@ -166,7 +166,11 @@ https://www.startupschool.org/dashboard
 
 #### 🔴 Calculus 1A
 
-[MIT Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about). 
+[MIT OLL: Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about). 
+
+...same as..
+
+[MIT OCW: 18.01SC: Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/)
 
 
 #### 🟡 C Programming Language
@@ -174,19 +178,14 @@ https://www.startupschool.org/dashboard
 [Sololearn: C](https://www.sololearn.com/learning/1089).
 
 
-#### 🔴 Data Structures
+#### 🔴 Computation Structures
 
-> [Stanford CS106B](https://web.stanford.edu/class/cs106b/)  
-> *or*  
-> [UC Berkeley CS61B](https://inst.eecs.berkeley.edu/~cs61b/archives.html)
+[MIT 6.004: Computation Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/syllabus/).
+
 
 #### 🔴 Computer Architecture
-
-> [Princeton Coursera](https://www.coursera.org/course/comparch)  
-> *or*  
-> [MIT 6.823](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-823-computer-system-architecture-fall-2005/)  
-> *or*  
-> [UC Berkeley CS61C](https://inst.eecs.berkeley.edu/~cs61c/archives)
+ 
+[MIT 6.823: Computer System Architecture](https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/pages/syllabus/).
 
 
 #### 🔴 Project: Build a useful Go app.
@@ -201,6 +200,7 @@ Build multiple versions of the same app using the Go Programming Language.
 *** 
 
 
+# NOTE TO SELF: EVERYTHING PAST THIS LINE NEEDS TO BE RE-EVALUATED USING THE TWO REPOS LINKED AT THE TOP OF THIS FILE. 
 
 ## ❤️ Fahrenheit Degree
 ≈ 4-years batchelor's degree
@@ -265,7 +265,7 @@ Pick 3 companies to apply to.
 
 #### 🔴 Computer System Engineering
 
-> [MIT 6.033](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2009/index.htm)
+> [MIT 6.033](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/)
 
 #### 🔴 Introduction to Embedded Systems and Real-Time Systems
 
