@@ -4,9 +4,6 @@
 #### [🟡 Golang](/Term-04/golang)
 [Sololearn Go Course](https://www.sololearn.com/learning/1164).
 
-#### 🔴 YC Startup School Live
-https://www.startupschool.org/dashboard
-
 
 #### 🔴 Write a 1000-word book report on "Computer Basics (1985)" by Time-Life Books
 
