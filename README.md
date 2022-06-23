@@ -42,4 +42,6 @@ Where applicable, subject notes, code snippets, etc. will generally have the fol
 
 [DATE YYYYMMDD]-[FILENAME].[EXTENSION]
 
+Example:
+
 `20220623-myProgram.go`
