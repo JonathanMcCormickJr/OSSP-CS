@@ -1,8 +1,7 @@
-# Term 04
+# 🟨 Term 04
+**Self-study: Summer 2022**
 
-**First term where I officially start this OSSP-CS program! Super excited**
-
-#### 🟡 Golang
+#### [🟡 Golang](/Term-04/golang)
 [Sololearn Go Course](https://www.sololearn.com/learning/1164).
 
 #### 🔴 YC Startup School Live
@@ -12,37 +11,32 @@ https://www.startupschool.org/dashboard
 #### 🔴 Write a 1000-word book report on "Computer Basics (1985)" by Time-Life Books
 
 
-#### 🔴 Intro to Computer Science
-
-> [Stanford CS101](https://web.stanford.edu/class/cs101/) *(Note: teaches in JavaScript)*  
-> *or*  
-> [Stanford CS106a](https://itunes.apple.com/us/itunes-u/programming-methodology/id384232896?mt=10) *(Note: teaches in Java)*  
-> *or*
-> [Stanford CS106a](https://web.stanford.edu/class/cs106a/index.html) *(Note: teaches in Python)*  
-> *or*  
-> [Harvard CS50x](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)  
-> *or*  
-> [UC Berkeley CS61A](https://cs61a.org/)
-
+#### 🟡 Intro to Computer Science
+[MIT 6.0001 Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 
 #### 🔴 Calculus 1A
 
-[MIT Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about). 
+[MIT OLL: Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about). 
+
+...same as..
+
+[MIT OCW: 18.01SC: Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/)
 
 
-#### 🔴 Data Structures
+#### 🟡 C Programming Language
 
-> [Stanford CS106B](https://web.stanford.edu/class/cs106b/)  
-> *or*  
-> [UC Berkeley CS61B](https://inst.eecs.berkeley.edu/~cs61b/archives.html)
+[Sololearn: C](https://www.sololearn.com/learning/1089).
+
+
+#### 🔴 Computation Structures
+
+[MIT 6.004: Computation Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/syllabus/).
+
 
 #### 🔴 Computer Architecture
+ 
+[MIT 6.823: Computer System Architecture](https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/pages/syllabus/).
 
-> [Princeton Coursera](https://www.coursera.org/course/comparch)  
-> *or*  
-> [MIT 6.823](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-823-computer-system-architecture-fall-2005/)  
-> *or*  
-> [UC Berkeley CS61C](https://inst.eecs.berkeley.edu/~cs61c/archives)
 
 #### 🔴 Project: Build a useful Go app.
 Build multiple versions of the same app using the Go Programming Language. 
@@ -50,3 +44,5 @@ Build multiple versions of the same app using the Go Programming Language.
 2. Using Kubernetes.
 3. Using Nanos/OPS.
 4. Using something else. 
+
+
