@@ -37,18 +37,3 @@ Inspired by the [Open-Source Computer Science Degree](https://github.com/mvillal
 
 [comment]: # ( Temperature names chosen from https://cryo.gsfc.nasa.gov/introduction/temp_scales.html)
 
-
-
-
-##
-*** 
-
-
-### 🟥 Term 15
-
-
-
-### 🟥 Term 16
-
-
-
