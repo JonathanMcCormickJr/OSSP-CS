@@ -1,7 +1,6 @@
 # Course Schedule
 
 * 🟦 = Go
-* 🟧 = Startup School
 * 🔖 = Book Report
 * 💾 = Intro to CS
 * 🧮 = Calc 1A
