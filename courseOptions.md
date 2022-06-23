@@ -193,7 +193,8 @@ OR
 [MIT ESD.932 Engineering Ethics](https://ocw.mit.edu/courses/esd-932-engineering-ethics-spring-2006/)
 
 
-
+#### 🔴 Startup School
+https://www.startupschool.org/dashboard
 
 ### 🟥 Term 10
 
