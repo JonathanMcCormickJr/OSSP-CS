@@ -1,1 +1,1 @@
-# Notes and code examples from Sololearn's Go course.
+# Notes and code examples of Go.
