@@ -324,6 +324,19 @@ OR
 
 [MIT 15.615 Law for the Entrepreneur and Manager](https://ocw.mit.edu/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/).
 
+#### 🔴 Project: Write letters to faculty
+1. Write a heartfelt message to MIT's OCW team about the impact that OCW has had on your ability to self-educate. 
+2. Send messages to each individual instructor that you learned under. 
+
+#### 🔴 Plan graduation ceremony
+* Get senior photos. Make them awesome! :)
+* Plan a ceremony.
+  *  Speech
+  *  Tribute to family, faculty, etc.
+  *  Degree presentation
+* Book event
+* Prep & send invites
+
 ***
 
 ## ❤️ Celsius Degree
@@ -341,6 +354,8 @@ OR
 
 [MIT ESD.72 Engineering Risk-Benefit Analysis](https://ocw.mit.edu/courses/esd-72-engineering-risk-benefit-analysis-spring-2007/).
 
+#### 🔴 Engineering Ethics
+[MIT ESD.932 Engineering Ethics](https://ocw.mit.edu/courses/esd-932-engineering-ethics-spring-2006/)
 
 ### 🟥 Term 10
 
