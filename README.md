@@ -13,27 +13,27 @@ Inspired by the [Open-Source Computer Science Degree](https://github.com/mvillal
 
 
 ## Table of Contents
-### [💛 "Weather Stone Degree" (≈ 2-years associate's degree)](#-weather-stone-degree)
-* [🟩 Term 0](#-term-0)
-* [🟩 Term 1](#-term-1)
-* [🟩 Term 2](#-term-2)
-* [🟩 Term 3](#-term-3)
-* [🟨 Term 4](#-term-4)
-### [❤️ "Fahrenheit Degree" (≈ 4-years batchelor's degree)](#%EF%B8%8F-fahrenheit-degree)
-* [🟥 Term 5](#-term-5)
-* [🟥 Term 6](#-term-6)
-* [🟥 Term 7](#-term-7)
-* [🟥 Term 8](#-term-8)
-### [❤️ "Celsius Degree" (≈ 6-years master's degree)](#%EF%B8%8F-celsius-degree)
-* [🟥 Term 9](#-term-9)
-* [🟥 Term 10](#-term-10)
-* [🟥 Term 11](#-term-11)
-* [🟥 Term 12](#-term-12)
-### [❤️ "Kelvin Degree" (≈ 8-years doctor's degree)](#%EF%B8%8F-kelvin-degree)
-* [🟥 Term 13](#-term-13)
-* [🟥 Term 14](#-term-14)
-* [🟥 Term 15](#-term-15)
-* [🟥 Term 16](#-term-16)
+### 💛 "Weather Stone Degree" (≈ 2-years associate's degree)
+* [🟩 Term 0](/Term-00)
+* [🟩 Term 1](/Term-01)
+* [🟩 Term 2](/Term-02)
+* [🟩 Term 3](/Term-03)
+* [🟨 Term 4](/Term-04)
+### ❤️ "Fahrenheit Degree" (≈ 4-years batchelor's degree)
+* [🟥 Term 5](/Term-05)
+* [🟥 Term 6](/Term-06)
+* [🟥 Term 7](/Term-07)
+* [🟥 Term 8](/Term-08)
+### ❤️ "Celsius Degree" (≈ 6-years master's degree)
+* [🟥 Term 9](/Term-09)
+* [🟥 Term 10](/Term-10)
+* [🟥 Term 11](/Term-11)
+* [🟥 Term 12](/Term-12)
+### ❤️ "Kelvin Degree" (≈ 8-years doctor's degree)
+* [🟥 Term 13](/Term-13)
+* [🟥 Term 14](/Term-14)
+* [🟥 Term 15](/Term-15)
+* [🟥 Term 16](/Term-16)
 
 [comment]: # ( Temperature names chosen from https://cryo.gsfc.nasa.gov/introduction/temp_scales.html)
 
@@ -43,21 +43,10 @@ Inspired by the [Open-Source Computer Science Degree](https://github.com/mvillal
 
 
 
-## 💛 Weather Stone Degree
-≈ 2-years associate's degree
 
 
 
-
-
-### 🟩 Term 1
-**AU: Spring 2020**
-[View transcript.](https://user-images.githubusercontent.com/67705789/175010700-5a5efe9a-15c8-4ce0-9951-77e288bc2f6b.png)
-* 🟢 BSAD 341: Business Law. Grade: A-.
-* 🟢 COMM 280: Voice & Diction. Grade: A.
-* 🟢 FTES 135: Self-Defense. Grade: A. 
-* 🟢 HONS 106H: Western Heritage (pt.2). Grade: P.
-* 🟢 STAT 285: Intro to Applied Statistics. Grade: A. 
+##
 
 
 
