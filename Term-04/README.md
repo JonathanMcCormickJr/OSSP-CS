@@ -60,6 +60,6 @@ Build multiple versions of the same app using the Go Programming Language.
 Hours est: 200 
 
 
-#### [🔴 Project1: Get an internship in tech.](/apply4Interships)
+#### [🔴 Project1: Get an internship in tech.](/apply4Interships.md)
 
 
