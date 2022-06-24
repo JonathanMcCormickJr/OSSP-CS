@@ -49,7 +49,8 @@ Hours est: 96
 
 Hours est: 114
 
-#### 🔴 Project: Build a useful Go app.
+#### 🔴 Project0: Build a useful Go app.
+
 Build multiple versions of the same app using the Go Programming Language. 
 1. Using Docker.
 2. Using Kubernetes.
@@ -57,3 +58,8 @@ Build multiple versions of the same app using the Go Programming Language.
 4. Using something else. 
 
 Hours est: 200 
+
+
+#### [🔴 Project1: Get an internship in tech.](/apply4Interships)
+
+
