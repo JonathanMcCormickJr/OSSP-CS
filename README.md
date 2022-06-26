@@ -45,3 +45,9 @@ Where applicable, subject notes, code snippets, etc. will generally have the fol
 ### Example:
 
 `20220623-myProgram.go`
+
+## Academic Honesty
+
+If you are a student who is interested in using my notes for your own study, please first check to make sure you do not violate your own institution's academic honesty policies by using my notes, which may include answers to graded and ungraded problems.
+
+Of course, as long as your academic authorities allow it, you are welcome to use this repo as a resource for your own learning, subject to the included [LICENSE](LICENSE).
