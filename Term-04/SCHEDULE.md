@@ -1,5 +1,5 @@
-# Course Schedule
-
+# Term Schedule
+## Classes
 * 🟦x3 = Go
 * 📓x2 = Book Report
 * 🖥️x2 = Intro to CS
@@ -8,6 +8,9 @@
 * 🏗️x7 = Computation Structures
 * 📐x8 = Computer Architecture 
 * 💡x14 = Project 
+
+## Work
+* 🔨 = Work
 
 
 ~56 hrs total that I want to study each week
@@ -34,3 +37,6 @@ TOTAL per day: 8 hrs
 | 14:00-14:55 | 💡        |  🟦       | margin    |  📓       |  📓       |  🏗️        |           |
 | 15:00-15:55 | 💡        |  🟦       |  🖥️       |  🇨       |   🇨      |  🏗️         |           |
 | 16:00-16:55 | 💡        |  🟦       |  🖥️       |  🇨       |   🇨      |  🏗️         |           |
+| 17:00-17:55 | Dinner    | Dinner    | Dinner    | Dinner    | Dinner    | Dinner    | Dinner    |
+| 18:00-18:55 | 🔨        | 🔨        | 🔨        | 🔨        | 🔨        | 🔨        | 🔨        |
+| 19:00-19:55 | 🔨        | 🔨        | 🔨        | 🔨        | 🔨        | 🔨        | 🔨        |
