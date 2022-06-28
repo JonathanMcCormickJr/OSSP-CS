@@ -9,9 +9,6 @@
 * 📐x8 = Computer Architecture 
 * 💡x14 = Project 
 
-## Work
-* 🔨 = Work
-
 
 ~56 hrs total that I want to study each week
 07:00-11:55 = 5 hrs
@@ -21,6 +18,10 @@ TOTAL per day: 8 hrs
 
 
 200+114+96+50+303+18+20+28 = 829 hrs per this term.
+
+
+## Work
+* 🔨 = Work
 
 
 |             | Sunday    | Monday    | Tuesday   | Wednesday | Thursday  | Friday    | Saturday   |
