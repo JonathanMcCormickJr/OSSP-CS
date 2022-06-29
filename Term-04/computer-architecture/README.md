@@ -14,7 +14,7 @@ Calendar Legend
 
 SES #, 	TOPICS,  	KEY DATES
 
-🔴 L1 	History of Calculation and Computer Architecture (A) 	Self-assessment test (A)
+🟡 L1 	History of Calculation and Computer Architecture (A) 	Self-assessment test (A)
 
 🔴 L2 	Influence of Technology and Software on Instruction Sets: Up to the Dawn of IBM 360 (A) 	
 
