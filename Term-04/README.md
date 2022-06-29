@@ -29,6 +29,15 @@
 * Actual:   
 
 
+#### [🔴 Computation Structures](./computation-structures)
+
+[MIT 6.004: Computation Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/syllabus/).
+
+##### Hours 
+* Estimated: 96
+* Actual:   
+
+
 #### [🔴 Computer Architecture](./computer-architecture)
  
 [MIT 6.823: Computer System Architecture](https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/pages/syllabus/).
@@ -37,13 +46,6 @@
 * Estimated: 114
 * Actual:   
 
-#### [🔴 Computation Structures](./computation-structures)
-
-[MIT 6.004: Computation Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/syllabus/).
-
-##### Hours 
-* Estimated: 96
-* Actual:   
 
 
 #### [🟡 Golang](./golang)
