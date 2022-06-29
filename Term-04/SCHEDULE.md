@@ -1,13 +1,13 @@
 # Term Schedule
 ## Classes
-* 🟦x3 = Go
-* 📓x2 = Book Report
-* 🖥️x2 = Intro to CS
-* 🧮x19 = Calc 1A
-* 🇨x4 = C
-* 🏗️x7 = Computation Structures
-* 📐x8 = Computer Architecture 
-* 💡x14 = Project 
+* 🇨x4 = [C](./c-language)
+* 🧮x19 = [Calc 1A](./calculus-1A)
+* 🏗️x7 = [Computation Structures](./computation-structures)
+* 📐x8 = [Computer Architecture](./computer-architecture)
+* 📓x2 = [Book Report](./book-report)
+* 🖥️x2 = [Intro to CS](./intro-cs)
+* 🟦x3 = [Go](./golang)
+* 💡x14 = Projects ([Project0](./project0), [Project1](./project1))
 
 
 ~56 hrs total that I want to study each week
