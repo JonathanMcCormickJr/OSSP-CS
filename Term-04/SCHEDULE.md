@@ -1,6 +1,6 @@
 # Term Schedule
 ## Classes
-* 🇨x4 = [C](./c-language)
+* 🇨x4 = [C Programming Language](./c-language)
 * 🧮x19 = [Calc 1A](./calculus-1A)
 * 🏗️x7 = [Computation Structures](./computation-structures)
 * 📐x8 = [Computer Architecture](./computer-architecture)
