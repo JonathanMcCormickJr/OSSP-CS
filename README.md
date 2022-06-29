@@ -40,7 +40,7 @@ Inspired by the [Open-Source Computer Science Degree](https://github.com/mvillal
 ## A word on file naming conventions
 Where applicable, subject notes, code snippets, etc. will generally have the following naming convention. This is to preserve a sense of organization regarding my progress.  
 
-[DATE YYYYMMDD]-[FILENAME].[EXTENSION]
+[DATE CREATED YYYYMMDD]-[FILENAME].[EXTENSION]
 
 ### Example:
 
