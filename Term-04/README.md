@@ -8,7 +8,7 @@
 * Actual:   
 
 
-#### [🟡 C Programming Language](./c)
+#### [🟡 C Programming Language](./c-language)
 
 [Sololearn: C](https://www.sololearn.com/learning/1089).
 
