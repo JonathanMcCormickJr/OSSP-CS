@@ -1,27 +1,20 @@
 # 🟨 Term 04
 **Self-study: Summer 2022**
 
-#### [🟡 Golang](/Term-04/golang)
-[Sololearn Go Course](https://www.sololearn.com/learning/1164).
-
-##### Hours 
-* Estimated: 28
-* Actual:    
-
-#### 🔴 Write a 1000-word book report on "Computer Basics (1985)" by Time-Life Books
+#### 🟡 Book Report: Write a 1000-word book report on "Computer Basics (1985)" by Time-Life Books
 
 ##### Hours 
 * Estimated: 20
 * Actual:   
 
 
-#### 🟡 Intro to Computer Science
-[MIT 6.0001 Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+#### [🟡 C Programming Language](./c)
+
+[Sololearn: C](https://www.sololearn.com/learning/1089).
 
 ##### Hours 
-* Estimated: 18
+* Estimated: 50
 * Actual:   
-
 
 #### 🔴 Calculus 1A
 
@@ -35,12 +28,13 @@
 * Estimated: 303
 * Actual:   
 
-#### [🟡 C Programming Language](./c)
 
-[Sololearn: C](https://www.sololearn.com/learning/1089).
+#### 🔴 Computer Architecture
+ 
+[MIT 6.823: Computer System Architecture](https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/pages/syllabus/).
 
 ##### Hours 
-* Estimated: 50
+* Estimated: 114
 * Actual:   
 
 #### 🔴 Computation Structures
@@ -51,13 +45,23 @@
 * Estimated: 96
 * Actual:   
 
-#### 🔴 Computer Architecture
- 
-[MIT 6.823: Computer System Architecture](https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/pages/syllabus/).
+
+#### [🟡 Golang](/Term-04/golang)
+[Sololearn Go Course](https://www.sololearn.com/learning/1164).
 
 ##### Hours 
-* Estimated: 114
+* Estimated: 28
+* Actual:    
+
+
+#### 🟡 Intro to Computer Science
+[MIT 6.0001 Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+
+##### Hours 
+* Estimated: 18
 * Actual:   
+
+
 
 #### 🔴 Project0: Build a useful Go app.
 
