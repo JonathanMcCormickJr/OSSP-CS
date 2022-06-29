@@ -1,7 +1,7 @@
 # 🟨 Term 04
 **Self-study: Summer 2022**
 
-#### 🟡 Book Report: Write a 1000-word book report on "Computer Basics (1985)" by Time-Life Books
+#### [🟡 Book Report: Write a 1000-word book report on "Computer Basics (1985)" by Time-Life Books](./book-report)
 
 ##### Hours 
 * Estimated: 20
@@ -16,7 +16,7 @@
 * Estimated: 50
 * Actual:   
 
-#### 🔴 Calculus 1A
+#### [🔴 Calculus 1A](./calculus-1A)
 
 [MIT OLL: Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about). 
 
@@ -29,7 +29,7 @@
 * Actual:   
 
 
-#### 🔴 Computer Architecture
+#### [🔴 Computer Architecture](./computer-architecture)
  
 [MIT 6.823: Computer System Architecture](https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/pages/syllabus/).
 
@@ -37,7 +37,7 @@
 * Estimated: 114
 * Actual:   
 
-#### 🔴 Computation Structures
+#### [🔴 Computation Structures](./computation-structures)
 
 [MIT 6.004: Computation Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/syllabus/).
 
@@ -46,7 +46,7 @@
 * Actual:   
 
 
-#### [🟡 Golang](/Term-04/golang)
+#### [🟡 Golang](./golang)
 [Sololearn Go Course](https://www.sololearn.com/learning/1164).
 
 ##### Hours 
@@ -54,7 +54,7 @@
 * Actual:    
 
 
-#### 🟡 Intro to Computer Science
+#### [🟡 Intro to Computer Science](./intro-cs)
 [MIT 6.0001 Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 
 ##### Hours 
@@ -63,7 +63,7 @@
 
 
 
-#### 🔴 Project0: Build a useful Go app.
+#### 🔴 [Project0: Build a useful Go app.](./project0)
 
 Build multiple versions of the same app using the Go Programming Language. 
 1. Using Docker.
@@ -75,7 +75,7 @@ Build multiple versions of the same app using the Go Programming Language.
 * Estimated: 200
 * Actual:   
 
-#### [🔴 Project1: Get an internship in tech.](./apply4Internships.md)
+#### [🔴 Project1: Get an internship in tech.](./project1)
 
 ##### Hours 
 * Estimated: 50
