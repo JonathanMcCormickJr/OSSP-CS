@@ -11,12 +11,12 @@
 |Success| ✔️ |
 
 ### Companies
-* ❌ Company0: Na*****
-* Company1: L***
+* ❌ Company0: Na***** (SF)
+* Company1: L*** (remote)
 * Company2: Tr****
 * Company3: Fa*********
-* Company4: Ase************
-* Company5:
+* Company4: Ase************ (Bville)
+* Company5: Jack*** T******** (Tul)
 
 ### Job Types
 * Software developer
