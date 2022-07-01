@@ -14,7 +14,7 @@
 07:00-11:55 = 5 hrs
 13:00-15:55 = 3 hrs
 
-TOTAL per day: 8 hrs
+TOTAL per day: 10 hrs
 
 
 200+114+96+50+303+18+20+28 = 829 hrs per this term.
