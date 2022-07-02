@@ -51,7 +51,7 @@ If you are a student who is interested in using my notes for your own study, ple
 
 Of course, as long as your academic authorities allow it, you are welcome to use this repo as a resource for your own learning, subject to the included [LICENSE](LICENSE).
 
-## Acknoledgements
+## Acknowledgements
 
 Special thanks to everyone who helped make this education journey possible for me, including 
 
@@ -60,4 +60,5 @@ Special thanks to everyone who helped make this education journey possible for m
 * Sololearn, 
 * HTB Academy, 
 * freeCodeCamp, 
+* my high school teachers at Maplewood Academy,
 * et al.
