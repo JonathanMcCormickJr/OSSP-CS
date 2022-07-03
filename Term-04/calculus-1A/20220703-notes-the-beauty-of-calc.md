@@ -45,6 +45,17 @@ AKA "THE MATH OF CHANGE".
 
 
 
+## pi r^2 comes to us from calc using the Infinity Principle
+
+Loose example (chill, y'all)
+
+![image](https://user-images.githubusercontent.com/67705789/177059838-345098a2-8499-44f4-b3d7-bc24ce59daec.png)
+
+![image](https://user-images.githubusercontent.com/67705789/177059878-6225216e-4609-4130-b059-a22745b37187.png)
+
+![image](https://user-images.githubusercontent.com/67705789/177059864-d3eed8ea-e48a-44ea-92ae-245d73c5141b.png)
+ 
+
 
 
 
