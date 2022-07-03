@@ -35,7 +35,7 @@ subdivisible??" Hmm
 
 
 
-Big things in calc
+## Big things in calc
 1. curves 
 2. motion
 3. change
@@ -55,7 +55,20 @@ Loose example (chill, y'all)
 
 ![image](https://user-images.githubusercontent.com/67705789/177059864-d3eed8ea-e48a-44ea-92ae-245d73c5141b.png)
  
+Note: Things get clearer at infinity.
 
+*** 
 
+Archimedes 
+
+4:3 
+
+![image](https://user-images.githubusercontent.com/67705789/177060079-93dc2ae7-390c-4807-96c6-467fa7a7c9b0.png)
+
+![image](https://user-images.githubusercontent.com/67705789/177060091-4aa3dec6-5d40-4b7e-adf5-553454d8c7c5.png)
+
+![image](https://user-images.githubusercontent.com/67705789/177060106-310cda80-807f-46bd-bdec-e27e2374bd01.png)
+
+Infinite series. 
 
 
