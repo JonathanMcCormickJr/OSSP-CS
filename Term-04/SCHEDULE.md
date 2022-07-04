@@ -30,10 +30,6 @@ TOTAL per day: 10 hrs
 
 
 
-# Unallocated blocks
-
-
-
 |             | Sunday    | Monday    | Tuesday   | Wednesday | Thursday  | Friday    | Saturday   |
 | ----------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | 05:00-05:55 |  🧮        |   🧮      |    🧮     |  🧮       |   🧮      |   🧮      | 🕘        |
