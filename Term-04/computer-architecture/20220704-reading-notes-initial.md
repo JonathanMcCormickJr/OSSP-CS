@@ -35,3 +35,86 @@ For this book, computer design issues will be address and tradeoffs will be eval
 
 ### 1.1 Early Computational Devices
 
+Necessity is the mother of invention.
+
+Computers were created to solve math problems. 
+
+As techniques were explored, new ideas continued to emerge. 
+
+The computers that we have are constantly being adapted and expanded to perform more tasks. 
+
+#### Blaise Pascal's ~1642 mechanical counter
+
+Could
+* add
+* subtract
+
+Used a wheel for each digit and rotated wheels to add/subtract.
+
+#### Gottfried Leibniz's 1671 mechanical calculating system
+
+Could
+* add 
+* subtract
+* multiplication
+* division
+
+Arguably the first 4-function calculator.
+
+#### Jacquard Loom 1801
+
+Weaving machine with patterns determined by punched cards
+
+#### Charles Babbage's ~1823 Difference Engine
+
+Could 
+* generate math tables via addition
+
+#### Babbage & Lovelace's never-fully-built Analytical Engine
+
+* Very similar to modern computers
+* Used punched cards
+
+{Operation Cards}  {Variable Cards}
+
+  went to ~~~~~~~~ went to 
+
+{The Mill (ALU)} <-data-> {The Store (Memory)} --> {Printer & Card Punch}
+
+
+
+#### 1890 US Census 
+
+Herman Hollerith's card tabulating machine was used to process census data. 
+
+1911 - Hollerith forms Tabulating Machine Company, which eventually joined forces with others
+to form IBM.
+
+Card systems have a hayday.
+
+#### Konrad Zuse, late 1930s
+
+* Created several models of electromechanical computational systems
+* Mechanical relay
+* Binary number system
+* Z1 was first model.
+* Z3 (completed in 1941)
+  * Perhaps the first program-controlled general-purpose computer.
+  * Input via punched tape
+* Most machines destroyed during bombing of Berlin.
+* Despite later support from IBM & Remington Rand, his efforts did not have huge influence on later computer developments.
+
+#### Howard Aiken 
+
+* 1939 dev started 
+* 1944 Mark I became operational 
+* Info stored in wheels like Babbage's machines
+* Computational system made of relays
+* Could store 72 23-digit decimal nums.
+* instructions were fed via punched paper tape. 
+
+####
+
+
+
+
