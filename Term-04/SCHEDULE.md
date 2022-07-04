@@ -9,7 +9,7 @@
 * 🟦x3 = [Go](./golang)
 * 💡x13 = Projects ([Project0](./project0), [Project1](./project1))
 
-
+<!--
 ~56 hrs total that I want to study each week
 07:00-11:55 = 5 hrs
 13:00-15:55 = 3 hrs
@@ -19,6 +19,7 @@ TOTAL per day: 10 hrs
 
 200+114+96+50+303+18+20+28 = 829 hrs per this term.
 
+--> 
 
 ## Work
 * 🔨x14 = Work
