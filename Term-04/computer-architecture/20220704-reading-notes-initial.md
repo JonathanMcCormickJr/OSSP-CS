@@ -113,8 +113,19 @@ Card systems have a hayday.
 * Could store 72 23-digit decimal nums.
 * instructions were fed via punched paper tape. 
 
-####
+#### John V. Atanasoff's machine 1937-42
 
+* Perhaps 1st electronic computer system.
+* performed gaussian elimination solutions for sets of equations.
+* Totally electronic.
+* Used capacitors (RAM-style) to store info with semiconductor tech.
+* Binary number system
+* separate logic, memory, and I/O portions.
+* The punched card I/O system gave an error ~1/10,000 operations. This was bad (duh).
+* WWII halted progress on this particular computer.
+
+
+### 1.2 The Computer Generations: Technology and Innovation
 
 
 
