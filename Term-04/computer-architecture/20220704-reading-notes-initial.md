@@ -127,5 +127,11 @@ Card systems have a hayday.
 
 ### 1.2 The Computer Generations: Technology and Innovation
 
+A useful way to view the computer systems evolution is to group them into "Generations", as shown below.
+
+Each generation shares not only some sense of time period in history, but also of computing capabilities and characteristics. 
+
+#### 1.2.1 The first generation (??-1953)
+
 
 
