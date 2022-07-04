@@ -6,6 +6,10 @@ https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/pages/s
 
 This course is a study of the evolution of computer architecture and the factors influencing the design of hardware and software elements of computer systems. Topics may include: instruction set design; processor micro-architecture and pipelining; cache and virtual memory organizations; protection and sharing; I/O and interrupts; in-order and out-of-order superscalar architectures; VLIW machines; vector supercomputers; multithreaded architectures; symmetric multiprocessors; memory models and synchronization; embedded systems; and parallel computers.
 
+## Textbook
+
+**Computer Design and Architecture** by L. Howard Pollard (1990)
+
 ## Calendar
 
 The calendar below provides information on the course’s lecture (L), tutorial (T), and quiz (Q) sessions.
