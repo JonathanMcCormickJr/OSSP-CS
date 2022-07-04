@@ -80,4 +80,33 @@ Also, computer generated imaging has enabled physicians to simulate appearance r
 
 All the classical curves of the Greeks (cone slices) can now be thought of as equations.
 
-You can approximate curvy things with straight things. 
+![image](https://user-images.githubusercontent.com/67705789/177133140-a8608cda-b244-471a-9b33-b844710d39c8.png)
+
+You can approximate curvy things with straight things. (local linearization. Infinity Principle).
+
+![image](https://user-images.githubusercontent.com/67705789/177133237-fda71755-8873-4856-bb58-08d284c4f1a4.png)
+
+
+Curves can represent motion and change. 
+
+
+
+Calc sometimes makes use of "Creative Fantasies" for the sake of problem-solving. 
+
+Example:
+![image](https://user-images.githubusercontent.com/67705789/177134342-96c2006a-2c23-41f3-80f6-44e0ff3ad6c3.png)
+
+Usain Bolt's (Berlin) speed over time. The ups and downs of his instantaneous speed show his individual strides, while the average speed shows us the trend. 
+
+Lesson: even if calc might fail at the microscopic level, it can still be useful at helping us get the big picture. 
+
+![image](https://user-images.githubusercontent.com/67705789/177134959-bb19406a-2e29-4684-aa29-2c718b4faf8a.png)
+
+
+
+
+
+
+
+
+
