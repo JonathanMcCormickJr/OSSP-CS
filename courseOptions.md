@@ -3,6 +3,11 @@
 
 **Be sure and add the appropriate courses to the appropriate folders as you go along. This file is basically just a dump of ideas.**
 
+## Anytime
+
+#### 🔴 CCNA
+[NetworkChuck Free CCNA Training](https://youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P)
+
 ## ❤️ Fahrenheit Degree
 ≈ 4-years batchelor's degree
 
