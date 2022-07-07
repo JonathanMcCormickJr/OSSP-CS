@@ -8,6 +8,9 @@
 #### 🔴 CCNA
 [NetworkChuck Free CCNA Training](https://youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P)
 
+#### 🔴 Solidity
+BOOK: Hands-On Smart Contract Development with Solidity and Ethereum 
+
 ## ❤️ Fahrenheit Degree
 ≈ 4-years batchelor's degree
 
