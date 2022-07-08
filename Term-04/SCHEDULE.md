@@ -1,4 +1,6 @@
 # Term Schedule
+NOTE: On vacay from 8-17 July y'all.
+
 ## Classes
 * 🇨x4 = [C Programming Language](./c-language)
 * 🧮x19 = [Calc 1A](./calculus-1A)
