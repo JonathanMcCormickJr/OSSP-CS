@@ -12,24 +12,30 @@ Inspired by the [Open-Source Computer Science Degree](https://github.com/mvillal
 
 
 ## Table of Contents
-### 💛 "Weather Stone Degree" (≈ 2-years associate's degree)
-#### Named after the ["Weather Stone"](https://en.wikipedia.org/wiki/Weather_rock), a primitive form of meteorological measurement based mostly on the intuitive perception of the reader.  
+### 💛 "Weatherstone Degree" (≈ 2-years associate's degree)
+#### Named after the ["Weather Stone"](https://en.wikipedia.org/wiki/Weather_rock), a primitive tool for meteorological measurement based mostly on the intuitive perception of the reader.  
 * [🟩 Term 0: Andrews University: Fall 2019](/Term-00)
 * [🟩 Term 1: Andrews University: Spring 2020](/Term-01)
 * [🟩 Term 2: Andrews University: May 2020](/Term-02)
 * [🟩 Term 3: Sololearn, Hack the Box Academy, edX, et al: Summer 2020 - Spring 2022](/Term-03)
 * [🟨 Term 4: MIT OCW, Sololearn: Summer 2022](/Term-04)
+
 ### ❤️ "Fahrenheit Degree" (≈ 4-years batchelor's degree)
+#### Named after the [Fahrenheit scale](https://en.wikipedia.org/wiki/Fahrenheit) for measuring temperature (used mostly by the Americans), where the melting point of purified water ice is ~32 °F (31.9998 °F) and the boiling point of water is ~212 °F (211.971 °F). 
 * [🟥 Term 5](/Term-05)
 * [🟥 Term 6](/Term-06)
 * [🟥 Term 7](/Term-07)
 * [🟥 Term 8](/Term-08)
+
 ### ❤️ "Celsius Degree" (≈ 6-years master's degree)
+#### Named after the [Celsius scale](https://en.wikipedia.org/wiki/Celsius) for measuring temperature (used mostly by the rest of the world), where the melting point of purified water ice is ~0 °C (−0.0001 °C) and the boiling point of water is ~100 °C (99.9839 °C). 
 * [🟥 Term 9](/Term-09)
 * [🟥 Term 10](/Term-10)
 * [🟥 Term 11](/Term-11)
 * [🟥 Term 12](/Term-12)
+
 ### ❤️ "Kelvin Degree" (≈ 8-years doctor's degree)
+#### Named after the [Kelvin scale](https://en.wikipedia.org/wiki/Kelvin) for measuring temperature (increments between points are ≈ to those of Celsius), but where absolute zero is 0 K (exact), the melting point of purified water ice is ~273 K (273.1499 K) and the boiling point of water is ~373 K (373.1339 K). 
 * [🟥 Term 13](/Term-13)
 * [🟥 Term 14](/Term-14)
 * [🟥 Term 15](/Term-15)
