@@ -13,6 +13,7 @@ Inspired by the [Open-Source Computer Science Degree](https://github.com/mvillal
 
 ## Table of Contents
 ### 💛 "Weather Stone Degree" (≈ 2-years associate's degree)
+#### Named after the ["Weather Stone"](https://en.wikipedia.org/wiki/Weather_rock), a primitive form of meteorological measurement based mostly on the intuitive perception of the reader.  
 * [🟩 Term 0: Andrews University: Fall 2019](/Term-00)
 * [🟩 Term 1: Andrews University: Spring 2020](/Term-01)
 * [🟩 Term 2: Andrews University: May 2020](/Term-02)
