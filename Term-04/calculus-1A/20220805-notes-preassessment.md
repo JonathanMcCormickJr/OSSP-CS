@@ -1,6 +1,6 @@
 # Pre-assessment notes on precalc review test.
 
-## Algebra
+## Algebra .7/1
 
 If `4x + ay = 7` AND `y` is used to represent a function of `x`, then `a ≠  0`
 
@@ -12,3 +12,8 @@ Why? Because if you isolate y on one side, it requires you to divide both sides 
 
 ***
 
+### You need to learn more about matrices
+
+## Geometry 1/1
+
+## Trig x/1
