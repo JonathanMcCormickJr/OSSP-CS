@@ -1,6 +1,12 @@
 # 🚀 My Open-Source Study Path — Computer Science (OSSP-CS)
 
+## Intro
+
 Inspired by the [Open-Source Computer Science Degree](https://github.com/mvillaloboz/open-source-cs-degree) and [Open Source Society University](https://github.com/ossu/computer-science), this project aims to document my path toward becoming at least as knowledgable and competent in the field of Computer Science as a person with 2-years, 4-years, 6-years, and 8-years CS degrees, respectively. The following document outlines my study resources used. The groupings by Term are meant to pace and structure the course more or less according to a typical Computer Science track at a college or university. The focus is on the core Computer Science courses. While liberal arts or "GenEd" courses may be included (especially during my year at Andrews University), my overall goal is to become proficient in CS specifically.
+
+## Why did I make OSSP-CS?
+
+This project is for me to document my personal journey as a self-directed student of computer science. I recognize that the traditional college experience has lots of pros and cons. One of the pros is a sense of structure. That is something that I want to bring here. 
 
 ## Key:
 
@@ -56,7 +62,7 @@ Where applicable, subject notes, code snippets, etc. will generally have the fol
 
 If you are a student who is interested in using my notes for your own study, please first check to make sure you do not violate your own institution's academic honesty policies by using my notes, which may include answers to graded and ungraded problems.
 
-Of course, as long as your academic authorities allow it, you are welcome to use this repo as a resource for your own learning, subject to the included [LICENSE](LICENSE).
+Of course, as long as your academic authorities allow it, you are welcome to use this repo as a resource for your own learning, subject to the included [LICENSE](LICENSE). 
 
 ## Acknowledgements
 
