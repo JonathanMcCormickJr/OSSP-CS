@@ -7,3 +7,5 @@ Course link https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+
 https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 
 https://openlearninglibrary.mit.edu/tos
+
+(ARCHIVE) https://web.archive.org/web/20220719211235/https://openlearninglibrary.mit.edu/tos
