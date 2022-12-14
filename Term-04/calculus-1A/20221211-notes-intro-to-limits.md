@@ -3,6 +3,9 @@
 
 ![image](https://user-images.githubusercontent.com/67705789/206933482-3550db55-5dcf-4a6c-943e-aacd4531d5ba.png)
 
+![image](https://user-images.githubusercontent.com/67705789/207736194-c87280b2-a95c-40e4-87ea-4ee77c810c01.png)
+
+[WikiPedia Article on Derivatives](https://en.wikipedia.org/wiki/Derivative) [CC BY-SA 3.0](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License) 
 
 ![image](https://user-images.githubusercontent.com/67705789/206933489-a387ddaa-7303-43ca-940b-e60dd92d8202.png)
 
