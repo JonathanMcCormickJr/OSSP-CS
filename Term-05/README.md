@@ -1,6 +1,10 @@
 # Term 05
 
 
+## Book report ideas
+
+* Mother Nature by Hrdy
+
 ## Electives
 
 1. https://nationbuilder.com/course_how_to_run_for_office/?recruiter_id=969659
