@@ -54,6 +54,10 @@ Now, let's try adding in binary.
 
 So as we can see, any natural number can be represented in binary as well as decimal. 
 
+Using these, we can arbitrarily assign letters to certain binary number values. The American Standard Code for Information Interchange (ASCII) is one such system for doing so. Unicode integrated ASCII, along with other systems to be able to represent other language characters, etc.
+
+Logic gates were developed in order to perform certain operations on information: AND, OR, and NOT. 
+
 ### 3. A Wartime Burst of Progress
 ### 4. Evolution of the Microchip
 ### 5. A Golden Age of Entrepreneurship
