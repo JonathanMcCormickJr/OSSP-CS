@@ -11,8 +11,29 @@
 #### 🔴 CCNA
 [NetworkChuck Free CCNA Training](https://youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P)
 
+#### 🔴 History of Motherhood
+BOOK: Mother Nature: A history of mothers, infants, and natural selection.
+
+#### 🔴 Libertarianism in History
+[MIT OCW: Libertarianism in History](https://ocw.mit.edu/courses/21h-181-libertarianism-in-history-spring-2014/)
+
+#### 🔴 Make Almost Anything
+[MIT OCW: How to Make (almost) anything](https://ocw.mit.edu/courses/mas-863-how-to-make-almost-anything-fall-2002/)
+
+#### 🔴 Paradise Lost
+[MIT OCW](https://ocw.mit.edu/courses/21l-995-special-topics-in-literature-miltons-paradise-lost-january-iap-2008/)
+
+#### 🔴 Reproductive Biology
+[MIT OCW: HST.071: Human Reproductive Biology](https://ocw.mit.edu/courses/hst-071-human-reproductive-biology-fall-2005/)
+
+#### 🔴 Revolution
+[MIT OCW: How to Stage a Revolution](https://ocw.mit.edu/courses/21h-001-how-to-stage-a-revolution-fall-2013/)
+
 #### 🔴 Solidity
 BOOK: Hands-On Smart Contract Development with Solidity and Ethereum 
+
+#### 🔴 Sperm
+[MIT OCW: The Science of Sperm](https://ocw.mit.edu/courses/7-345-the-science-of-sperm-fall-2014/)
 
 ## ❤️ Fahrenheit Degree
 ≈ 4-years batchelor's degree
