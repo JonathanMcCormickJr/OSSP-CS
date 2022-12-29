@@ -1,3 +1,7 @@
+# This came with PS0 from MIT OCW
+
+# The presumed purpose of this is to test the dependencies of the user's IDE.
+
 import numpy
 import pylab
 
