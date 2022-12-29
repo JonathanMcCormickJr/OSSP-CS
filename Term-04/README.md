@@ -16,7 +16,7 @@
 * Estimated: 50
 * Actual:   
 
-#### [🔴 Calculus 1A](./calculus-1A)
+#### [🟡 Calculus 1A](./calculus-1A)
 
 [MIT OLL: Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about). 
 
