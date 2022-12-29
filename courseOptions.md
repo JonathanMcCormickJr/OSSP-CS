@@ -1,6 +1,3 @@
-
-# NOTE TO SELF: EVERYTHING PAST THIS LINE NEEDS TO BE RE-EVALUATED USING THE TWO REPOS LINKED AT THE TOP OF THIS FILE. 
-
 **Be sure and add the appropriate courses to the appropriate folders as you go along. This file is basically just a dump of ideas.**
 
 ## Anytime
