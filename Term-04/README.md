@@ -65,13 +65,7 @@
 
 
 
-#### 🔴 [Project0: Build a useful Go app.](./project0)
-
-Build multiple versions of the same app using the Go Programming Language. 
-1. Using Docker.
-2. Using Kubernetes.
-3. Using Nanos/OPS.
-4. Using something else. 
+#### 🔴 [Project0: Build a useful web app.](./project0)
 
 ##### Hours 
 * Estimated: 200
