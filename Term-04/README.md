@@ -63,6 +63,7 @@
 * Estimated: 18
 * Actual:   
 
+#### [🟡 Intro to Satanism](./satan)
 
 
 #### 🔴 [Project0: Build a useful web app.](./project0)
