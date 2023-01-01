@@ -29,6 +29,10 @@ Once you have done your research and interviews, plot each Satanic faction on a 
 
 ### Satan and the Law
 
+#### Religious Liberty 
+
+#### Self-identified Satanists in politics
+
 ### Conspiracy theories regarding Satanism.
 
 ### Write and record a Satanic hymn
