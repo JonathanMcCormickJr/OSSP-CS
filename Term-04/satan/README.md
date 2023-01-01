@@ -1,10 +1,11 @@
-# Satanism I: Who is Satan?
+# Satanism I: Who is Satan? Who are his followers?
 
 Jonathan A. McCormick, Jr. 
 
 A course that I have assembled for myself to learn the cultural meaning 
-of "Satan" and the peoples who choose to embrace him. In addition, I will 
-be making my own small contributions to Satanist literature and thought.
+of "Satan" and the peoples who choose to embrace him (as either a symbol 
+or a literal being). In addition, I will  be making my own small 
+contributions to Satanist literature and thought.
 
 ## Course Contents
 
