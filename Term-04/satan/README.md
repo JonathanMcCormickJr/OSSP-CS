@@ -35,7 +35,8 @@ Once you have done your research and interviews, plot each Satanic faction on a 
 
 In your essay, present original research on social attitudes toward Satan. 
 Use a sample size of 200+ participants: 100+ from Alabama and 100+ from 
-New Hampshire.
+New Hampshire. Use an online phone number generator to help ensure 
+random selection within each of the 2 states.
 
 Ask them: 
 1. What’s the most evil name you can think of?
