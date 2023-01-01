@@ -13,7 +13,7 @@ contributions to Satanist literature and thought.
 * Paradise Lost by John Milton
 * Holy Bible passages
 * Satanic Bible by Anton LaVey
-* Satanic Scriptures
+* Satanic Scriptures by Peter Gilmore
 * The Devil and Daniel Webster https://en.wikipedia.org/wiki/The_Devil_and_Daniel_Webster#The_devil
 * DC comics: Lucifer https://en.wikipedia.org/wiki/Lucifer_(DC_Comics)#Television
 * The Revolt of the Angels by France
