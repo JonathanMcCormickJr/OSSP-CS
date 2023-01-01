@@ -1,4 +1,4 @@
-# REL 66.6: Introduction to Satanism
+# Satanism I
 
 Jonathan A. McCormick, Jr. 
 
