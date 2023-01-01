@@ -1,4 +1,4 @@
-# Satanism I: Who is Satan? Who are his followers?
+# ⛧ Satanism I: Who is Satan? Who are his followers? ⛧
 
 Jonathan A. McCormick, Jr. 
 
@@ -62,3 +62,6 @@ Ask them:
 **Once you gather all your data, perform appropriate statistical 
 ops on it to make it easy for the reader to visualize and understand
 what the data means.**
+
+
+⛧
