@@ -18,6 +18,7 @@ contributions to Satanist literature and thought.
 * DC comics: Lucifer https://en.wikipedia.org/wiki/Lucifer_(DC_Comics)#Television
 * The Revolt of the Angels by France
 * The Devil's Walk by Percy Bysshe Shelley https://en.wikipedia.org/wiki/The_Devil%27s_Walk 
+* Who Serves Satan?: A Demographic and Ideological Profile by James R. Lewis
 
 ### The Hellscape of Satanism
 Once you have done your research and interviews, plot each Satanic faction on a custom spectrum based on several axiis, including
