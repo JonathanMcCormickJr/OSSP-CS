@@ -51,3 +51,6 @@ Ask them:
 8. In which decade were you born?
 9. What is your gender?
 
+**Once you gather all your data, perform appropriate statistical 
+ops on it to make it easy for the reader to visualize and understand
+what the data means.**
