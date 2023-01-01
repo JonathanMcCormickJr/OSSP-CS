@@ -39,6 +39,8 @@ Once you have done your research and interviews, plot each Satanic faction on a 
 
 ### Write an essay summarizing your worldview of Satan and Satanism. 
 
+#### Original research
+
 In your essay, present original research on social attitudes toward Satan. 
 Use a sample size of 200+ participants: 100+ from Alabama and 100+ from 
 New Hampshire. Use an online phone number generator to help ensure 
