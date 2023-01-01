@@ -35,4 +35,4 @@ legally allowed to operate a motor vehicle on government roads. 🤷
 
 You (Jonathan) need a DL to drive. Duh. 
 
-
+{RESUME HERE LATER. 31 Dec. 2022, 20:03}
