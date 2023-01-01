@@ -48,4 +48,6 @@ Ask them:
 4. If you had to pick one word to describe ‘Satan’, what would it be?
 5. On a scale from 1 (totally good) to 10 (totally evil), what would you rate Satan as?
 7. Do you know any Satanists personally? 
+8. In which decade were you born?
+9. What is your gender?
 
