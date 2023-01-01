@@ -1,4 +1,4 @@
-# Satanism I
+# Satanism I: Who is Satan?
 
 Jonathan A. McCormick, Jr. 
 
