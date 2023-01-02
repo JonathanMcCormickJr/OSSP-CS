@@ -2,6 +2,8 @@
 
 Source: Project Gutenburg
 
+Edited by: Jonathan A. McCormick, Jr. 
+
 ![Project Gutenburd Terms of Use](https://user-images.githubusercontent.com/67705789/210195105-1fd7e904-6e97-4030-94cf-f43210d6f1be.png)
 
 
