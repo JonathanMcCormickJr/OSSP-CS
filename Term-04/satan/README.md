@@ -10,13 +10,13 @@ contributions to Satanist literature and thought.
 ## Course Contents
 
 ### Readings
-* [Paradise Lost](./paradise-lost.md) by John Milton
+* [Paradise Lost](./paradise-lost.txt) by John Milton
 * Holy Bible passages
 * Satanic Bible by Anton LaVey
 * Satanic Scriptures by Peter Gilmore
 * The Devil and Daniel Webster https://en.wikipedia.org/wiki/The_Devil_and_Daniel_Webster#The_devil
 * DC comics: Lucifer https://en.wikipedia.org/wiki/Lucifer_(DC_Comics)#Television
-* [The Revolt of the Angels](https://github.com/LiberlandHacker/OSSP-CS/blob/main/Term-04/satan/the-revolt-of-the-angels.md) by Anatole France
+* [The Revolt of the Angels](./the-revolt-of-the-angels.txt) by Anatole France
 * The Devil's Walk by Percy Bysshe Shelley https://en.wikipedia.org/wiki/The_Devil%27s_Walk 
 * Who Serves Satan?: A Demographic and Ideological Profile by James R. Lewis
 * Compassionate Satanism: An Introduction to Modern Satanic Practice by Lilith Starr.
