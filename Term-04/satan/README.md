@@ -10,7 +10,7 @@ contributions to Satanist literature and thought.
 ## Course Contents
 
 ### Readings
-* [Paradise Lost by John Milton](./paradise-lost.md)
+* [Paradise Lost](./paradise-lost.md) by John Milton
 * Holy Bible passages
 * Satanic Bible by Anton LaVey
 * Satanic Scriptures by Peter Gilmore
