@@ -21,6 +21,7 @@ contributions to Satanist literature and thought.
 * Who Serves Satan?: A Demographic and Ideological Profile by James R. Lewis
 * Compassionate Satanism: An Introduction to Modern Satanic Practice by Lilith Starr.
 * [Devil Stories](./devil-stories.txt) by Various
+* [The History of the Devil](./the-history-of-the-devil) by Daniel Defoe
 
 ### The Hellscape of Satanism
 Once you have done your research and interviews, plot each Satanic faction on a custom spectrum based on several axiis, including
