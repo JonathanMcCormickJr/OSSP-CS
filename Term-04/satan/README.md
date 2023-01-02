@@ -66,5 +66,10 @@ Ask them:
 ops on it to make it easy for the reader to visualize and understand
 what the data means.**
 
+### Create a mock leaflet for Satanism
+
+Prep a small brochure design to introduce people to Satanism.
+
+Include the most salient principles of Satanism, how to interact with Satanists in everyday life, and resources for digging deeper and/or finding help if the reader so desires. 
 
 ⛧
