@@ -26,7 +26,7 @@ BOOK: Mother Nature: A history of mothers, infants, and natural selection.
 #### 🔴 Revolution
 [MIT OCW: How to Stage a Revolution](https://ocw.mit.edu/courses/21h-001-how-to-stage-a-revolution-fall-2013/)
 
-#### 🔴 Satanism
+#### 🔴 Satanic Literature
 * [TST Reading List](https://thesatanictemple.com/pages/the-satanic-temple-library?fbclid=IwAR09nQWlfNVmhFbYklsVhXcbDIWaEHOpJTf7b6lNEYsvqhiLQEyVmA8sA1Y)
 * [CoS Reading List](https://www.churchofsatan.com/sources-book-list/)
 
