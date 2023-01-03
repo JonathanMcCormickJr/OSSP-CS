@@ -82,3 +82,6 @@ and is associated a certain mythical "element" as follows:
 ## 1. (FIRE) The Book of Satan: The Infernal Diatribe.
 
 The Book of Satan is a poem of blasphemy against the traditional "God".  
+
+
+{RESUME HERE. 2 Jan 2023. 23:33}
