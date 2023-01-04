@@ -32,6 +32,10 @@ Once you have done your research and interviews, plot each Satanic faction on a 
 * Magical vs. Explainable
 * Authleft vs. Libleft vs. Authright vs. Libright.
 
+Use this template for each faction's respective score plots.
+
+![image](https://user-images.githubusercontent.com/67705789/210637450-874084d3-d1d7-4404-b6cf-1102b5af4b34.png)
+
 ### Satan and the Law
 
 #### Religious Liberty 
