@@ -12,6 +12,14 @@ contributions to Satanist literature and thought.
 ### Readings
 * [Paradise Lost](./paradise-lost.txt) by John Milton
 * Holy Bible passages
+  * Genesis 1-3
+  * Job
+  * Ezekiel
+  * Matthew 4:1-11
+  * Luke 22:1-6
+  * Acts 1:5-11
+  * Romans 13
+  * Revelation 12
 * Satanic Bible by Anton LaVey
 * Satanic Scriptures by Peter Gilmore
 * [The Devil and Daniel Webster](http://fountainheadpress.com/expandingthearc/assets/benetdanielwebster.pdf) by Stephen Vincent Benét 
