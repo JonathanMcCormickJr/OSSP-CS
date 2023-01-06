@@ -44,6 +44,12 @@ Use this template for each faction's respective score plots.
 
 ### Conspiracy theories regarding Satanism.
 
+### Satan in pop culture
+
+* Lil Nas X
+  * Satan Shoes
+  * Montero
+
 ### Write and record a Satanic hymn
 
 ### Write an essay summarizing your worldview of Satan and Satanism. 
