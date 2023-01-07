@@ -15,7 +15,7 @@ contributions to Satanic literature and thought.
   * Genesis 1-3
   * Leviticus 16
   * Job
-  * Isaiah 14:12-23
+  * Isaiah 14
   * Ezekiel
   * Zechariah 3
   * Matthew 
