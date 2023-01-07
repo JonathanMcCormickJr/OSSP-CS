@@ -11,7 +11,7 @@ contributions to Satanic literature and thought.
 
 ### Readings
 * [Paradise Lost](./paradise-lost.txt) by John Milton
-* [The Holy Bible](./the-holy-bible.txt) by Various
+* [The King James Bible](./the-king-james-bible.txt) by Various
   * Genesis 1-3
   * Leviticus 16
   * Job
