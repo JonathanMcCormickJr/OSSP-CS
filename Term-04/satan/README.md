@@ -11,9 +11,13 @@ contributions to Satanic literature and thought.
 
 ### Readings
 * [Paradise Lost](./paradise-lost.txt) by John Milton
+  * [NOTES on Paradise Lost](./paradise-lost-NOTES.md)
 * [The King James Bible](./the-king-james-bible.txt) by Various
+  * [NOTES on the KJV Bible](./the-king-james-bible-NOTES.md)
 * [The Great Controversy](./the-great-controversy.txt) by Ellen G. H. White
+  * [NOTES on The Great Controversy](./the-great-controversy-NOTES.md)
 * Satanic Bible by Anton LaVey
+  * [NOTES on The Satanic Bible](./the-satanic-bible-NOTES.md)
 * Satanic Scriptures by Peter Gilmore
 * [The Devil and Daniel Webster](http://fountainheadpress.com/expandingthearc/assets/benetdanielwebster.pdf) by Stephen Vincent Benét 
 * DC comics: Lucifer 
