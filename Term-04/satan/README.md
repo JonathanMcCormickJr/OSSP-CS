@@ -1,4 +1,4 @@
-# ⛧ Satanism I: _Who is Satan? Who are his "followers"?_ ⛧
+# ⛧ Satanism I: _Who is Satan? What is a Satanist?_ ⛧
 
 <img src="https://user-images.githubusercontent.com/67705789/211137183-79cc187b-8531-4935-9a22-d2b87d657618.png" alt="Pentagram https://commons.wikimedia.org/wiki/File:Pentagram4.svg" width="50%" />
 
