@@ -14,19 +14,23 @@ contributions to Satanic literature and thought.
 * [The King James Bible](./the-king-james-bible.txt) by Various
   * Genesis 1-3
   * Leviticus 16
+  * 1 Chronicles 21:1-17
   * Job
   * Isaiah 14
   * Ezekiel
   * Zechariah 3
   * Matthew 
-    * 4:1-11, 
-    * 16:21-28,
+    * 4:1-11
+    * 16:21-28
+    * 25:31-46
   * Luke 
       * 10:1-24
       * 22:1-6
   * John 
-      * 8:39-47,
+      * 8:39-47
       * 10:1-21
+      * 13:21-31
+      * 14:30-31
   * Acts 1:5-11
   * Romans 
       * 13:1-7,
@@ -35,7 +39,9 @@ contributions to Satanic literature and thought.
   * 2 Corinthians 
       * 4:1-6
       * 11:1-15
-  * Ephesians 4:17-32
+  * Ephesians 
+      * 2:1-3
+      * 4:17-32
   * James 4:1-10
   * 1 Peter 5:6-11
   * 1 John 
@@ -43,6 +49,7 @@ contributions to Satanic literature and thought.
       * 5:13-21
   * Revelation 
       * 12
+      * 17-18
       * 20
 * Satanic Bible by Anton LaVey
 * Satanic Scriptures by Peter Gilmore
