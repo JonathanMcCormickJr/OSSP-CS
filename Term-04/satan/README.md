@@ -1,4 +1,6 @@
-# ⛧ Satanism I: Who is Satan? Who are his followers? ⛧
+# ⛧ Satanism I: _Who is Satan? Who are his "followers"?_ ⛧
+
+<img src="https://user-images.githubusercontent.com/67705789/211137183-79cc187b-8531-4935-9a22-d2b87d657618.png" alt="Pentagram https://commons.wikimedia.org/wiki/File:Pentagram4.svg" width="50%" />
 
 Jonathan A. McCormick, Jr. 
 
@@ -7,6 +9,10 @@ of "Satan" and the peoples who choose to embrace him (as either a symbol
 or a literal being). In addition, I will  be making my own small 
 contributions to Satanic literature and thought.
 
+<img src="https://user-images.githubusercontent.com/67705789/211134979-7992b499-2e34-45ab-a604-dcbffc3b6abd.png" alt="Alexandre Cabanel - Fallen Angel - 1847" height="200"/><img src="https://user-images.githubusercontent.com/67705789/211135526-6f3943ad-59b9-4eb2-8abe-947b55152c55.png" alt="Franz Stuck - Lucifer - 1890" height="200"/><img src="https://user-images.githubusercontent.com/67705789/211138863-a4988d78-0a25-4feb-8a4c-fd59221fb83a.png" alt="John Collier - Lilith - 1892" height="200"/><img src="https://user-images.githubusercontent.com/67705789/211135461-ca317a8e-456d-4320-9f10-d786001dd1e2.png" alt="Paradise Lost - 1866" height="200"/><img src="https://user-images.githubusercontent.com/67705789/211135249-076c8c8c-46c0-40a2-9438-2795552dde56.png" alt="Éliphas Lévi - Baphomet - 1856" height="200"/>
+
+
+
 ## Course Contents
 
 ### Readings
@@ -14,6 +20,7 @@ contributions to Satanic literature and thought.
   * [NOTES on Paradise Lost](./paradise-lost-NOTES.md)
 * [The King James Bible](./the-king-james-bible.txt) by Various
   * [NOTES on the KJV Bible](./the-king-james-bible-NOTES.md)
+* [Lilith Through the Times](https://skhadka.sites.gettysburg.edu/Lilith/)
 * [Patriarchs and Prophets](./patriarchs-and-prophets.txt) by Ellen G. White
   * [NOTES on Patriarchs and Prophets](./patriarchs-and-prophets-NOTES.md)
 * [The Great Controversy](./the-great-controversy.txt) by Ellen G. White
