@@ -14,7 +14,9 @@ contributions to Satanic literature and thought.
   * [NOTES on Paradise Lost](./paradise-lost-NOTES.md)
 * [The King James Bible](./the-king-james-bible.txt) by Various
   * [NOTES on the KJV Bible](./the-king-james-bible-NOTES.md)
-* [The Great Controversy](./the-great-controversy.txt) by Ellen G. H. White
+* [Patriarchs and Prophets](./patriarchs-and-prophets.txt) by Ellen G. White
+  * [NOTES on Patriarchs and Prophets](./patriarchs-and-prophets-NOTES.md)
+* [The Great Controversy](./the-great-controversy.txt) by Ellen G. White
   * [NOTES on The Great Controversy](./the-great-controversy-NOTES.md)
 * Satanic Bible by Anton LaVey
   * [NOTES on The Satanic Bible](./the-satanic-bible-NOTES.md)
