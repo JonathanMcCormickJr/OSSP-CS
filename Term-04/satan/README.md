@@ -5,21 +5,45 @@ Jonathan A. McCormick, Jr.
 A course that I have assembled for myself to learn the cultural meaning 
 of "Satan" and the peoples who choose to embrace him (as either a symbol 
 or a literal being). In addition, I will  be making my own small 
-contributions to Satanist literature and thought.
+contributions to Satanic literature and thought.
 
 ## Course Contents
 
 ### Readings
 * [Paradise Lost](./paradise-lost.txt) by John Milton
-* Holy Bible passages
+* [The Holy Bible](./the-holy-bible.txt) by Various
   * Genesis 1-3
+  * Leviticus 16
   * Job
+  * Isaiah 14:12-23
   * Ezekiel
-  * Matthew 4:1-11
-  * Luke 22:1-6
+  * Zechariah 3
+  * Matthew 
+    * 4:1-11, 
+    * 16:21-28,
+  * Luke 
+      * 10:1-24
+      * 22:1-6
+  * John 
+      * 8:39-47,
+      * 10:1-21
   * Acts 1:5-11
-  * Romans 13
-  * Revelation 12
+  * Romans 
+      * 13:1-7,
+      * 16:17-20
+  * 1 Corinthians 7
+  * 2 Corinthians 
+      * 4:1-6
+      * 11:1-15
+  * Ephesians 4:17-32
+  * James 4:1-10
+  * 1 Peter 5:6-11
+  * 1 John 
+      * 3:1-10
+      * 5:13-21
+  * Revelation 
+      * 12
+      * 20
 * Satanic Bible by Anton LaVey
 * Satanic Scriptures by Peter Gilmore
 * [The Devil and Daniel Webster](http://fountainheadpress.com/expandingthearc/assets/benetdanielwebster.pdf) by Stephen Vincent Benét 
