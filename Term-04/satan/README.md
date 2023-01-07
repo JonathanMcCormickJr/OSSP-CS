@@ -18,6 +18,8 @@ contributions to Satanic literature and thought.
 ### Readings
 * [Paradise Lost](./paradise-lost.txt) by John Milton
   * [NOTES on Paradise Lost](./paradise-lost-NOTES.md)
+* [Paradise Regained](./paradise-regained.txt) by John Milton
+  * [NOTES on Paradise Regained](./paradise-regained-NOTES.md)
 * [The King James Bible](./the-king-james-bible.txt) by Various
   * [NOTES on the KJV Bible](./the-king-james-bible-NOTES.md)
 * [Lilith Through the Times](https://skhadka.sites.gettysburg.edu/Lilith/)
