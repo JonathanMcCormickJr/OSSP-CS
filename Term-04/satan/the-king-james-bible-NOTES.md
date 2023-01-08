@@ -152,7 +152,7 @@ When God confronts his disobedient subjects, they blame each other. Adam blames 
 **Satan enters the scene in Genesis in the form of a snake. He is highly intelligent, crafty, subversive, and (in most respects) factually correct in his predictions. He is the ultimate blame recipient when things go wrong.**
 
 ## Leviticus 16
-##1 Chronicles 21:1-17
+## 1 Chronicles 21:1-17
 ## Job
 ## Isaiah 14
 ## Ezekiel 27 -- 28:1-19
