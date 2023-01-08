@@ -68,7 +68,7 @@ Use this template for each faction's respective score plots.
 
 ### Write and record a Satanic hymn
 
-### Write an essay summarizing your worldview of Satan and Satanism. 
+### Write an [essay](./essay) summarizing your worldview of Satan and Satanism. 
 
 #### Original research
 
