@@ -118,8 +118,38 @@ Along comes the "serpent"/snake (traditionally interpreted as a morph of Satan).
 
 This Serpent convinces Eve (debatably Adam's second wife after Lilith) to eat fruit from the forbidden tree: the tree of KNOWLEDGE. The Serpent promotes to Eve that the fruit will cause "[her] eyes [to] be opened, and [that the eaters] shall be as gods, knowing good and evil."
 
+While Satan is often viewed by Christians as being a deceiver, in this case he is actually telling the truth, as subsequent verses show. 
+
+**"Your eyes shall be opened,"**
+  * "3:7 And the eyes of them both were opened,"
+**"Ye shall be as gods, knowing good and evil."**
+  * "3:22 And the LORD God said, Behold, the man is become as one of us, to know good and evil..."
+
+The BAD consequences happen as a result of God's arbitrary authority, NOT Satan's influence. 
+
+God--as the divine emperor--decides to set the death penalty for disobedience, despite there being no victim. He also sets this penalty as being due on the same "day" as the offense took place. However, he says it in such a way that it could be interpreted as the fruit itself causing death, perhaps like a sort of poisonous fruit. 
+
+> "2:17 But of the tree of the knowledge
+of good and evil, thou shalt not eat of it: for **in the day that thou eatest thereof thou shalt surely die.**" (emph added)
+
+The Serpent disagrees with the notion that the fruit itself is deadly, telling Eve, "**Ye shall not surely die**..." (3:4).
+
+And, as it turns out, the Serpent was right in terms of the fruit itself, but wrong in terms of God exercising arbitrary authority in order to un-alive the offenders. 
+
+The last part of Genisis 3 makes clear that God expelled Adam and Eve from Eden (thus denying them immortality). 
+
+> "So he drove out the man; and he placed at the east of the garden
+of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life." (3:24)
+
+However, since the book continues with Adam and Eve having kids and living for a long time afterwards, one can reasonably assume that God was lying about the same-day-death part. An exception would be if the reader chooses to interpret "day" in the Adventist sense, where 1 prophetic day = 1000 literal years. Since Genesis 5:3 says Adam lived a total of 935 years, and since 935<1000, God has a slight bit of plausible explanation for the "day" thing. But for those who want to interpret it literally, God was clearly incorrect on this point as well. 
+
+When God confronts his disobedient subjects, they blame each other. Adam blames Eve. Eve blames the Serpent. God places curses on each of them which makes their lives more difficult. 
 
 
+
+### In summary
+
+**Satan enters the scene in Genesis in the form of a snake. He is highly intelligent, crafty, subversive, and (in most respects) factually correct in his predictions. He is the ultimate blame recipient when things go wrong.**
 
 ## Leviticus 16
 ##1 Chronicles 21:1-17
