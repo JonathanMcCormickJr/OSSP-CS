@@ -122,10 +122,12 @@ While Satan is often viewed by Christians as being a deceiver, in this case he i
 
 **"Your eyes shall be opened,"**
   * "3:7 And the eyes of them both were opened,"
+
+
 **"Ye shall be as gods, knowing good and evil."**
   * "3:22 And the LORD God said, Behold, the man is become as one of us, to know good and evil..."
 
-The BAD consequences happen as a result of God's arbitrary authority, NOT Satan's influence. 
+The BAD consequences happen as a result of God's arbitrary authority. 
 
 God--as the divine emperor--decides to set the death penalty for disobedience, despite there being no victim. He also sets this penalty as being due on the same "day" as the offense took place. However, he says it in such a way that it could be interpreted as the fruit itself causing death, perhaps like a sort of poisonous fruit. 
 
@@ -145,14 +147,91 @@ However, since the book continues with Adam and Eve having kids and living for a
 
 When God confronts his disobedient subjects, they blame each other. Adam blames Eve. Eve blames the Serpent. God places curses on each of them which makes their lives more difficult. 
 
+### In summary
+
+**Satan enters the scene in Genesis in the form of a snake. He is highly intelligent, crafty, subversive, and (in most respects) factually correct in his predictions. He is the ultimate blame recipient when things go wrong. He is the underdog. He tempts people to rebel, to seek knowledge, and to seek liberation and self-empowerment.**
+
+
+
+## Leviticus 16
+
+**Satan: The Scapegoat**
+
+### Selections from Lev 16 [emph. added]:
+
+> "16:5 And he [Aaron] shall take of the congregation of the children of Israel **two kids of the goats for a sin offering,** and one ram for a burnt offering.
+> ...
+> 16:7 And he shall take the two goats, and present them before the LORD at the door of the tabernacle of the congregation. 
+> 16:8 And Aaron shall cast lots upon the two goats; **one lot for the LORD, and the other lot for the scapegoat.**
+> 16:9 And Aaron shall **bring the goat upon which the LORD’s lot fell, and offer him for a sin offering.**
+> 16:10 **But the goat, on which the lot fell to be the scapegoat, shall be presented alive before the LORD, to make an atonement with him, and to let him go for a scapegoat into the wilderness.**
+> ...
+> 16:15 Then shall he **kill the goat of the sin offering**, that is for the people, and bring his blood within the vail, and do with that blood as he did with the blood of the bullock, and sprinkle it upon the mercy seat, and before the mercy seat: 16:16 And he shall make an atonement for the holy place, because of the uncleanness of the children of Israel, and because of their transgressions in all their sins: and so shall he do for the tabernacle of the congregation, that remaineth among them in the midst of their uncleanness.
+> ...
+> 16:20 And when he hath made an end of reconciling the holy place, and the tabernacle of the congregation, and the altar, he shall **bring the live goat**: 16:21 And Aaron shall lay both his hands upon the head of the live goat, and confess over him all the iniquities of the children of Israel, and all their transgressions in all their sins, putting them upon the head of the goat, and shall send him away by the hand of a fit man into the wilderness: 16:22 **And the goat shall bear upon him all their iniquities unto a land not inhabited: and he shall let go the goat in the wilderness.** 
+> ..."
+
+In this book of ritual rulues for the nation of Israel, God directs the high priest (Aaron) to make a bunch of animal sacrifices. In the SDA Christian tradition, these sacrifices are often viewed as being typical forshadowing of Jesus Christ (the "Lamb" of God) and his death on by crucifixion. 
+
+But in this chapter, there is not just one goat, but two. These two goats are treated very differently.
+
+Goat #1 is assigned the role of "The LORD's goat". 
+
+Goat #2 is assigned the role of the "scapegoat". 
+
+The LORD's goat is killed and its bodily fluids, etc. are used in a generally recognizable pattern. The innocent animal dies because the human sinned and God demands blood when sin happens. Sounds usual. 
+
+But the Scapegoat is NOT killed. Instead, the scapegoat receives the symbolic guilt of the transgressions of all the Israelites during that year. And then the scapegoat is released into the wilderness. 
+
+This has been interpreted by some as being typical forshadowing of Satan (the ultimate blame recipient) being placed on a lifeless earth during the Millenium of the Book of Revelation. By having guilt for sins be transferred en masse to a single villian, God and his followers are able to be reconciled. 
 
 
 ### In summary
 
-**Satan enters the scene in Genesis in the form of a snake. He is highly intelligent, crafty, subversive, and (in most respects) factually correct in his predictions. He is the ultimate blame recipient when things go wrong.**
+**Satan is the antitypical scapegoat. The ultimate guilt recipient.**
 
-## Leviticus 16
 ## 1 Chronicles 21:1-17
+
+[Emph. added]
+
+> "21:1 **And Satan stood up against Israel, and provoked David to number Israel.**
+> 21:2 And David said to Joab and to the rulers of the people, Go, number Israel from Beersheba even to Dan; and bring the number of them to me, that I may know it.
+> ...
+> 21:7 **And God was displeased with this thing; therefore he smote
+Israel.** 
+> 21:8 And David said unto God, I have sinned greatly, because I have done this thing: but now, I beseech thee, do away the iniquity of thy servant; for I have done very foolishly.
+> 21:9 And the LORD spake unto Gad, David’s seer, saying, 21:10 Go and tell David, saying, Thus saith the LORD, I offer thee three things: choose thee one of them, that I may do it unto thee.
+> 21:11 So Gad came to David, and said unto him, Thus saith the LORD, Choose thee 21:12 Either three years’ famine; or three months to be destroyed before thy foes, while that the sword of thine enemies overtaketh thee; or else three days the sword of the LORD, even the pestilence, in the land, and the angel of the LORD destroying throughout all the coasts of Israel. Now therefore advise thyself what word I shall bring again to him that sent me.
+> 21:13 And David said unto Gad, I am in a great strait: let me fall now into the hand of the LORD; _for very great are his mercies_: but let me not fall into the hand of man.
+> 21:14 So the LORD sent pestilence upon Israel: and there fell of
+Israel seventy thousand men.
+> 21:15 And God sent an angel unto Jerusalem to destroy it: and as he was destroying, the LORD beheld, and he repented him of the evil, and said to the angel that destroyed, It is enough, stay now thine hand. And the angel of the LORD stood by the threshingfloor of Ornan the Jebusite.
+> 21:16 And David lifted up his eyes, and saw the angel of the LORD
+stand between the earth and the heaven, having a drawn sword in his
+hand stretched out over Jerusalem. Then David and the elders of
+Israel, who were clothed in sackcloth, fell upon their faces.
+> 21:17 And David said unto God, Is it not I that commanded the people to be numbered? even I it is that have sinned and done evil indeed; but as for these sheep, what have they done? let thine hand, I pray thee, O LORD my God, be on me, and on my father’s house; but not on thy people, that they should be plagued."
+
+
+Here, Satan is blamed for tempting King David to...
+
+...run a census.
+
+Yeah. Worst crime ever, right? He'll be on the FBI's most wanted list in no time. 
+
+And because he succumbed to Satan's temptation, God sends divine punishment upon Israel in retaliation for such a monstrous evil as a census. 
+
+Lots of people die. 
+
+Sounds like a reasonable response, right?
+
+This God loves capital punishment. He also loves keeping his people in ignorance on certain topics. 
+
+### In summary
+
+**Satan is at it again: tempting humanity to seek knowledge (in this case through empirical data), even when such data collection makes God angry. **
+
+
 ## Job
 ## Isaiah 14
 ## Ezekiel 27 -- 28:1-19
