@@ -50,7 +50,7 @@ Notes by Jonathan A. McCormick, Jr.
 
 ## Genesis 1-3
 
-* Creationist worldview. God is the Creator "of the heaven and the earth." (1:1)
+Creationist worldview. God is the Creator "of the heaven and the earth." (1:1)
 
 6th day of Creation: Day of Mankind. 
 
@@ -219,7 +219,7 @@ Here, Satan is blamed for tempting King David to...
 
 Yeah. Worst crime ever, right? He'll be on the FBI's most wanted list in no time. 
 
-And because he succumbed to Satan's temptation, God sends divine punishment upon Israel in retaliation for such a monstrous evil as a census. 
+And because David succumbed to Satan's temptation, God sends divine punishment upon Israel in retaliation for such a monstrous evil as a census. 
 
 Lots of people die. 
 
@@ -229,7 +229,7 @@ This God loves capital punishment. He also loves keeping his people in ignorance
 
 ### In summary
 
-**Satan is at it again: tempting humanity to seek knowledge (in this case through empirical data), even when such data collection makes God angry. **
+**Satan is at it again: tempting humanity to seek knowledge (in this case through empirical data), even when such data collection makes God angry.**
 
 
 ## Job
