@@ -7,7 +7,7 @@ Notes by Jonathan A. McCormick, Jr.
 * [Genesis 1-3 😈 Satan: the Serpent](#genesis-1-3--satan-the-serpent)
 * [Leviticus 16 😈 Satan: the Scapegoat](#leviticus-16--satan-the-scapegoat)
 * [1 Chronicles 21:1-17 😈 Satan: the Data Analyst](#1-chronicles-211-17--satan-the-data-analyst)
-* Job 😈
+* [Job 😈 Satan: the Afflicter](#job--satan-the-afflicter)
 * Isaiah 14 😈
 * Ezekiel 27 -- 28:1-19 😈
 * Zechariah 3 😈
@@ -231,43 +231,85 @@ This God loves capital punishment. He also loves keeping his people in ignorance
 **Satan is at it again: tempting humanity to seek knowledge (in this case through empirical data), even when such data collection makes God angry.**
 
 
-## Job
-## Isaiah 14
-## Ezekiel 27 -- 28:1-19
-## Zechariah 3
-## Matthew 
-* 4:1-11
-* 13
-* 16:21-28
-* 25:31-46
-## Luke 
-* 10:1-24
-* 13:10-17
-* 22:1-6, 31-34
-## John 
-* 8:39-47
-* 10:1-21
-* 13:21-31
-* 14:30-31
-## Acts 1:5-11
-## Romans 
- * 13:1-7,
- * 16:17-20
-## 1 Corinthians 7
-## 2 Corinthians 
- * 2:5-11
- * 4:1-6
- * 11:1-15
-## Ephesians 
- * 2:1-3
- * 4:17 -- 6:1-20
-## James 4:1-10
-## 1 Peter 5:6-11
-## 2 Peter 1-2
-## 1 John 
- * 3:1-10
- * 5:13-21
-## Revelation 
- * 12
- * 17-18
- * 20
+## Job 😈 Satan: the Afflicter
+
+[Emph. added]
+
+> "1:6 Now there was a day when the sons of God came to present themselves before the LORD, and **Satan came also among them.**
+> 1:7 And the LORD said unto Satan, Whence comest thou? Then Satan answered the LORD, and said, **From going to and fro in the earth, and from walking up and down in it.**
+> 1:8 And the LORD said unto Satan, Hast thou considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil?  1:9 **Then Satan answered the LORD, and said, Doth Job fear God for nought?  1:10 Hast not thou made an hedge about him, and about his house, and about all that he hath on every side? thou hast blessed the work of his hands, and his substance is increased in the land.
+> 1:11 But put forth thine hand now, and touch all that he hath, and he will curse thee to thy face.**
+> 1:12 And **the LORD said unto Satan, Behold, all that he hath is in thy power;** only upon himself put not forth thine hand. So Satan went forth from the presence of the LORD.
+> 1:13 And there was a day when his sons and his daughters were eating and drinking wine in their eldest brother’s house: 1:14 And there camea messenger unto Job, and said, The oxen were plowing, and the asses feeding beside them: 1:15 And the Sabeans fell upon them, and took them away; yea, they have slain the servants with the edge of the sword; and I only am escaped alone to tell thee.
+> 1:16 While he was yet speaking, there came also another, and said, The fire of God is fallen from heaven, and hath burned up the sheep, and the servants, and consumed them; and I only am escaped alone to tell thee.
+> 1:17 While he was yet speaking, there came also another, and said, The Chaldeans made out three bands, and fell upon the camels, and have carried them away, yea, and slain the servants with the edge of the sword; and I only am escaped alone to tell thee.
+> 1:18 While he was yet speaking, there came also another, and said, Thy sons and thy daughters were eating and drinking wine in their eldest brother’s house: 1:19 And, behold, there came a great wind from the wilderness, and smote the four corners of the house, and it fell upon the young men, and they are dead; and I only am escaped alone to tell thee. 
+> 1:20 Then Job arose, and rent his mantle, and shaved his head, and
+fell down upon the ground, and worshipped, 1:21 And said, Naked came I out of my mother’s womb, and naked shall I return thither: the LORD gave, and the LORD hath taken away; blessed be the name of the LORD.
+> 1:22 In all this Job sinned not, nor charged God foolishly.
+> 2:1 Again there was a day when the sons of God came to present themselves before the LORD, **and Satan came also among them to present himself before the LORD.** 
+> 2:2 And the LORD said unto Satan, From whence comest thou? And Satan answered the LORD, and said, From going to and fro in the earth, and from walking up and down in it.
+> 2:3 And the LORD said unto Satan, Hast thou considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil? and still he holdeth fast his integrity, although thou movedst me against him, to destroy him without cause.
+> 2:4 And **Satan answered the LORD, and said, Skin for skin, yea, all that a man hath will he give for his life.
+> 2:5 But put forth thine hand now, and touch his bone and his flesh, and he will curse thee to thy face.
+> 2:6 And the LORD said unto Satan, Behold, he is in thine hand; but save his life.
+> 2:7 So went Satan forth from the presence of the LORD, and smote Job with sore boils from the sole of his foot unto his crown.**
+> ...
+> 2:9 Then said his [Job's] wife unto him, Dost thou still retain thine integrity?  curse God, and die. 2:10 But he said unto her, Thou speakest as one of the foolish women speaketh. What? shall we receive good at the hand of God, and shall we not receive evil? In all this did not Job sin with his lips."
+
+So there is this God-fearing man named "Job". God is pretty proud of this dude. 
+
+Satan comes as a participant in a gathering of "the sons of God". God brags to Satan about Job's loyalty.
+
+Satan argues that Job is loyal because of the benefits that he receives from God. So God allows Satan to destroy Job's loved ones and material wealth. 
+
+Another gathering of "the sons of God" happens. God and Satan have a similar argument. But this time Satan argues that Job is loyal to God because of good health. So God allows Satan to plague Job with painful sores. 
+
+And Job still refused to curse God. But Job does make clear that his life is a living hell. 
+
+And then God gets an ego boost in the end. 
+
+### In summary of Job
+
+**Satan is a delegate to a meeting of supernatural beings. He habitually goes "to and fro in the earth," and walks "up and down in it". He tries and fails while tempting Job to commit a thought crime of cursing God for the Problem of Evil, despite the fact that he makes Job's life miserable.** 
+
+## Isaiah 14 😈
+## Ezekiel 27 -- 28:1-19 😈
+## Zechariah 3 😈
+## Matthew 😈
+### 4:1-11 😈
+### 13 😈
+### 16:21-28 😈
+### 25:31-46 😈
+## Luke 😈
+### 10:1-24 😈
+### 13:10-17 😈
+### 22:1-6 😈
+### 22:31-34 😈
+## John 😈
+### 8:39-47 😈
+### 10:1-21 😈
+### 13:21-31 😈
+### 14:30-31 😈
+## Acts 1:5-11 😈
+## Romans 😈
+### 13:1-7 😈
+### 16:17-20 😈
+## 1 Corinthians 7 😈
+## 2 Corinthians 😈
+### 2:5-11 😈
+### 4:1-6 😈
+### 11:1-15 😈
+## Ephesians 😈
+### 2:1-3 😈
+### 4:17 -- 6:1-20 😈
+## James 4:1-10 😈
+## 1 Peter 5:6-11 😈
+## 2 Peter 1-2 😈
+## 1 John 😈
+### 3:1-10 😈
+### 5:13-21 😈
+## Revelation 😈 
+### 12 😈
+### 17-18 😈
+### 20 😈
