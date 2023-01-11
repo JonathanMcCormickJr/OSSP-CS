@@ -35,4 +35,21 @@ legally allowed to operate a motor vehicle on government roads. 🤷
 
 You (Jonathan) need a DL to drive. Duh. 
 
-{RESUME HERE LATER. 31 Dec. 2022, 20:03}
+### Class "D" License for people over 21
+There are different routes to take when acquiring a DL. If one already knows how to drive, they can take the tests and get their DL. But for those who need some practice, they need to past some tests, get a Learner's License, do 50 hrs of supervised time behind the wheel, and then pass their driving test. 
+
+### Practice test (open book)
+
+11 Jan 2023
+
+![image](https://user-images.githubusercontent.com/67705789/211921870-cdf89710-405d-4eb8-be7e-bf4fc04bb2e5.png)
+
+Some questions where messed up. So like half of my mistakes were due to the questions and available answers not matching. 
+
+### Practice test (closed book)
+
+![image](https://user-images.githubusercontent.com/67705789/211925889-ea77bae0-fc2c-455e-97ab-b78a8c55467d.png)
+
+Same issue. Test site has errors which distort my results. You get what you pay for, I guess (this site was free).
+
+
