@@ -12,7 +12,7 @@ Notes by Jonathan A. McCormick, Jr.
 * [Ezekiel 27 -- 28:1-19 😈 Satan: the G.O.A.T.](#ezekiel-27----281-19--satan-the-goat)
 * [Zechariah 3 😈 Satan: the Resistor](#zechariah-3--satan-the-resister)
 * Matthew 😈
-  * 4:1-11 😈
+  * [4:1-11 😈 Satan: the Tempter](#41-11--satan-the-tempter)
   * 13 😈
   * 16:21-28 😈
   * 25:31-46 😈
@@ -329,7 +329,19 @@ Satan is the resister in this passage.
 **Satan is the one who resists.**
 
 ## Matthew 😈
-### 4:1-11 😈
+### 4:1-11 😈 Satan: the Tempter
+
+> "4:1 Then was Jesus led up of the spirit **into the wilderness to be tempted of the devil.** 4:2 And when he had fasted forty days and forty nights, he was afterward an hungred. 4:3 And when **the tempter** came to him, he said, If thou be the Son of God, command that these stones be made bread. 4:4 But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God. 4:5 Then **the devil** taketh him up into the holy city, and setteth him on a pinnacle of the temple, 4:6 And saith unto him, If thou be the Son of God, cast thyself down: for it is written, He shall give his angels charge concerning thee: and in their hands they shall bear thee up, lest at any time thou dash thy foot against a stone. 4:7 Jesus said unto him, It is written again, Thou shalt not tempt the Lord thy God. 4:8 Again, **the devil** taketh him up into an exceeding high mountain, and sheweth him all the kingdoms of the world, and the glory of them; 4:9 And saith unto him, All these things will I give thee, if thou wilt fall down and worship me. 4:10 Then saith Jesus unto him, **Get thee hence, Satan**: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve. 4:11 Then the devil leaveth him, and, behold, angels came and ministered unto him."
+
+In this passage, Satan interacts with Jesus. Satan is the Tempter, he tempts Jesus to commit sins by
+1. Using his divine power to satisfy his own physical need (prolonged hunger) by turning stones into bread.
+2. Doing an action which would provide proof of whether supernatural beings would be able and willing to intervene in what would appear to otherwise be an act of suicide. 
+3. Worshiping the Devil in exchange for worldly glory. 
+
+## In summary
+
+**Satan is the tempter.**
+
 ### 13 😈
 ### 16:21-28 😈
 ### 25:31-46 😈
