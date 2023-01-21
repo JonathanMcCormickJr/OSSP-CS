@@ -15,7 +15,7 @@ Notes by Jonathan A. McCormick, Jr.
   * [4:1-11 😈 Satan: the Tempter](#41-11--satan-the-tempter)
   * [13 😈 Satan: the Sower of Doubt](#13--satan-the-sower-of-doubt)
   * [16:21-28 😈 Satan: the Self-Preservationist](#1621-28--satan-the-self-preservationist)
-  * 25:31-46 😈
+  * [25:31-46 😈 Satan: the Most Prominent of the Goats](#2531-46--satan-the-most-prominent-of-the-goats)
 * Luke 😈
   * 10:1-24 😈
   * 13:10-17 😈
@@ -393,7 +393,35 @@ Thus, Jesus calls Peter his adversary in that moment.
 
 **A "satan" is anyone who places a strong priority on self-preservation and for one's own physical welfare ABOVE what God says. Those who encourage others to practice self-preservation can also be considered a satanic influence.**
 
-### 25:31-46 😈
+### 25:31-46 😈 Satan: the Most Prominent of the Goats
+
+#### Text
+
+> "25:31 When the Son of man shall come in his glory, and all the holy angels with him, then shall he sit upon the throne of his glory: 25:32 And before him shall be gathered all nations: and he shall separate them one from another, as a shepherd divideth his sheep from the goats: 25:33 **And he shall set the sheep on his right hand, but the goats on the left.** 25:34 Then shall the King say unto them on his right hand, Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world: 25:35 For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in: 25:36 Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me. 25:37 Then shall the righteous answer him, saying, Lord, when saw we thee an hungred, and fed thee? or thirsty, and gave thee drink?  25:38 When saw we thee a stranger, and took thee in? or naked, and clothed thee?  25:39 Or when saw we thee sick, or in prison, and came unto thee?  25:40 And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me. 25:41 **Then shall he say also unto them on the left hand, Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels:** 25:42 For I was an hungred, and ye gave me no meat: I was thirsty, and ye gave me no drink: 25:43 I was a stranger, and ye took me not in: naked, and ye clothed me not: sick, and in prison, and ye visited me not. 25:44 Then shall they also answer him, saying, Lord, when saw we thee an hungred, or athirst, or a stranger, or naked, or sick, or in prison, and did not minister unto thee?  25:45 Then shall he answer them, saying, Verily I say unto you, Inasmuch as ye did it not to one of the least of these, ye did it not to me. 25:46 **And these shall go away into everlasting punishment:** but the righteous into life eternal."
+
+#### The final judgement between the sheep and the goats
+
+Jesus' followers are referred to as "sheep", while Satan's followers (which, let's be honest, is really just everyone NOT in Jesus' followers) are referred to as "goats". 
+
+We can represent this with an `if else` statement
+
+```
+if follows_jesus == True:
+    classification = "sheep"
+else:
+    classification = "goats"
+```
+
+...or use a ternary operator instead...
+
+```classification = "sheep" if follows_jesus else "goats" ```
+
+Here, Jesus makes clear that benevolence and charity are essential to being a true Christian (follower of himself). Even the most well-intentioned loyalists to Christ can become "goats" if Christ doesn't like how they treat their fellow humans. 
+
+#### Summary
+
+**God has prepared Hell for Satan, his demons, and for everyone who is NOT one of Jesus' sheep. Satan is the most prominent goat (non-follower of Jesus).**
+
 ## Luke 😈
 ### 10:1-24 😈
 ### 13:10-17 😈
