@@ -14,7 +14,7 @@ Notes by Jonathan A. McCormick, Jr.
 * Matthew 😈
   * [4:1-11 😈 Satan: the Tempter](#41-11--satan-the-tempter)
   * [13 😈 Satan: the Sower of Doubt](#13--satan-the-sower-of-doubt)
-  * 16:21-28 😈
+  * [16:21-28 😈 Satan: the Self-Preservationist](#1621-28--satan-the-self-preservationist)
   * 25:31-46 😈
 * Luke 😈
   * 10:1-24 😈
@@ -373,7 +373,26 @@ Another parable represents Satan sowing sinners among the righteus. In the popul
 
 **Satan is the sower of doubt. He encourages people to think in ways that God does not approve.**
 
-### 16:21-28 😈
+### 16:21-28 😈 Satan: the Self-Preservationist
+
+#### Text
+
+> "16:21 From that time forth began Jesus to shew unto his disciples, how that he must go unto Jerusalem, and suffer many things of the elders and chief priests and scribes, and be killed, and be raised again the third day. 16:22 Then Peter took him, and began to rebuke him, saying, Be it far from thee, Lord: this shall not be unto thee. 16:23 But he turned, and said unto Peter, **Get thee behind me, Satan: thou art an offence unto me: for thou savourest not the things that be of God, but those that be of men.** 16:24 Then said Jesus unto his disciples, If any man will come after me, let him deny himself, and take up his cross, and follow me. 16:25 For whosoever will save his life shall lose it: and whosoever will lose his life for my sake shall find it. 16:26 For what is a man profited, if he shall gain the whole world, and lose his own soul? or what shall a man give in exchange for his soul?  16:27 For the Son of man shall come in the glory of his Father with his angels; and then he shall reward every man according to his works. 16:28 Verily I say unto you, There be some standing here, which shall not taste of death, till they see the Son of man coming in his kingdom."
+
+#### Get thee behind me, Satan!
+
+Peter (one of Jesus' disciples) exhorted Jesus to avoid physical harm. However, Jesus recognizes the "adversary" through Peter, and responds with an iconic line: 
+
+> "Get thee behind me, Satan: thou art an offence unto me: for thou savourest not the things that be of God, but those that be of men."
+
+Jesus is concerned with his spiritual mission on earth, and sees Peter's preoccupation with the physical necessities of life to be contrary to that mission. 
+
+Thus, Jesus calls Peter his adversary in that moment. 
+
+#### In summary
+
+**A "satan" is anyone who places a strong priority on self-preservation and for one's own physical welfare ABOVE what God says. Those who encourage others to practice self-preservation can also be considered a satanic influence.**
+
 ### 25:31-46 😈
 ## Luke 😈
 ### 10:1-24 😈
