@@ -17,7 +17,7 @@ Notes by Jonathan A. McCormick, Jr.
   * [16:21-28 😈 Satan: the Self-Preservationist](#1621-28--satan-the-self-preservationist)
   * [25:31-46 😈 Satan: the Most Prominent of the Goats](#2531-46--satan-the-most-prominent-of-the-goats)
 * Luke 😈
-  * 10:1-24 😈
+  * [10:1-24 😈 Satan: the descending lightning bolt, the undertrodden serpent](#101-24--satan-the-descending-lightning-bolt-the-undertrodden-serpent)
   * 13:10-17 😈
   * 22:1-6 😈 
   * 22:31-34 😈
@@ -418,12 +418,41 @@ else:
 
 Here, Jesus makes clear that benevolence and charity are essential to being a true Christian (follower of himself). Even the most well-intentioned loyalists to Christ can become "goats" if Christ doesn't like how they treat their fellow humans. 
 
+I also asked OpenAI's ChatGPT about the behavioral differences between goats and sheep. Here is part of its response:
+
+> Behaviorally, sheep tend to be more docile and flock-oriented, while goats are more independent and curious. Sheep tend to follow a leader and stay close to the flock, while goats are more likely to explore and forage on their own. Sheep are also generally more skittish and easily frightened than goats, which can make them more challenging to handle.
+>
+> In terms of social behavior, sheep are more likely to form a hierarchy or "pecking order" within a flock, with dominant individuals having greater access to resources. Goats, on the other hand, tend to have a more relaxed social structure and are less likely to establish a hierarchy.
+
+
 #### Summary
 
 **God has prepared Hell for Satan, his demons, and for everyone who is NOT one of Jesus' sheep. Satan is the most prominent goat (non-follower of Jesus).**
 
 ## Luke 😈
-### 10:1-24 😈
+### 10:1-24 😈 Satan: the descending lightning bolt, the undertrodden serpent.
+
+#### Text
+
+> 10:1 After these things the LORD appointed other seventy also, and sent them two and two before his face into every city and place, whither he himself would come. 10:2 Therefore said he unto them, The harvest truly is great, but the labourers are few: pray ye therefore the Lord of the harvest, that he would send forth labourers into his harvest. 10:3 Go your ways: behold, I send you forth as lambs among wolves. 10:4 Carry neither purse, nor scrip, nor shoes: and salute no man by the way. 10:5 And into whatsoever house ye enter, first say, Peace be to this house. 10:6 And if the son of peace be there, your peace shall rest upon it: if not, it shall turn to you again. 10:7 And in the same house remain, eating and drinking such things as they give: for the labourer is worthy of his hire. Go not from house to house. 10:8 And into whatsoever city ye enter, and they receive you, eat such things as are set before you: 10:9 And heal the sick that are therein, and say unto them, The kingdom of God is come nigh unto you. 10:10 But into whatsoever city ye enter, and they receive you not, go your ways out into the streets of the same, and say, 10:11 Even the very dust of your city, which cleaveth on us, we do wipe off against you: notwithstanding be ye sure of this, that the kingdom of God is come nigh unto you. 10:12 But I say unto you, that it shall be more tolerable in that day for Sodom, than for that city. 10:13 Woe unto thee, Chorazin! woe unto thee, Bethsaida! for if the mighty works had been done in Tyre and Sidon, which have been done in you, they had a great while ago repented, sitting in sackcloth and ashes. 10:14 But it shall be more tolerable for Tyre and Sidon at the judgment, than for you. 10:15 And thou, Capernaum, which art exalted to heaven, shalt be thrust down to hell. 10:16 He that heareth you heareth me; and he that despiseth you despiseth me; and he that despiseth me despiseth him that sent me. 10:17 **And the seventy returned again with joy, saying, Lord, even the devils are subject unto us through thy name. 10:18 And he said unto them, I beheld Satan as lightning fall from heaven. 10:19 Behold, I give unto you power to tread on serpents and scorpions, and over all the power of the enemy: and nothing shall by any means hurt you. 10:20 Notwithstanding in this rejoice not, that the spirits are subject unto you; but rather rejoice, because your names are written in heaven.** 10:21 In that hour Jesus rejoiced in spirit, and said, I thank thee, O Father, Lord of heaven and earth, that **thou hast hid these things from the wise and prudent, and hast revealed them unto babes:** even so, Father; for so it seemed good in thy sight. 10:22 All things are delivered to me of my Father: and no man knoweth who the Son is, but the Father; and who the Father is, but the Son, and he to whom the Son will reveal him. 10:23 And he turned him unto his disciples, and said privately, Blessed are the eyes which see the things that ye see: 10:24 For I tell you, that many prophets and kings have desired to see those things which ye see, and have not seen them; and to hear those things which ye hear, and have not heard them.
+
+#### Satan and devils get trampled by Jesus' followers
+
+In this passage, Jesus sends 70 missionaries to do his work. Jesus enables them to make the "devils" submit to them. 
+
+Jesus says he "beheld Satan as lightning fall from heaven."
+
+Jesus also says "I give unto you power to tread on serpents and scorpions, and over all the power of the enemy:". This is particularly interesting when reading it in a contemporary context. 
+
+![Gadsden flag. Image by Clker-Free-Vector-Images from Pixabay.](https://user-images.githubusercontent.com/67705789/213932693-27ca21ee-c005-40bf-a90a-d06c962f74fe.png)
+
+Of course, treading on serpents alludes to Genesis where God said that Eve's offspring would tread on the serpent's offspring.
+
+
+#### Summary
+
+**Satan is a fallen angel. He is among the undertrodden enemies of Jesus/God.**
+
 ### 13:10-17 😈
 ### 22:1-6 😈
 ### 22:31-34 😈
