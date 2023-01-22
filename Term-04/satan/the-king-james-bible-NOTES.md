@@ -19,7 +19,7 @@ Notes by Jonathan A. McCormick, Jr.
 * Luke 😈
   * [10:1-24 😈 Satan: the Descending Lightning Bolt, the Undertrodden Serpent](#101-24--satan-the-descending-lightning-bolt-the-undertrodden-serpent)
   * [13:10-17 😈 Satan: the Blame Recipient for Maladies](#1310-17--satan-the-blame-recipient-for-maladies)
-  * 22:1-6 😈 
+  * [22:1-6 😈 Satan: The Devil Made Me Do It](#221-6--satan-the-devil-made-me-do-it)
   * 22:31-34 😈
 * John 😈
   * 8:39-47 😈
@@ -463,7 +463,22 @@ Of course, treading on serpents alludes to Genesis where God said that Eve's off
 
 **Physical maladies are blamed on Satan.**
 
-### 22:1-6 😈
+### 22:1-6 😈 Satan: The Devil Made Me Do It
+
+#### Text
+
+> 22:1 Now the feast of unleavened bread drew nigh, which is called the Passover. 22:2 And the chief priests and scribes sought how they might kill him; for they feared the people. 22:3 **Then entered Satan into Judas surnamed Iscariot,** being of the number of the twelve. 22:4 And he went his way, and communed with the chief priests and captains, how he might betray him unto them. 22:5 And they were glad, and covenanted to give him money. 22:6 And he promised, and sought opportunity to betray him unto them in the absence of the multitude.
+
+#### Satan possesses Judas
+
+Satan is blamed for inspiring Judas to betray Jesus. 
+
+Note that Judas gets financially compensated for his betrayal (althoguh he reportedly becomes regretful according to other passages). 
+
+#### Summary
+
+**Satan is blamed for making humans do bad stuff. #TheDevilMadeMeDoIt**
+
 ### 22:31-34 😈
 ## John 😈
 ### 8:39-47 😈
