@@ -23,7 +23,7 @@ Notes by Jonathan A. McCormick, Jr.
   * [22:31-34 😈 Satan: the Imminent Threat to Christian Devotion](#2231-34--satan-the-imminent-threat-to-christian-devotion)
 * John 😈
   * [8:37-52 😈 Satan: the Ad Hominem Tool and the "Father of Lies"](#837-52--satan-the-ad-hominem-tool-and-the-father-of-lies)
-  * 10:1-21 😈
+  * [10:1-21 😈 Satan: the Possessor of...Jesus?](#101-21--satan-the-possessor-ofjesus)
   * 13:21-31 😈
   * 14:30-31 😈
 * Acts 1:5-11 😈
@@ -514,7 +514,22 @@ Jesus and his fellow Jews criticized each other, claiming that the other side wa
 
 Also, Jesus calls Satan a "murderer", and the "father [of lies]". 
 
-### 10:1-21 😈
+### 10:1-21 😈 Satan: the Possessor of...Jesus?
+
+#### Text
+
+> 10:1 Verily, verily, I say unto you, He that entereth not by the door into the sheepfold, but climbeth up some other way, the same is a thief and a robber. 10:2 But he that entereth in by the door is the shepherd of the sheep. 10:3 To him the porter openeth; and the sheep hear his voice: and he calleth his own sheep by name, and leadeth them out. 10:4 And when he putteth forth his own sheep, he goeth before them, and the sheep follow him: for they know his voice. 10:5 And a stranger will they not follow, but will flee from him: for they know not the voice of strangers. 10:6 This parable spake Jesus unto them: but they understood not what things they were which he spake unto them. 10:7 Then said Jesus unto them again, Verily, verily, I say unto you, I am the door of the sheep. 10:8 All that ever came before me are thieves and robbers: but the sheep did not hear them. 10:9 I am the door: by me if any man enter in, he shall be saved, and shall go in and out, and find pasture. 10:10 The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have it more abundantly. 10:11 I am the good shepherd: the good shepherd giveth his life for the sheep. 10:12 But he that is an hireling, and not the shepherd, whose own the sheep are not, seeth the wolf coming, and leaveth the sheep, and fleeth: and the wolf catcheth them, and scattereth the sheep. 10:13 The hireling fleeth, because he is an hireling, and careth not for the sheep. 10:14 I am the good shepherd, and know my sheep, and am known of mine. 10:15 As the Father knoweth me, even so know I the Father: and I lay down my life for the sheep. 10:16 And other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, and one shepherd. 10:17 Therefore doth my Father love me, because I lay down my life, that I might take it again. 10:18 No man taketh it from me, but I lay it down of myself. I have power to lay it down, and I have power to take it again. This commandment have I received of my Father. 10:19 There was a division therefore again among the Jews for these sayings. 10:20 And many of them said, **He hath a devil, and is mad; why hear ye him?  10:21 Others said, These are not the words of him that hath a devil. Can a devil open the eyes of the blind?**
+
+#### Satan as an ad hominem tool (again)
+
+Here, Satan is used as a tool to discredit what someone has to say. Don't like what someone says? Gossip about how they are demon-possessed/crazy. 
+
+Another interesting thing to note is that this passage repeats the theme of Jesus' followers being described as "sheep" [in contrast to the Satanic "goats"]. 
+
+#### Summary
+
+**Once again, Satan is used as an ad hominem tool.**
+
 ### 13:21-31 😈
 ### 14:30-31 😈
 ## Acts 1:5-11 😈
