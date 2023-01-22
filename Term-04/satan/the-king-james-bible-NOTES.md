@@ -22,7 +22,7 @@ Notes by Jonathan A. McCormick, Jr.
   * [22:1-6 😈 Satan: The Devil Made Me Do It](#221-6--satan-the-devil-made-me-do-it)
   * [22:31-34 😈 Satan: the Imminent Threat to Christian Devotion](#2231-34--satan-the-imminent-threat-to-christian-devotion)
 * John 😈
-  * 8:39-47 😈
+  * [8:37-52 😈 Satan: the Ad Hominem Tool and the "Father of Lies"](#837-52--satan-the-ad-hominem-tool-and-the-father-of-lies)
   * 10:1-21 😈
   * 13:21-31 😈
   * 14:30-31 😈
@@ -48,6 +48,8 @@ Notes by Jonathan A. McCormick, Jr.
   * 12 😈
   * 17-18 😈
   * 20 😈
+
+NOTE: The text quotations of the KJV Bible may have emphasis added. 
 
 ## Genesis 1-3 😈 Satan: the Serpent 
 
@@ -494,7 +496,24 @@ With Judas having been possessed by Satan, Jesus warns peter of the potential of
 **Satan is viewed as an imminent and mysterious spiritual force that threatens the devotion of Christians.**
 
 ## John 😈
-### 8:39-47 😈
+### 8:37-52 😈 Satan: the Ad Hominem Tool and the "Father of Lies"
+
+#### Text
+
+> 8:37 I know that ye are Abraham’s seed; but ye seek to kill me, because my word hath no place in you. 8:38 I speak that which I have seen with my Father: and ye do that which ye have seen with your father. 8:39 They answered and said unto him, Abraham is our father. Jesus saith unto them, If ye were Abraham’s children, ye would do the works of Abraham. 8:40 But now ye seek to kill me, a man that hath told you the truth, which I have heard of God: this did not Abraham. 8:41 Ye do the deeds of your father. Then said they to him, We be not born of fornication; we have one Father, even God. 8:42 Jesus said unto them, If God were your Father, ye would love me: for I proceeded forth and came from God; neither came I of myself, but he sent me. 8:43 Why do ye not understand my speech? even because ye cannot hear my word. 8:44 **Ye are of your father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth, because there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it.** 8:45 And because I tell you the truth, ye believe me not. 8:46 Which of you convinceth me of sin? And if I say the truth, why do ye not believe me?  8:47 He that is of God heareth God’s words: ye therefore hear them not, because ye are not of God. 8:48 Then answered the Jews, and said unto him, Say we not well that thou art a Samaritan, and hast a devil?  8:49 Jesus answered, I have not a devil; but I honour my Father, and ye do dishonour me. 8:50 And I seek not mine own glory: there is one that seeketh and judgeth. 8:51 Verily, verily, I say unto you, If a man keep my saying, he shall never see death. 8:52 Then said the Jews unto him, **Now we know that thou hast a devil.** Abraham is dead, and the prophets; and thou sayest, If a man keep my saying, he shall never taste of death.
+
+#### Blame game between Jesus and the Jews around him
+
+Jesus and his fellow Jews criticized each other, claiming that the other side was possessed by devil(s). 
+
+![If 2 people are in a debate, and one argues that the other is demon-possessed, is that a logical fallacy? It would be a logical fallacy known as ad hominem, which means attacking the person instead of their argument. This type of argument is fallacious because it attempts to undermine the person's argument by attacking their character or personal attributes, rather than addressing the actual evidence or reasoning presented. It is a logical fallacy because the person's possession by a demon is irrelevant to the truth or falsity of the argument they are making.](https://user-images.githubusercontent.com/67705789/213946923-ae08653a-70b3-48dc-bf66-0650ac48c4ee.png)
+
+#### Summary
+
+**If my enemy makes me triggered in a debate, then I'll just tell him that he's possessed by Satan! #AdHominem**
+
+Also, Jesus calls Satan a "murderer", and the "father [of lies]". 
+
 ### 10:1-21 😈
 ### 13:21-31 😈
 ### 14:30-31 😈
