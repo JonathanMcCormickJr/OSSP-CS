@@ -20,7 +20,7 @@ Notes by Jonathan A. McCormick, Jr.
   * [10:1-24 😈 Satan: the Descending Lightning Bolt, the Undertrodden Serpent](#101-24--satan-the-descending-lightning-bolt-the-undertrodden-serpent)
   * [13:10-17 😈 Satan: the Blame Recipient for Maladies](#1310-17--satan-the-blame-recipient-for-maladies)
   * [22:1-6 😈 Satan: The Devil Made Me Do It](#221-6--satan-the-devil-made-me-do-it)
-  * 22:31-34 😈
+  * [22:31-34 😈 Satan: the Imminent Threat to Christian Devotion](#2231-34--satan-the-imminent-threat-to-christian-devotion)
 * John 😈
   * 8:39-47 😈
   * 10:1-21 😈
@@ -479,7 +479,20 @@ Note that Judas gets financially compensated for his betrayal (althoguh he repor
 
 **Satan is blamed for making humans do bad stuff. #TheDevilMadeMeDoIt**
 
-### 22:31-34 😈
+### 22:31-34 😈 Satan: the Imminent Threat to Christian Devotion
+
+#### Text
+
+> 22:31 And the Lord said, Simon, Simon, behold, **Satan hath desired to have you,** that he may sift you as wheat: 22:32 But I have prayed for thee, that thy faith fail not: and when thou art converted, strengthen thy brethren. 22:33 And he said unto him, Lord, I am ready to go with thee, both into prison, and to death. 22:34 And he said, I tell thee, Peter, the cock shall not crow this day, before that thou shalt thrice deny that thou knowest me.
+
+#### Jesus warns Peter about Satan 
+
+With Judas having been possessed by Satan, Jesus warns peter of the potential of Satan being involved in Peter's decision-making processes as well. 
+
+#### Summary
+
+**Satan is viewed as an imminent and mysterious spiritual force that threatens the devotion of Christians.**
+
 ## John 😈
 ### 8:39-47 😈
 ### 10:1-21 😈
