@@ -19,12 +19,12 @@ Notes by Jonathan A. McCormick, Jr.
 * Luke 😈
   * [10:1-24 😈 Satan: the Descending Lightning Bolt, the Undertrodden Serpent](#101-24--satan-the-descending-lightning-bolt-the-undertrodden-serpent)
   * [13:10-17 😈 Satan: the Blame Recipient for Maladies](#1310-17--satan-the-blame-recipient-for-maladies)
-  * [22:1-6 😈 Satan: The Devil Made Me Do It](#221-6--satan-the-devil-made-me-do-it)
+  * [22:1-6 😈 Satan: the Possessor of Judas](#221-6--satan-the-possessor-of-judas)
   * [22:31-34 😈 Satan: the Imminent Threat to Christian Devotion](#2231-34--satan-the-imminent-threat-to-christian-devotion)
 * John 😈
   * [8:37-52 😈 Satan: the Ad Hominem Tool and the "Father of Lies"](#837-52--satan-the-ad-hominem-tool-and-the-father-of-lies)
   * [10:1-21 😈 Satan: the Possessor of...Jesus?](#101-21--satan-the-possessor-ofjesus)
-  * 13:21-31 😈
+  * [13:21-31 😈 Satan: the Possessor of Judas](#1321-31--satan-the-possessor-of-judas)
   * 14:30-31 😈
 * Acts 1:5-11 😈
 * Romans 😈 
@@ -465,7 +465,7 @@ Of course, treading on serpents alludes to Genesis where God said that Eve's off
 
 **Physical maladies are blamed on Satan.**
 
-### 22:1-6 😈 Satan: The Devil Made Me Do It
+### 22:1-6 😈 Satan: the Possessor of Judas
 
 #### Text
 
@@ -530,7 +530,16 @@ Another interesting thing to note is that this passage repeats the theme of Jesu
 
 **Once again, Satan is used as an ad hominem tool.**
 
-### 13:21-31 😈
+### 13:21-31 😈 Satan: the Possessor of Judas
+
+#### Text 
+
+> 13:21 When Jesus had thus said, he was troubled in spirit, and testified, and said, Verily, verily, I say unto you, that one of you shall betray me. 13:22 Then the disciples looked one on another, doubting of whom he spake. 13:23 Now there was leaning on Jesus’ bosom one of his disciples, whom Jesus loved. 13:24 Simon Peter therefore beckoned to him, that he should ask who it should be of whom he spake. 13:25 He then lying on Jesus’ breast saith unto him, Lord, who is it? 13:26 Jesus answered, He it is, to whom I shall give a sop, when I have dipped it. And when he had dipped the sop, he gave it to Judas Iscariot, the son of Simon. 13:27 **And after the sop Satan entered into him.** Then said Jesus unto him, That thou doest, do quickly. 13:28 Now no man at the table knew for what intent he spake this unto him. 13:29 For some of them thought, because Judas had the bag, that Jesus had said unto him, Buy those things that we have need of against the feast; or, that he should give something to the poor. 13:30 He then having received the sop went immediately out: and it was night. 13:31 Therefore, when he was gone out, Jesus said, Now is the Son of man glorified, and God is glorified in him
+
+#### Summary
+
+Satan is believed to have entered Judas during the Last Supper.
+
 ### 14:30-31 😈
 ## Acts 1:5-11 😈
 ## Romans 😈
