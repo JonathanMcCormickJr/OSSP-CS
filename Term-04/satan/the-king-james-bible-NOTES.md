@@ -28,7 +28,7 @@ Notes by Jonathan A. McCormick, Jr.
   * [14:30-31 😈 Satan: the Prince of This World](#1430-31--satan-the-prince-of-this-world)
 * Romans 😈 
   * [13:1-7 😈 God: the Ordainer of Arbitrary Authorities](#131-7--god-the-ordainer-of-arbitrary-authorities)
-  * 16:17-20 😈
+  * [16:17-20 😈 Satan: the Evil to be Bruised Underfoot](#1617-20--satan-the-evil-to-be-bruised-underfoot)
 * 1 Corinthians 7 😈
 * 2 Corinthians 😈
   * 2:5-11 😈
@@ -564,7 +564,16 @@ Since God is endorsing the worldly rulers, it is natural that those who would ch
 
 Satan (as the adversary of God and based on his presence in the greater context of the Bible) can be viewed as a challenger of arbitrary authority, both in heaven and on earth. 
 
-### 16:17-20 😈
+### 16:17-20 😈 Satan: the Evil to be Bruised Underfoot
+
+#### Text
+
+> 16:17 Now I beseech you, brethren, mark them which cause divisions and offences contrary to the doctrine which ye have learned; and avoid them. 16:18 For they that are such serve not our Lord Jesus Christ, but their own belly; and by good words and fair speeches deceive the hearts of the simple. 16:19 For your obedience is come abroad unto all men. I am glad therefore on your behalf: but yet I would have you wise unto that which is good, and simple concerning evil. 16:20 **And the God of peace shall bruise Satan under your feet shortly.** The grace of our Lord Jesus Christ be with you. Amen.
+
+#### Summary
+
+Once again, **Satan is portrayed as a being that is to be bruised underfoot.**
+
 ## 1 Corinthians 7 😈
 ## 2 Corinthians 😈
 ### 2:5-11 😈
