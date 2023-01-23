@@ -25,7 +25,7 @@ Notes by Jonathan A. McCormick, Jr.
   * [8:37-52 😈 Satan: the Ad Hominem Tool and the "Father of Lies"](#837-52--satan-the-ad-hominem-tool-and-the-father-of-lies)
   * [10:1-21 😈 Satan: the Possessor of...Jesus?](#101-21--satan-the-possessor-ofjesus)
   * [13:21-31 😈 Satan: the Possessor of Judas](#1321-31--satan-the-possessor-of-judas)
-  * 14:30-31 😈
+  * [14:30-31 😈 Satan: the Prince of This World](#1430-31--satan-the-prince-of-this-world)
 * Acts 1:5-11 😈
 * Romans 😈 
   * 13:1-7 😈
@@ -540,7 +540,16 @@ Another interesting thing to note is that this passage repeats the theme of Jesu
 
 Satan is believed to have entered Judas during the Last Supper.
 
-### 14:30-31 😈
+### 14:30-31 😈 Satan: the Prince of This World
+
+#### Text
+
+> 14:30 Hereafter I will not talk much with you: for the prince of this world cometh, and hath nothing in me. 14:31 But that the world may know that I love the Father; and as the Father gave me commandment, even so I do. Arise, let us go hence.
+
+#### Summary
+
+Here, Jesus referrs to Satan as **"The Prince of this World"**.
+
 ## Acts 1:5-11 😈
 ## Romans 😈
 ### 13:1-7 😈
