@@ -32,7 +32,6 @@ Notes by Jonathan A. McCormick, Jr.
 * [1 Corinthians 7 😈 Satan: the Promoter of Human Libido](#1-corinthians-7--satan-the-promoter-of-human-libido)
 * 2 Corinthians 😈
   * [2:11 😈 Satan: the Trickster](#211--satan-the-trickster)
-  * 4:1-6 😈
   * 11:1-15 😈
 * Ephesians 😈
   * 2:1-3 😈
@@ -599,7 +598,6 @@ Satan encourages human libido, often contrary to the "holy" pursuits of a Christ
 
 Satan is viewed as a trickster.
 
-### 4:1-6 😈
 ### 11:1-15 😈
 ## Ephesians 😈
 ### 2:1-3 😈
