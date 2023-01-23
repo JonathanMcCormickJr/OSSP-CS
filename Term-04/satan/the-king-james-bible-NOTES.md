@@ -26,9 +26,8 @@ Notes by Jonathan A. McCormick, Jr.
   * [10:1-21 😈 Satan: the Possessor of...Jesus?](#101-21--satan-the-possessor-ofjesus)
   * [13:21-31 😈 Satan: the Possessor of Judas](#1321-31--satan-the-possessor-of-judas)
   * [14:30-31 😈 Satan: the Prince of This World](#1430-31--satan-the-prince-of-this-world)
-* Acts 1:5-11 😈
 * Romans 😈 
-  * 13:1-7 😈
+  * [13:1-7 😈 God: the Ordainer of Arbitrary Authorities](#131-7--god-the-ordainer-of-arbitrary-authorities)
   * 16:17-20 😈
 * 1 Corinthians 7 😈
 * 2 Corinthians 😈
@@ -550,9 +549,21 @@ Satan is believed to have entered Judas during the Last Supper.
 
 Here, Jesus referrs to Satan as **"The Prince of this World"**.
 
-## Acts 1:5-11 😈
 ## Romans 😈
-### 13:1-7 😈
+### 13:1-7 😈 God: the Ordainer of Arbitrary Authorities
+
+#### Text
+
+> 13:1 Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God. 13:2 **Whosoever therefore resisteth the power, resisteth the ordinance of God: and they that resist shall receive to themselves damnation.** 13:3 For rulers are not a terror to good works, but to the evil. Wilt thou then not be afraid of the power? do that which is good, and thou shalt have praise of the same: 13:4 For he is the minister of God to thee for good. But if thou do that which is evil, be afraid; for he beareth not the sword in vain: for he is the minister of God, a revenger to execute wrath upon him that doeth evil. 13:5 Wherefore ye must needs be subject, not only for wrath, but also for conscience sake. 13:6 For for this cause pay ye tribute also: for they are God’s ministers, attending continually upon this very thing. 13:7 Render therefore to all their dues: tribute to whom tribute is due; custom to whom custom; fear to whom fear; honour to whom honour.
+
+#### Satanists challenge arbitrary authority
+
+Since God is endorsing the worldly rulers, it is natural that those who would challenge arbitrary authority would be labeled as "satanic". 
+
+#### Summary
+
+Satan (as the adversary of God and based on his presence in the greater context of the Bible) can be viewed as a challenger of arbitrary authority, both in heaven and on earth. 
+
 ### 16:17-20 😈
 ## 1 Corinthians 7 😈
 ## 2 Corinthians 😈
