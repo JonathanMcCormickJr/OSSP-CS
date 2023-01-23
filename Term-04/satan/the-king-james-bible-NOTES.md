@@ -31,7 +31,7 @@ Notes by Jonathan A. McCormick, Jr.
   * [16:17-20 😈 Satan: the Evil to be Bruised Underfoot](#1617-20--satan-the-evil-to-be-bruised-underfoot)
 * [1 Corinthians 7 😈 Satan: the Promoter of Human Libido](#1-corinthians-7--satan-the-promoter-of-human-libido)
 * 2 Corinthians 😈
-  * 2:5-11 😈
+  * [2:11 😈 Satan: the Trickster](#211--satan-the-trickster)
   * 4:1-6 😈
   * 11:1-15 😈
 * Ephesians 😈
@@ -589,7 +589,16 @@ Paul makes a sort of spectrum of devotion to God. Actual "sin" is at one extreme
 Satan encourages human libido, often contrary to the "holy" pursuits of a Christian missionary lifestyle. 
 
 ## 2 Corinthians 😈
-### 2:5-11 😈
+### 2:11 😈 Satan: the Trickster
+
+#### Text
+
+> 2:11 Lest Satan should get an advantage of us: for we are not ignorant of his devices.
+
+#### Summary
+
+Satan is viewed as a trickster.
+
 ### 4:1-6 😈
 ### 11:1-15 😈
 ## Ephesians 😈
