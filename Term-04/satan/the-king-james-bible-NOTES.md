@@ -32,7 +32,7 @@ Notes by Jonathan A. McCormick, Jr.
 * [1 Corinthians 7 😈 Satan: the Promoter of Human Libido](#1-corinthians-7--satan-the-promoter-of-human-libido)
 * 2 Corinthians 😈
   * [2:11 😈 Satan: the Trickster](#211--satan-the-trickster)
-  * 11:1-15 😈
+  * [11:1-15 😈 Satan: the Shapeshifter, the Angel of Light](#111-15--satan-the-shapeshifter-the-angel-of-light)
 * Ephesians 😈
   * 2:1-3 😈
   * 4:17 -- 6:1-20 😈
@@ -598,7 +598,16 @@ Satan encourages human libido, often contrary to the "holy" pursuits of a Christ
 
 Satan is viewed as a trickster.
 
-### 11:1-15 😈
+### 11:1-15 😈 Satan: the Shapeshifter, the Angel of Light
+
+#### Text
+
+> 11:1 Would to God ye could bear with me a little in my folly: and indeed bear with me. 11:2 For I am jealous over you with godly jealousy: for I have espoused you to one husband, that I may present you as a chaste virgin to Christ. 11:3 **But I fear, lest by any means, as the serpent beguiled Eve through his subtilty, so your minds should be corrupted from the simplicity that is in Christ.** 11:4 For if he that cometh preacheth another Jesus, whom we have not preached, or if ye receive another spirit, which ye have not received, or another gospel, which ye have not accepted, ye might well bear with him. 11:5 For I suppose I was not a whit behind the very chiefest apostles. 11:6 But though I be rude in speech, yet not in knowledge; but we have been throughly made manifest among you in all things. 11:7 Have I committed an offence in abasing myself that ye might be exalted, because I have preached to you the gospel of God freely? 11:8 I robbed other churches, taking wages of them, to do you service. 11:9 And when I was present with you, and wanted, I was chargeable to no man: for that which was lacking to me the brethren which came from Macedonia supplied: and in all things I have kept myself from being burdensome unto you, and so will I keep myself. 11:10 As the truth of Christ is in me, no man shall stop me of this boasting in the regions of Achaia. 11:11 Wherefore? because I love you not? God knoweth. 11:12 But what I do, that I will do, that I may cut off occasion from them which desire occasion; that wherein they glory, they may be found even as we. 11:13 For such are false apostles, deceitful workers, transforming themselves into the apostles of Christ. 11:14 And no marvel; **for Satan himself is transformed into an angel of light.** 11:15 Therefore it is no great thing if his ministers also be transformed as the ministers of righteousness; whose end shall be according to their works.
+
+#### Summary
+
+Here, the Serpent of Genesis is mentioned again. Also, Satan is described as a shapeshifter who is able to impersonate "an angel of light".
+
 ## Ephesians 😈
 ### 2:1-3 😈
 ### 4:17 -- 6:1-20 😈
