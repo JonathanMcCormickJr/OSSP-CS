@@ -34,7 +34,7 @@ Notes by Jonathan A. McCormick, Jr.
   * [2:11 😈 Satan: the Trickster](#211--satan-the-trickster)
   * [11:1-15 😈 Satan: the Shapeshifter, the Angel of Light](#111-15--satan-the-shapeshifter-the-angel-of-light)
 * Ephesians 😈
-  * 2:1-3 😈
+  * [2:1-3 😈 Satan: the Prince of the Power of the Air, the Promoter of Carnal Indulgence](#21-3--satan-the-prince-of-the-power-of-the-air-the-promoter-of-carnal-indulgence)
   * 4:17 -- 6:1-20 😈
 * James 4:1-10 😈
 * 1 Peter 5:6-11 😈
@@ -609,7 +609,16 @@ Satan is viewed as a trickster.
 Here, the Serpent of Genesis is mentioned again. Also, Satan is described as a shapeshifter who is able to impersonate "an angel of light".
 
 ## Ephesians 😈
-### 2:1-3 😈
+### 2:1-3 😈 Satan: the Prince of the Power of the Air, the Promoter of Carnal Indulgence
+
+#### Text
+
+> 2:1 And you hath he quickened, who were dead in trespasses and sins; 2:2 Wherein in time past ye walked according to the course of this world, according to **the prince of the power of the air, the spirit that now worketh in the children of disobedience:** 2:3 Among whom also we all had our conversation in times past in the lusts of our flesh, fulfilling the desires of the flesh and of the mind; and were by nature the children of wrath, even as others.
+
+#### Summary
+
+Satan is "the prince of the power of the air". He makes people want to sin. But a person's own "flesh" also is driving the motive to sin. So Satan can be used as a symbol for representing the carnal nature of humanity. 
+
 ### 4:17 -- 6:1-20 😈
 ## James 4:1-10 😈
 ## 1 Peter 5:6-11 😈
