@@ -37,7 +37,7 @@ Notes by Jonathan A. McCormick, Jr.
   * [2:1-3 😈 Satan: the Prince of the Power of the Air, the Promoter of Carnal Indulgence](#21-3--satan-the-prince-of-the-power-of-the-air-the-promoter-of-carnal-indulgence)
   * [4:17 -- 6:20 😈 Satan: Spiritual Wickedness in High Places](#417----620--satan-spiritual-wickedness-in-high-places)
 * [James 4:1-10 😈 Satan: the Pragmatist](#james-41-10--satan-the-pragmatist)
-* 1 Peter 5:6-11 😈
+* [1 Peter 5:6-11 😈 Satan: the Roaring Lion](#1-peter-56-11--satan-the-roaring-lion)
 * 2 Peter 1-2 😈
 * 1 John 😈
   * 3:1-10 😈
@@ -673,7 +673,16 @@ Once again, sexual sins are used to characterize satanic influence.
 
 In addition, friendship with "the world" is mutually exclusive to friendship with God. Therefore, since friendship with the world is emnity with God, pragmatism can be viewed as "satanic". 
 
-## 1 Peter 5:6-11 😈
+## 1 Peter 5:6-11 😈 Satan: the Roaring Lion
+
+### Text
+
+> 5:6 Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time: 5:7 Casting all your care upon him; for he careth for you. 5:8 **Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour:** 5:9 Whom resist stedfast in the faith, knowing that the same afflictions are accomplished in your brethren that are in the world. 5:10 But the God of all grace, who hath called us unto his eternal glory by Christ Jesus, after that ye have suffered a while, make you perfect, stablish, strengthen, settle you. 5:11 To him be glory and dominion for ever and ever. Amen.
+
+### Summary
+
+Satan is described as being like "a roaring lion".
+
 ## 2 Peter 1-2 😈
 ## 1 John 😈
 ### 3:1-10 😈
