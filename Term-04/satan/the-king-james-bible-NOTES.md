@@ -41,7 +41,7 @@ Notes by Jonathan A. McCormick, Jr.
 * [2 Peter 1-2 😈 Satan: Influencing Humans to "Despise Government"](#2-peter-1-2--satan-influencing-humans-to-despise-government)
 * 1 John 😈
   * [3:1-10 😈 Satan: the Sinner](#31-10--satan-the-sinner)
-  * 5:13-21 😈
+  * [5:13-21 😈 Satan: the Wicked One](#513-21--satan-the-wicked-one)
 * Revelation 😈
   * 12 😈
   * 17-18 😈
@@ -706,7 +706,22 @@ Those who "despise government" are described as being among the "unjust".
 
 Here, sinners are said to be "of the devil". And "the devil sinneth from the beginning." Jesus' work was to "destroy the works of the devil."
 
-### 5:13-21 😈
+### 5:13-21 😈 Satan: the Wicked One
+
+#### Text
+
+> 5:13 These things have I written unto you that believe on the name of the Son of God; that ye may know that ye have eternal life, and that ye may believe on the name of the Son of God. 5:14 And this is the confidence that we have in him, that, if we ask any thing according to his will, he heareth us: 5:15 And if we know that he hear us, whatsoever we ask, we know that we have the petitions that we desired of him. 5:16 If any man see his brother sin a sin which is not unto death, he shall ask, and he shall give him life for them that sin not unto death. There is a sin unto death: I do not say that he shall pray for it. 5:17 **All unrighteousness is sin:** and there is a sin not unto death. 5:18 We know that whosoever is born of God sinneth not; but he that is begotten of God keepeth himself, and that **wicked one toucheth him not. 5:19 And we know that we are of God, and the whole world lieth in wickedness.** 5:20 And we know that the Son of God is come, and hath given us an understanding, that we may know him that is true, and we are in him that is true, even in his Son Jesus Christ. This is the true God, and eternal life. 5:21 Little children, keep yourselves from idols. Amen.
+
+I asked ChatGPT about who this "wicked one" is. 
+
+![image](https://user-images.githubusercontent.com/67705789/214678290-0cdb2e05-19ee-4044-89a0-fe17cde0dec8.png)
+
+I could have guessed that one!
+
+#### Summary
+
+Here, Satan is referred to as "wicked one". 
+
 ## Revelation 😈 
 ### 12 😈
 ### 17-18 😈
