@@ -40,7 +40,7 @@ Notes by Jonathan A. McCormick, Jr.
 * [1 Peter 5:6-11 😈 Satan: the Roaring Lion](#1-peter-56-11--satan-the-roaring-lion)
 * [2 Peter 1-2 😈 Satan: Influencing Humans to "Despise Government"](#2-peter-1-2--satan-influencing-humans-to-despise-government)
 * 1 John 😈
-  * 3:1-10 😈
+  * [3:1-10 😈 Satan: the Sinner](#31-10--satan-the-sinner)
   * 5:13-21 😈
 * Revelation 😈
   * 12 😈
@@ -696,7 +696,16 @@ God sent the sinful angels to Hell.
 Those who "despise government" are described as being among the "unjust". 
 
 ## 1 John 😈
-### 3:1-10 😈
+### 3:1-10 😈 Satan: the Sinner
+
+#### Text
+
+> 3:1 Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not. 3:2 Beloved, now are we the sons of God, and it doth not yet appear what we shall be: but we know that, when he shall appear, we shall be like him; for we shall see him as he is. 3:3 And every man that hath this hope in him purifieth himself, even as he is pure. 3:4 Whosoever committeth sin transgresseth also the law: for sin is the transgression of the law. 3:5 And ye know that he was manifested to take away our sins; and in him is no sin. 3:6 Whosoever abideth in him sinneth not: whosoever sinneth hath not seen him, neither known him. 3:7 Little children, let no man deceive you: he that doeth righteousness is righteous, even as he is righteous. 3:8 **He that committeth sin is of the devil; for the devil sinneth from the beginning. For this purpose the Son of God was manifested, that he might destroy the works of the devil.** 3:9 Whosoever is born of God doth not commit sin; for his seed remaineth in him: and he cannot sin, because he is born of God. 3:10 In this the children of God are manifest, and the children of the devil: whosoever doeth not righteousness is not of God, neither he that loveth not his brother.
+
+#### Summary
+
+Here, sinners are said to be "of the devil". And "the devil sinneth from the beginning." Jesus' work was to "destroy the works of the devil."
+
 ### 5:13-21 😈
 ## Revelation 😈 
 ### 12 😈
