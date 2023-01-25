@@ -35,7 +35,7 @@ Notes by Jonathan A. McCormick, Jr.
   * [11:1-15 😈 Satan: the Shapeshifter, the Angel of Light](#111-15--satan-the-shapeshifter-the-angel-of-light)
 * Ephesians 😈
   * [2:1-3 😈 Satan: the Prince of the Power of the Air, the Promoter of Carnal Indulgence](#21-3--satan-the-prince-of-the-power-of-the-air-the-promoter-of-carnal-indulgence)
-  * 4:17 -- 6:1-20 😈
+  * [4:17 -- 6:20 😈 Satan: Spiritual Wickedness in High Places](#417----620--satan-spiritual-wickedness-in-high-places)
 * James 4:1-10 😈
 * 1 Peter 5:6-11 😈
 * 2 Peter 1-2 😈
@@ -619,7 +619,48 @@ Here, the Serpent of Genesis is mentioned again. Also, Satan is described as a s
 
 Satan is "the prince of the power of the air". He makes people want to sin. But a person's own "flesh" also is driving the motive to sin. So Satan can be used as a symbol for representing the carnal nature of humanity. 
 
-### 4:17 -- 6:1-20 😈
+### 4:17 -- 6:20 😈 Satan: Spiritual Wickedness in High Places
+
+#### Text 
+
+> 4:17 This I say therefore, and testify in the Lord, that ye henceforth walk not as other Gentiles walk, in the vanity of their mind, 4:18 Having the understanding darkened, being alienated from the life of God through the ignorance that is in them, because of the blindness of their heart: 4:19 Who being past feeling have **given themselves over unto lasciviousness, to work all uncleanness with greediness.** 4:20 But ye have not so learned Christ; 4:21 If so be that ye have heard him, and have been taught by him, as the truth is in Jesus: 4:22 That ye put off concerning the former conversation **the old man, which is corrupt according to the deceitful lusts;** 4:23 And be renewed in the spirit of your mind; 4:24 And that ye put on the new man, which after God is created in righteousness and true holiness. 4:25 Wherefore putting away lying, speak every man truth with his neighbour: for we are members one of another. 4:26 Be ye angry, and sin not: let not the sun go down upon your wrath: 4:27 **Neither give place to the devil.** 4:28 Let him that stole steal no more: but rather let him labour, working with his hands the thing which is good, that he may have to give to him that needeth. 4:29 Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers. 4:30 And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption. 4:31 Let all bitterness, and wrath, and anger, and clamour, and evil speaking, be put away from you, with all malice: 4:32 And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ’s sake hath forgiven you. 5:1 Be ye therefore followers of God, as dear children; 5:2 And walk in love, as Christ also hath loved us, and hath given himself for us an offering and a sacrifice to God for a sweetsmelling savour. 5:3 **But fornication, and all uncleanness, or covetousness, let it not be once named among you, as becometh saints; 5:4 Neither filthiness, nor foolish talking, nor jesting, which are not convenient: but rather giving of thanks. 5:5 For this ye know, that no whoremonger, nor unclean person, nor covetous man, who is an idolater, hath any inheritance in the kingdom of Christ and of God. 5:6 Let no man deceive you with vain words: for because of these things cometh the wrath of God upon the children of disobedience. 5:7 Be not ye therefore partakers with them. 5:8 For ye were sometimes darkness, but now are ye light in the Lord: walk as children of light: 5:9 (For the fruit of the Spirit is in all goodness and righteousness and truth;) 5:10 Proving what is acceptable unto the Lord. 5:11 And have no fellowship with the unfruitful works of darkness, but rather reprove them. 5:12 For it is a shame even to speak of those things which are done of them in secret.** 5:13 But all things that are reproved are made manifest by the light: for whatsoever doth make manifest is light. 5:14 Wherefore he saith, Awake thou that sleepest, and arise from the dead, and Christ shall give thee light. 5:15 See then that ye walk circumspectly, not as fools, but as wise, 5:16 **Redeeming the time, because the days are evil.** 5:17 Wherefore be ye not unwise, but understanding what the will of the Lord is. 5:18 And be not drunk with wine, wherein is excess; but be filled with the Spirit; 5:19 Speaking to yourselves in psalms and hymns and spiritual songs, singing and making melody in your heart to the Lord; 5:20 Giving thanks always for all things unto God and the Father in the name of our Lord Jesus Christ; 5:21 **Submitting yourselves one to another in the fear of God.** 5:22 Wives, submit yourselves unto your own husbands, as unto the Lord. 5:23 For the husband is the head of the wife, even as Christ is the head of the church: and he is the saviour of the body. 5:24 Therefore as the church is subject unto Christ, so let the wives be to their own husbands in every thing. 5:25 Husbands, love your wives, even as Christ also loved the church, and gave himself for it; 5:26 That he might sanctify and cleanse it with the washing of water by the word, 5:27 That he might present it to himself a glorious church, not having spot, or wrinkle, or any such thing; but that it should be holy and without blemish. 5:28 So ought men to love their wives as their own bodies. He that loveth his wife loveth himself. 5:29 For no man ever yet hated his own flesh; but nourisheth and cherisheth it, even as the Lord the church: 5:30 For we are members of his body, of his flesh, and of his bones. 5:31 For this cause shall a man leave his father and mother, and shall be joined unto his wife, and they two shall be one flesh. 5:32 This is a great mystery: but I speak concerning Christ and the church. 5:33 Nevertheless let every one of you in particular so love his wife even as himself; and the wife see that she reverence her husband. 6:1 Children, obey your parents in the Lord: for this is right. 6:2 Honour thy father and mother; which is the first commandment with promise; 6:3 That it may be well with thee, and thou mayest live long on the earth. 6:4 And, ye fathers, provoke not your children to wrath: but bring them up in the nurture and admonition of the Lord. 6:5 **Servants, be obedient to them that are your masters according to the flesh, with fear and trembling, in singleness of your heart, as unto Christ; 6:6 Not with eyeservice, as menpleasers; but as the servants of Christ, doing the will of God from the heart; 6:7 With good will doing service, as to the Lord, and not to men:** 6:8 Knowing that whatsoever good thing any man doeth, the same shall he receive of the Lord, whether he be bond or free. 6:9 And, ye masters, do the same things unto them, forbearing threatening: knowing that your Master also is in heaven; neither is there respect of persons with him. 6:10 Finally, my brethren, be strong in the Lord, and in the power of his might. 6:11 **Put on the whole armour of God, that ye may be able to stand against the wiles of the devil. 6:12 For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.** 6:13 Wherefore take unto you the whole armour of God, that ye may be able to withstand in the evil day, and having done all, to stand. 6:14 Stand therefore, having your loins girt about with truth, and having on the breastplate of righteousness; 6:15 And your feet shod with the preparation of the gospel of peace; 6:16 Above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the wicked. 6:17 And take the helmet of salvation, and the sword of the Spirit, which is the word of God: 6:18 Praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and supplication for all saints; 6:19 And for me, that utterance may be given unto me, that I may open my mouth boldly, to make known the mystery of the gospel, 6:20 For which I am an ambassador in bonds: that therein I may speak boldly, as I ought to speak.
+
+### Principalities and Powers
+
+**Paul mentions Satanic lifestyle characteristics, including, among others...**
+* lasciviousness
+* uncleanness
+* greediness
+* corruption
+* deceit
+* lust
+* lying
+* stealing
+* corrupt communication
+* bitterness
+* wrath
+* anger
+* clamour
+* evil speaking
+* malice
+* fornication
+* covetousness
+* filthiness
+* jesting
+* disobedience
+* unfruitful works of darkness
+
+
+It's interesting to note that Paul (a Christian) describes evil/sinful/satanic behaviors, including those that have victims (like stealing) as well as those that do not have victims (like lust). 
+
+Also, the strong emphasis on compliance and subservience to God and to worldly "masters" reinforces the message of Romans 13. Should an enslaved person wholeheartedly work to enrich the person who enslaved them? According to Paul, YES. 
+
+The struggle between God and Satan is described in this context not as one of "flesh and blood", but of "principalities, ...powers, ...rulers of the darkness of this world, [and]...spiritual wickedness in high places."
+
+#### Summary
+
+Paul (in classic Christian fashion) lists both victimless and victimfull "sins" in his lists of evil behaviors which followers of God must avoid in their efforts to resist the Devil. 
+
 ## James 4:1-10 😈
 ## 1 Peter 5:6-11 😈
 ## 2 Peter 1-2 😈
