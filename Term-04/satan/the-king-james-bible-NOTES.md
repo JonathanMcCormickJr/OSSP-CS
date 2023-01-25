@@ -36,7 +36,7 @@ Notes by Jonathan A. McCormick, Jr.
 * Ephesians 😈
   * [2:1-3 😈 Satan: the Prince of the Power of the Air, the Promoter of Carnal Indulgence](#21-3--satan-the-prince-of-the-power-of-the-air-the-promoter-of-carnal-indulgence)
   * [4:17 -- 6:20 😈 Satan: Spiritual Wickedness in High Places](#417----620--satan-spiritual-wickedness-in-high-places)
-* James 4:1-10 😈
+* [James 4:1-10 😈 Satan: the Pragmatist](#james-41-10--satan-the-pragmatist)
 * 1 Peter 5:6-11 😈
 * 2 Peter 1-2 😈
 * 1 John 😈
@@ -661,7 +661,18 @@ The struggle between God and Satan is described in this context not as one of "f
 
 Paul (in classic Christian fashion) lists both victimless and victimfull "sins" in his lists of evil behaviors which followers of God must avoid in their efforts to resist the Devil. 
 
-## James 4:1-10 😈
+## James 4:1-10 😈 Satan: the Pragmatist
+
+### Text
+
+> 4:1 From whence come wars and fightings among you? come they not hence, even of your lusts that war in your members?  4:2 Ye lust, and have not: ye kill, and desire to have, and cannot obtain: ye fight and war, yet ye have not, because ye ask not. 4:3 Ye ask, and receive not, because ye ask amiss, that ye may consume it upon your lusts. 4:4 **Ye adulterers and adulteresses, know ye not that the friendship of the world is enmity with God? whosoever therefore will be a friend of the world is the enemy of God.** 4:5 Do ye think that the scripture saith in vain, The spirit that dwelleth in us lusteth to envy?  4:6 But he giveth more grace. Wherefore he saith, God resisteth the proud, but giveth grace unto the humble. 4:7 Submit yourselves therefore to God. **Resist the devil,** and he will flee from you. 4:8 Draw nigh to God, and he will draw nigh to you. Cleanse your hands, ye sinners; and purify your hearts, ye double minded. 4:9 Be afflicted, and mourn, and weep: let your laughter be turned to mourning, and your joy to heaviness. 4:10 Humble yourselves in the sight of the Lord, and he shall lift you up.
+
+### Summary
+
+Once again, sexual sins are used to characterize satanic influence. 
+
+In addition, friendship with "the world" is mutually exclusive to friendship with God. Therefore, since friendship with the world is emnity with God, pragmatism can be viewed as "satanic". 
+
 ## 1 Peter 5:6-11 😈
 ## 2 Peter 1-2 😈
 ## 1 John 😈
