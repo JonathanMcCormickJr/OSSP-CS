@@ -15,6 +15,7 @@ A course that I have assembled for myself to study **the intersection between "S
 * [Andrews U: Satanic Influences on Disturbed Christians](https://web.archive.org/web/20220713142854/https://digitalcommons.andrews.edu/cgi/viewcontent.cgi?article=1627&context=dmin)
 * Think Big by Donald Trump
 * How to Win Friends and Influence People by Dale Carnegie
+* A Nation of Sheep by Andrew Napolitano (2007)
 
 
 ⛧
