@@ -45,7 +45,7 @@ Notes by Jonathan A. McCormick, Jr.
 * Revelation 😈
   * [12 😈 Satan: the Big Red Dragon](#12--satan-the-big-red-dragon)
   * [17-18 😈 Babylon: the Habitation of Devils](#17-18--babylon-the-habitation-of-devils)
-  * 20 😈
+  * [20 😈 Satan: the Political Prisoner](#20--satan-the-political-prisoner)
 
 NOTE: The text quotations of the KJV Bible may have emphasis added. 
 
@@ -752,4 +752,14 @@ God makes clear that he will have revenge for the crimes (violent and nonviolent
 The style of this passage also hints at Ezekiel 27 -- 28:1-19, where the rulers of Tyre are described as being prideful because of their worldly success. But God does not like them, so he promises to take away all their treasures and pleasures. 
 
 
-### 20 😈
+### 20 😈 Satan: the Political Prisoner
+
+Text
+
+> 20:1 And I saw an angel come down from heaven, having the key of **the bottomless pit** and a great chain in his hand. 20:2 And **he laid hold on the dragon, that old serpent, which is the Devil, and Satan, and bound him a thousand years, 20:3 And cast him into the bottomless pit, and shut him up, and set a seal upon him, that he should deceive the nations no more, till the thousand years should be fulfilled: and after that he must be loosed a little season.** 20:4 And I saw thrones, and they sat upon them, and judgment was given unto them: and I saw the souls of them that were beheaded for the witness of Jesus, and for the word of God, and which had not worshipped the beast, neither his image, neither had received his mark upon their foreheads, or in their hands; and they lived and reigned with Christ a thousand years. 20:5 But the rest of the dead lived not again until the thousand years were finished. This is the first resurrection. 20:6 Blessed and holy is he that hath part in the first resurrection: on such the second death hath no power, but they shall be priests of God and of Christ, and shall reign with him a thousand years. 20:7 **And when the thousand years are expired, Satan shall be loosed out of his prison, 20:8 And shall go out to deceive the nations which are in the four quarters of the earth, Gog, and Magog, to gather them together to battle:** the number of whom is as the sand of the sea. 20:9 And they went up on the breadth of the earth, and compassed the camp of the saints about, and the beloved city: and fire came down from God out of heaven, and devoured them. 20:10 **And the devil that deceived them was cast into the lake of fire and brimstone, where the beast and the false prophet are, and shall be tormented day and night for ever and ever.** 20:11 And I saw a great white throne, and him that sat on it, from whose face the earth and the heaven fled away; and there was found no place for them. 20:12 And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is the book of life: and the dead were judged out of those things which were written in the books, according to their works. 20:13 And the sea gave up the dead which were in it; and death and hell delivered up the dead which were in them: and they were judged every man according to their works. 20:14 And death and hell were cast into the lake of fire. This is the second death. 20:15 And whosoever was not found written in the book of life was cast into the lake of fire.
+
+Here, Satan is a poltical prisoner for 1000 years on a desolate earth.
+
+Then, he rallies the infidels to fight God. But the infidels' attempts are futile. 
+
+Then God tortures the infidels in the "lake of fire". Satan is punished with eternal torment (torture) in the "lake of fire".  
