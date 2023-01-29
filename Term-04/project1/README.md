@@ -1,6 +1,14 @@
 
 # Project1: Get an internship in tech 
 
+## Create a [video ad](./video-ad) to introduce yourself to potential employers. 
+
+Learn lessons from existing ads. 
+
+Make your own using those lessons. 
+
+Get feedback from your family and from people on the Internet. 
+
 ## Apply for internships at 5 companies. 
 
 
