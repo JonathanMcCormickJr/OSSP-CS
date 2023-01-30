@@ -35,6 +35,7 @@ contributions to Satanic literature and thought.
   * https://en.wikipedia.org/wiki/Lucifer_(DC_Comics)#Television
   * https://dc.fandom.com/wiki/Lucifer_Morningstar_(New_Earth)
 * [The Revolt of the Angels](./the-revolt-of-the-angels.txt) by Anatole France
+  * [NOTES on the Revolt of the Angels](./the-revolt-of-the-angels-NOTES.md)
 * Who Serves Satan?: A Demographic and Ideological Profile by James R. Lewis
 * Compassionate Satanism: An Introduction to Modern Satanic Practice by Lilith Starr.
 * [Devil Stories](./devil-stories.txt) by Various
