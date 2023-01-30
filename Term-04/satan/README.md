@@ -22,6 +22,8 @@ contributions to Satanic literature and thought.
   * 🟡 [NOTES on Paradise Lost](./paradise-lost-NOTES.md)
 * 1671: [Paradise Regained](./paradise-regained.txt) by John Milton
   * 🔴 [NOTES on Paradise Regained](./paradise-regained-NOTES.md)
+* 1727: [The History of the Devil](./the-history-of-the-devil.txt) by Daniel Defoe (SECOND EDITION)
+  * 🔴
 * 1888: [The Great Controversy](./the-great-controversy.txt) by Ellen G. White
   * 🔴 [NOTES on The Great Controversy](./the-great-controversy-NOTES.md)
 * 1890: [Patriarchs and Prophets](./patriarchs-and-prophets.txt) by Ellen G. White
@@ -37,13 +39,11 @@ contributions to Satanic literature and thought.
 * 1989-????: DC Comics use of the character "Lucifer" 
   * https://en.wikipedia.org/wiki/Lucifer_(DC_Comics)#Television
   * https://dc.fandom.com/wiki/Lucifer_Morningstar_(New_Earth)
-* Who Serves Satan?: A Demographic and Ideological Profile by James R. Lewis
+* 2001: Who Serves Satan?: A Demographic and Ideological Profile by James R. Lewis
   * 🔴 
-* 2021: Compassionate Satanism: An Introduction to Modern Satanic Practice by Lilith Starr.
-  * 🔴
-* [The History of the Devil](./the-history-of-the-devil.txt) by Daniel Defoe
-  * 🔴
 * 2007: The Satanic Scriptures by Peter Gilmore
+  * 🔴
+* 2021: Compassionate Satanism: An Introduction to Modern Satanic Practice by Lilith Starr.
   * 🔴
 * 2021: [Lilith Through the Times](https://skhadka.sites.gettysburg.edu/Lilith/)
   * 🔴
