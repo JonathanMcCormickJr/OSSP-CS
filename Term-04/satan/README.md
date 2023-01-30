@@ -16,30 +16,37 @@ contributions to Satanic literature and thought.
 ## Course Contents
 
 ### Readings
-* [Paradise Lost](./paradise-lost.txt) by John Milton
-  * [NOTES on Paradise Lost](./paradise-lost-NOTES.md)
-* [Paradise Regained](./paradise-regained.txt) by John Milton
-  * [NOTES on Paradise Regained](./paradise-regained-NOTES.md)
-* [The King James Bible](./the-king-james-bible.txt) by Various
-  * [NOTES on the KJV Bible](./the-king-james-bible-NOTES.md)
-* [Lilith Through the Times](https://skhadka.sites.gettysburg.edu/Lilith/)
-* [Patriarchs and Prophets](./patriarchs-and-prophets.txt) by Ellen G. White
-  * [NOTES on Patriarchs and Prophets](./patriarchs-and-prophets-NOTES.md)
-* [The Great Controversy](./the-great-controversy.txt) by Ellen G. White
-  * [NOTES on The Great Controversy](./the-great-controversy-NOTES.md)
-* Satanic Bible by Anton LaVey
-  * [NOTES on The Satanic Bible](./the-satanic-bible-NOTES.md)
-* Satanic Scriptures by Peter Gilmore
-* [The Devil and Daniel Webster](http://fountainheadpress.com/expandingthearc/assets/benetdanielwebster.pdf) by Stephen Vincent Benét 
-* DC comics: Lucifer 
+* 1611: [The King James Bible](./the-king-james-bible.txt) by Various 
+  * 🟢 [NOTES on the KJV Bible](./the-king-james-bible-NOTES.md)
+* 1667: [Paradise Lost](./paradise-lost.txt) by John Milton 
+  * 🟡 [NOTES on Paradise Lost](./paradise-lost-NOTES.md)
+* 1671: [Paradise Regained](./paradise-regained.txt) by John Milton
+  * 🔴 [NOTES on Paradise Regained](./paradise-regained-NOTES.md)
+* 1888: [The Great Controversy](./the-great-controversy.txt) by Ellen G. White
+  * 🔴 [NOTES on The Great Controversy](./the-great-controversy-NOTES.md)
+* 1890: [Patriarchs and Prophets](./patriarchs-and-prophets.txt) by Ellen G. White
+  * 🔴 [NOTES on Patriarchs and Prophets](./patriarchs-and-prophets-NOTES.md)
+* 1914: [The Revolt of the Angels](./the-revolt-of-the-angels.txt) by Anatole France
+  * 🔴 [NOTES on the Revolt of the Angels](./the-revolt-of-the-angels-NOTES.md)
+* 1921: [Devil Stories](./devil-stories.txt) by Various
+  * 🔴
+* 1936: [The Devil and Daniel Webster](http://fountainheadpress.com/expandingthearc/assets/benetdanielwebster.pdf) by Stephen Vincent Benét 
+  * 🔴 
+* 1969: The Satanic Bible by Anton LaVey
+  * 🟡 [NOTES on The Satanic Bible](./the-satanic-bible-NOTES.md)
+* 1989-????: DC Comics use of the character "Lucifer" 
   * https://en.wikipedia.org/wiki/Lucifer_(DC_Comics)#Television
   * https://dc.fandom.com/wiki/Lucifer_Morningstar_(New_Earth)
-* [The Revolt of the Angels](./the-revolt-of-the-angels.txt) by Anatole France
-  * [NOTES on the Revolt of the Angels](./the-revolt-of-the-angels-NOTES.md)
 * Who Serves Satan?: A Demographic and Ideological Profile by James R. Lewis
-* Compassionate Satanism: An Introduction to Modern Satanic Practice by Lilith Starr.
-* [Devil Stories](./devil-stories.txt) by Various
+  * 🔴 
+* 2021: Compassionate Satanism: An Introduction to Modern Satanic Practice by Lilith Starr.
+  * 🔴
 * [The History of the Devil](./the-history-of-the-devil.txt) by Daniel Defoe
+  * 🔴
+* 2007: The Satanic Scriptures by Peter Gilmore
+  * 🔴
+* 2021: [Lilith Through the Times](https://skhadka.sites.gettysburg.edu/Lilith/)
+  * 🔴
 
 ### The Hellscape of Satanism
 Once you have done your research and interviews, plot each Satanic faction on a custom spectrum based on several axiis, including
