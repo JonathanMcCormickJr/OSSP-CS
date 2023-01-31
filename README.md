@@ -69,9 +69,10 @@ Of course, as long as your academic authorities allow it, you are welcome to use
 Special thanks to everyone who helped make this education journey possible for me, including 
 
 * MIT Open Learning, 
-* Andrews University (esp. the Math Dept.), 
+* Project Gutenburg, 
 * Sololearn, 
 * HTB Academy, 
 * freeCodeCamp, 
 * my high school teachers at Maplewood Academy,
+* Andrews University (esp. the Math Dept.),
 * et al.
