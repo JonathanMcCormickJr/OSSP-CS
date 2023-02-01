@@ -24,6 +24,8 @@ contributions to Satanic literature and thought.
   * 🔴 [NOTES on Paradise Regained](./paradise-regained-NOTES.md)
 * 1727: [The History of the Devil](./the-history-of-the-devil.txt) by Daniel Defoe (SECOND EDITION)
   * 🔴
+* 1830: [The Book of Mormon](./the-book-of-mormon.txt) Joseph Smith
+  * 🔴
 * 1888: [The Great Controversy](./the-great-controversy.txt) by Ellen G. White
   * 🔴 [NOTES on The Great Controversy](./the-great-controversy-NOTES.md)
 * 1890: [Patriarchs and Prophets](./patriarchs-and-prophets.txt) by Ellen G. White
