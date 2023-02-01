@@ -24,6 +24,8 @@ contributions to Satanic literature and thought.
   * 🔴 [NOTES on Paradise Regained](./paradise-regained-NOTES.md)
 * 1727: [The History of the Devil](./the-history-of-the-devil.txt) by Daniel Defoe (SECOND EDITION)
   * 🔴
+* 1734: [The Koran](./the-koran) translated by George Sale
+  * 🔴
 * 1830: [The Book of Mormon](./the-book-of-mormon.txt) Joseph Smith
   * 🔴
 * 1888: [The Great Controversy](./the-great-controversy.txt) by Ellen G. White
