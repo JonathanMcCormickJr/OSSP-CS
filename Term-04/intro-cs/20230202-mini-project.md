@@ -17,6 +17,6 @@ Response:
 
 ```
 
-1. [Solution1](./20230202-solution1)
-2. [Solution2](./20230202-solution2)
-3. [Solution3](./20230202-solution3)
+1. [Solution1](./20230202-solution1.py)
+2. [Solution2](./20230202-solution2.py)
+3. [Solution3](./20230202-solution3.py)
