@@ -1,5 +1,3 @@
-# Solution to problem #1 for today's mini-project. 
-
 # Solution to challenge #1 for today's mini-project
 
 # Objective: Reverse a string: Write a program that takes a string input and returns the string in reverse order
