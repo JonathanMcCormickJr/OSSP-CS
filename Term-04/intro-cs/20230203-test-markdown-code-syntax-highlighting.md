@@ -214,3 +214,119 @@ main proc
 main endp
 end main
 ```
+
+## Golang
+
+Traveling Salesman
+
+```
+package main
+
+import (
+	"fmt"
+	"math"
+)
+
+type Point struct {
+	x float64
+	y float64
+}
+
+func distance(a, b Point) float64 {
+	dx := a.x - b.x
+	dy := a.y - b.y
+	return math.Sqrt(dx*dx + dy*dy)
+}
+
+func main() {
+	points := []Point{
+		{100.42, -2482.0},
+		{248.3, 305.2},
+		{-1894.0, 3.0},
+		{-1.0, 5.0},
+		{1000.0, -20.0},
+	}
+
+	n := len(points)
+	visited := make([]bool, n)
+	path := make([]int, n)
+
+	path[0] = 0
+	visited[0] = true
+	for i := 1; i < n; i++ {
+		best := -1
+		for j := 0; j < n; j++ {
+			if visited[j] {
+				continue
+			}
+			if best == -1 || distance(points[path[i-1]], points[j]) < distance(points[path[i-1]], points[best]) {
+				best = j
+			}
+		}
+		path[i] = best
+		visited[best] = true
+	}
+
+	letters := []string{"A", "B", "C", "D", "E"}
+	for _, index := range path {
+		fmt.Print(letters[index], " -> ")
+	}
+	fmt.Println(letters[0])
+}
+```
+``` go
+package main
+
+import (
+	"fmt"
+	"math"
+)
+
+type Point struct {
+	x float64
+	y float64
+}
+
+func distance(a, b Point) float64 {
+	dx := a.x - b.x
+	dy := a.y - b.y
+	return math.Sqrt(dx*dx + dy*dy)
+}
+
+func main() {
+	points := []Point{
+		{100.42, -2482.0},
+		{248.3, 305.2},
+		{-1894.0, 3.0},
+		{-1.0, 5.0},
+		{1000.0, -20.0},
+	}
+
+	n := len(points)
+	visited := make([]bool, n)
+	path := make([]int, n)
+
+	path[0] = 0
+	visited[0] = true
+	for i := 1; i < n; i++ {
+		best := -1
+		for j := 0; j < n; j++ {
+			if visited[j] {
+				continue
+			}
+			if best == -1 || distance(points[path[i-1]], points[j]) < distance(points[path[i-1]], points[best]) {
+				best = j
+			}
+		}
+		path[i] = best
+		visited[best] = true
+	}
+
+	letters := []string{"A", "B", "C", "D", "E"}
+	for _, index := range path {
+		fmt.Print(letters[index], " -> ")
+	}
+	fmt.Println(letters[0])
+}
+```
+
