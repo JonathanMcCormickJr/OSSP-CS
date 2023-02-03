@@ -24,7 +24,7 @@ This project is for me to document my personal journey as a self-directed studen
 * [🟩 Term 1: Andrews University: Spring 2020](/Term-01)
 * [🟩 Term 2: Andrews University: May 2020](/Term-02)
 * [🟩 Term 3: Sololearn, Hack the Box Academy, edX, et al: Summer 2020 - Spring 2022](/Term-03)
-* [🟨 Term 4: MIT OCW, Sololearn: Summer 2022, Spring 2023](/Term-04)
+* [🟨 Term 4: MIT OCW: Summer 2022, Spring 2023](/Term-04)
 
 ### ❤️ "Fahrenheit Degree" (≈ 4-years batchelor's degree)
 #### Named after the [Fahrenheit scale](https://en.wikipedia.org/wiki/Fahrenheit) for measuring temperature (used mostly by the Americans), where the melting point of purified water ice is ~32 °F (31.9998 °F) and the boiling point of water is ~212 °F (211.971 °F). 
@@ -48,6 +48,9 @@ This project is for me to document my personal journey as a self-directed studen
 * [🟥 Term 16](/Term-16)
 
 [comment]: # ( Temperature names chosen from https://cryo.gsfc.nasa.gov/introduction/temp_scales.html)
+
+## Unfinished Courses
+The [Unfinished Courses](./unfinished-courses) directory contains my progress for courses that I dropped for any given term and did not assign to a specific future term. 
 
 ## A word on file naming conventions
 Where applicable, subject notes, code snippets, etc. will generally have the following naming convention. This is to preserve a sense of organization regarding my progress.  
