@@ -157,3 +157,24 @@ Satan and his crew have considered appeasement toward God, the monarch of Heaven
 Satan: the 
 
 
+## Book III
+
+Satan: the 
+
+
+## Book IV
+
+Satan: the 
+
+
+## BOOK V
+
+## BOOK VI
+
+## BOOK VII
+
+## BOOK VIII
+
+## BOOK IX
+
+## BOOK X
