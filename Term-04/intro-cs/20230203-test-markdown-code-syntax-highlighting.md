@@ -1,5 +1,5 @@
 # This is to test Markdown's capability for syntax highlighting for code snippets.
-
+## Python
 ```
 print("Text")
 
@@ -44,4 +44,71 @@ fibonacci(num)
 
 for number in sequence:
     print(number)
+```
+
+## HTML
+```
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Heading</h1>
+
+<p>Here is a paragraph</p>
+
+<h2>Here is an unordered list in order</h2>
+<ul>
+	<li>Item0</li>
+    <li>Item1</li>
+    <li>Item2</li>
+    <li>Item3</li>
+</ul>
+
+</body>
+</html>
+```
+
+``` html
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Heading</h1>
+
+<p>Here is a paragraph</p>
+
+<h2>Here is an unordered list in order</h2>
+<ul>
+	<li>Item0</li>
+    <li>Item1</li>
+    <li>Item2</li>
+    <li>Item3</li>
+</ul>
+
+</body>
+</html>
+```
+
+## JavaScript
+
+```
+var xhr = new XMLHttpRequest();
+xhr.open("GET", "https://example.com", true);
+xhr.onreadystatechange = function() {
+  if (xhr.readyState === XMLHttpRequest.DONE && xhr.status === 200) {
+    console.log(xhr.responseText);
+  }
+};
+xhr.send();
+```
+
+``` javascript
+var xhr = new XMLHttpRequest();
+xhr.open("GET", "https://example.com", true);
+xhr.onreadystatechange = function() {
+  if (xhr.readyState === XMLHttpRequest.DONE && xhr.status === 200) {
+    console.log(xhr.responseText);
+  }
+};
+xhr.send();
 ```
