@@ -72,11 +72,13 @@ Use this template for each faction's respective score plots.
 
 ### Conspiracy theories regarding Satanism.
 
-### Satan in pop culture
+### [Satan in pop culture](./pop-culture)
 
 * Lil Nas X
   * Satan Shoes
   * Montero
+* Charlie Daniels
+  * The Devil Went Down to Georgia
 
 ### Write and record a Satanic hymn
 
