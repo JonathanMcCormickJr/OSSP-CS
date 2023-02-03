@@ -7,6 +7,7 @@ A course that I have assembled for myself to study **the intersection between "S
 ## Course Contents
 
 ### Readings
+* 201-300 CE: Kama Sutra by Vatsyayana
 * The Origin of Species by Charles Darwin
 * The Lucifer Principle by Howard Bloom
 * The God Delusion by Richard Dawkins
@@ -16,6 +17,7 @@ A course that I have assembled for myself to study **the intersection between "S
 * Think Big by Donald Trump
 * How to Win Friends and Influence People by Dale Carnegie
 * A Nation of Sheep by Andrew Napolitano (2007)
+* 1976: The Selfish Gene by Richard Dawkins
 
 
 ⛧
