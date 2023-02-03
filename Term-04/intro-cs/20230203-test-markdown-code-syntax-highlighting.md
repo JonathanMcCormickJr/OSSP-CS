@@ -330,3 +330,121 @@ func main() {
 }
 ```
 
+## BASH
+
+```
+#!/bin/bash
+
+# number of cities
+n=10
+
+# generate random coordinates for cities
+for i in $(seq 1 $n)
+do
+  x=$((RANDOM % 100))
+  y=$((RANDOM % 100))
+  echo $x $y
+done > cities.txt
+
+# calculate distances between cities
+for i in $(seq 1 $n)
+do
+  for j in $(seq $i $n)
+  do
+    if [ $i -ne $j ]
+    then
+      x1=$(awk 'NR=='$i' {print $1}' cities.txt)
+      y1=$(awk 'NR=='$i' {print $2}' cities.txt)
+      x2=$(awk 'NR=='$j' {print $1}' cities.txt)
+      y2=$(awk 'NR=='$j' {print $2}' cities.txt)
+      d=$(echo "sqrt(($x2-$x1)^2+($y2-$y1)^2)" | bc -l)
+      echo $i $j $d
+    fi
+  done
+done > distances.txt
+
+# generate random solution
+solution=$(for i in $(seq 1 $n)
+do
+  echo $i
+done | shuf | tr '\n' ' ')
+
+# calculate total distance of solution
+total_distance=0
+for i in $(seq 1 $(($n-1)))
+do
+  j=$(($i+1))
+  c1=$(echo $solution | awk '{print $'$i'}')
+  c2=$(echo $solution | awk '{print $'$j'}')
+  distance=$(awk '$1=='$c1' && $2=='$c2' {print $3}' distances.txt)
+  total_distance=$(echo "$total_distance + $distance" | bc -l)
+done
+
+# add distance from last to first city
+c1=$(echo $solution | awk '{print $'$n'}')
+c2=$(echo $solution | awk '{print $1}')
+distance=$(awk '$1=='$c1' && $2=='$c2' {print $3}' distances.txt)
+total_distance=$(echo "$total_distance + $distance" | bc -l)
+
+# print solution and total distance
+echo "Solution: $solution"
+echo "Total distance: $total_distance"
+```
+``` bash
+#!/bin/bash
+
+# number of cities
+n=10
+
+# generate random coordinates for cities
+for i in $(seq 1 $n)
+do
+  x=$((RANDOM % 100))
+  y=$((RANDOM % 100))
+  echo $x $y
+done > cities.txt
+
+# calculate distances between cities
+for i in $(seq 1 $n)
+do
+  for j in $(seq $i $n)
+  do
+    if [ $i -ne $j ]
+    then
+      x1=$(awk 'NR=='$i' {print $1}' cities.txt)
+      y1=$(awk 'NR=='$i' {print $2}' cities.txt)
+      x2=$(awk 'NR=='$j' {print $1}' cities.txt)
+      y2=$(awk 'NR=='$j' {print $2}' cities.txt)
+      d=$(echo "sqrt(($x2-$x1)^2+($y2-$y1)^2)" | bc -l)
+      echo $i $j $d
+    fi
+  done
+done > distances.txt
+
+# generate random solution
+solution=$(for i in $(seq 1 $n)
+do
+  echo $i
+done | shuf | tr '\n' ' ')
+
+# calculate total distance of solution
+total_distance=0
+for i in $(seq 1 $(($n-1)))
+do
+  j=$(($i+1))
+  c1=$(echo $solution | awk '{print $'$i'}')
+  c2=$(echo $solution | awk '{print $'$j'}')
+  distance=$(awk '$1=='$c1' && $2=='$c2' {print $3}' distances.txt)
+  total_distance=$(echo "$total_distance + $distance" | bc -l)
+done
+
+# add distance from last to first city
+c1=$(echo $solution | awk '{print $'$n'}')
+c2=$(echo $solution | awk '{print $1}')
+distance=$(awk '$1=='$c1' && $2=='$c2' {print $3}' distances.txt)
+total_distance=$(echo "$total_distance + $distance" | bc -l)
+
+# print solution and total distance
+echo "Solution: $solution"
+echo "Total distance: $total_distance"
+```
