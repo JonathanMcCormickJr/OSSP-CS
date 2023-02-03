@@ -3,10 +3,6 @@
 
 #### [🟡 Book Report: Write a 1000-word book report on "Computer Basics (1985)" by Time-Life Books](./book-report)
 
-#### [🟡 C Programming Language](./c-language)
-
-[Sololearn: C](https://www.sololearn.com/learning/1089).
-
 #### [🟡 Calculus 1A](./calculus-1A)
 
 [MIT OLL: Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about). 
