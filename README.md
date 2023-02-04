@@ -1,5 +1,7 @@
 # 🚀 My Open-Source Study Path — Computer Science (OSSP-CS)
 
+Computer Science with a focus on Python programming.
+
 ## Intro
 
 Inspired by the [Open-Source Computer Science Degree](https://github.com/mvillaloboz/open-source-cs-degree) and [Open Source Society University](https://github.com/ossu/computer-science), this project aims to document my path toward becoming at least as knowledgable and competent in the field of Computer Science as a person with 2-years, 4-years, 6-years, and 8-years CS degrees, respectively. The following document outlines my study resources used. The groupings by Term are meant to pace and structure the course more or less according to a typical Computer Science track at a college or university. The focus is on the core Computer Science courses, but other subject matters will be included here and there as I see fit. 
@@ -62,9 +64,14 @@ selected_class = random.choice(classes)
 print(f"You get to study {selected_class} RIGHT NOW!!!")
 ```
 
+## [Future Course Options](./course-options.md)
 
-## Unfinished Courses
-The [Unfinished Courses](./unfinished-courses) directory contains my progress for courses that I dropped for any given term and did not assign to a specific future term. 
+Info on courses that I may choose to add to a future docket for my educational journey.
+
+Have a suggestion to add? I'd love to hear it! Write a comment here on GitHub or tag me on Twitter [@LiberlandHacker](https://twitter.com/LiberlandHacker). 
+
+## [Unfinished Courses](./unfinished-courses)
+My progress for courses that I dropped for any given term and did not assign to a specific future term. 
 
 ## A word on file naming conventions
 Where applicable, subject notes, code snippets, etc. will generally have the following naming convention. This is to preserve a sense of organization regarding my progress.  
