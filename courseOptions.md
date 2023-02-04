@@ -11,6 +11,9 @@
 #### 🔴 History of Motherhood
 BOOK: Mother Nature: A history of mothers, infants, and natural selection.
 
+#### 🔴 Intro to New Hampshire Law
+[NH Laws and Rules](https://www.nh.gov/glance/laws-rules.htm)
+
 #### 🔴 Libertarianism in History
 [MIT OCW: Libertarianism in History](https://ocw.mit.edu/courses/21h-181-libertarianism-in-history-spring-2014/)
 
