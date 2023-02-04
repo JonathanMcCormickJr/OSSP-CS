@@ -49,6 +49,20 @@ This project is for me to document my personal journey as a self-directed studen
 
 [comment]: # ( Temperature names chosen from https://cryo.gsfc.nasa.gov/introduction/temp_scales.html)
 
+## Study topic chooser
+
+In an effort to prevent overthinking, I should use this aid to choose which subject I should study:
+
+``` python
+import random
+
+classes = ["Calculus", "Computation Structures", "Computer Architecture", "Driver's License", "Intro to CS", "Satanism I"]
+
+selected_class = random.choice(classes)
+print(f"You get to study {selected_class} RIGHT NOW!!!")
+```
+
+
 ## Unfinished Courses
 The [Unfinished Courses](./unfinished-courses) directory contains my progress for courses that I dropped for any given term and did not assign to a specific future term. 
 
