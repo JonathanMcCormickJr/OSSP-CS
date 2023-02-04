@@ -1,3 +1,7 @@
+# Course Options for Future Terms
+
+This is a list of ideas for classes that I can add as I progress through OSSP-CS.
+
 **Be sure and add the appropriate courses to the appropriate folders as you go along. This file is basically just a dump of ideas.**
 
 ## Anytime
