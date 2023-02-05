@@ -1,6 +1,6 @@
 # 🚀 My Open-Source Study Path — Computer Science (OSSP-CS)
 
-Computer Science with a focus on Python programming.
+Computer Science with a focus on [Python](https://www.python.org/) programming.
 
 ## Intro
 
