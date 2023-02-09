@@ -51,3 +51,17 @@ random_importance = random_item(importance_levels)
 random_competence = random_item(competence_levels)
 random_comfort    = random_item(comfort_levels)
 ```
+Heck, I could reduce this further, since the function is largely unnecessary:
+``` python
+import random
+
+names             = ['Emma', 'Olivia', 'Ava', 'Isabella', 'Sophia', 'Mia', 'Charlotte', 'Amelia', 'Harper', 'Evelyn', 'Abigail', 'Emily', 'Elizabeth', 'Avery', 'Sofia', 'Ella', 'Madison', 'Scarlett', 'Victoria', 'Aria', 'Grace', 'Chloe', 'Camila', 'Penelope', 'Riley', 'Nora', 'Lily', 'Eleanor', 'Hazel', 'Aubrey']
+importance_levels = ['not_important', 'somewhat_important', 'important', 'very_important']
+competence_levels = ["cant_do_it", "need_help", "can_do_it_easily"]
+comfort_levels    = ["hate_it", "dont_like_it", "neutral", "like_it", "love_it"]
+
+random_name       = random.choice(names)
+random_importance = random.choice(importance_levels)
+random_competence = random.choice(competence_levels)
+random_comfort    = random.choice(comfort_levels)
+```
