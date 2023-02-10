@@ -1,6 +1,5 @@
-# Charlie Daniels
-
-## The Devil Went Down to Georgia
+# The Devil Went Down to Georgia
+## by Charlie Daniels
 
 [![image](https://user-images.githubusercontent.com/67705789/216730200-d8c06b8b-ae66-41ae-957c-07c067f9cfa6.png)](https://youtu.be/A7p817ErVsQ)
 
