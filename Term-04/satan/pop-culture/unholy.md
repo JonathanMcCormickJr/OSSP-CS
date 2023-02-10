@@ -1,5 +1,5 @@
 # Unholy
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Uq9gPaIzbe8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Official music video: https://youtu.be/Uq9gPaIzbe8
 
 ## Reactions to _Unholy_
 
@@ -8,8 +8,6 @@
 
 [![Matt Walsh](https://user-images.githubusercontent.com/67705789/217979092-5ae59e00-b00d-4d39-bde6-0dd6e988d355.png)](https://twitter.com/MattWalshBlog/status/1622649473938620429)
 
-<iframe
-  src="https://www.pluggedin.com/track-reviews/sam-smith-kim-petras-unholy/"
-  style="width:100%; height:auto;"
-></iframe>
+https://www.pluggedin.com/track-reviews/sam-smith-kim-petras-unholy/
+
 
