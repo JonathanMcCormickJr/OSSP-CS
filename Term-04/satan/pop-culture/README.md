@@ -12,6 +12,10 @@ Song by Charlie Daniels
 
 Song by Lil Nas X
 
+### [Satan Shoes](./satan-shoes)
+
+Merch collaboration project between MSCHF and Lil Nas X
+
 ## 2023
 
 ### [Unholy](./unholy)
