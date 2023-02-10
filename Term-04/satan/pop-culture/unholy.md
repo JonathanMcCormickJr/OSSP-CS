@@ -1,4 +1,5 @@
 # Unholy
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Uq9gPaIzbe8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Reactions to _Unholy_
 
@@ -6,4 +7,9 @@
 3:40 PM · Feb 6, 2023](https://user-images.githubusercontent.com/67705789/217977796-92c7dbe1-80c8-4d7b-9d6c-8bbf6f89d529.png)](https://twitter.com/DineshDSouza/status/1622711774179983386)
 
 [![Matt Walsh](https://user-images.githubusercontent.com/67705789/217979092-5ae59e00-b00d-4d39-bde6-0dd6e988d355.png)](https://twitter.com/MattWalshBlog/status/1622649473938620429)
+
+<iframe
+  src="https://www.pluggedin.com/track-reviews/sam-smith-kim-petras-unholy/"
+  style="width:100%; height:auto;"
+></iframe>
 
