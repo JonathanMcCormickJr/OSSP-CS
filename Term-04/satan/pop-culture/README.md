@@ -12,18 +12,18 @@ Song by Charlie Daniels
 
 Song by Lil Nas X
 
-### [Satan Shoes](./satan-shoes)
+### [Satan Shoes](./satan-shoes.md)
 
 Merch collaboration project between MSCHF and Lil Nas X
 
 ## 2022
 
-### [Devil's Champion Leather Armor](./devil-armor)
+### [Devil's Champion Leather Armor](./devil-armor.md)
 
 High-end costume worn by Elon Musk for Halloween. 
 
 ## 2023
 
-### [Unholy](./unholy)
+### [Unholy](./unholy.md)
 
 Song by Kim Petras and Sam Smith
