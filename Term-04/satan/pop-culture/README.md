@@ -18,7 +18,9 @@ Merch collaboration project between MSCHF and Lil Nas X
 
 ## 2022
 
-### Devil's Champion Leather Armor
+### [Devil's Champion Leather Armor](./devil-armor)
+
+High-end costume worn by Elon Musk for Halloween. 
 
 ## 2023
 
