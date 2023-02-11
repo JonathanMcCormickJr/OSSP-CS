@@ -16,6 +16,10 @@ Song by Lil Nas X
 
 Merch collaboration project between MSCHF and Lil Nas X
 
+## 2022
+
+### Devil's Champion Leather Armor
+
 ## 2023
 
 ### [Unholy](./unholy)
