@@ -170,7 +170,15 @@ His proud imaginations thus displaid.
 
 1006: Belial argues that since God is omnipotent and omniscient, their efforts at overthrowing Heaven are going to be futile, and that it is better for the demons to simply accept their fate and cling to the possibility that God would go easy on them all after a while.  
 
-1130: Mammon argues
+1130: Mammon argues that submission to God would result in misery, and that it would be wiser to not interfere with heaven and simply avoid trouble, while also refusing to support God. Mammon argued for peace.
+
+1188: Beelzebub notes the creation of Earth and mankind, and argues that the devils attempt to conquer it. He urges careful consideration for the person that is sent to this new world. 
+
+Then, after brief silence (no volunteers or objectors), Satan says he himself will undertake this solo. 
+
+**RESUME AT LINE 1415**
+
+
 
 
 ## Book III
