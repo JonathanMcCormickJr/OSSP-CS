@@ -24,6 +24,7 @@ contributions to Satanic literature and thought.
   * 🟡 [NOTES on Paradise Lost](./paradise-lost-NOTES.md)
 * 1671: [Paradise Regained](./paradise-regained.txt) by John Milton
   * 🔴 [NOTES on Paradise Regained](./paradise-regained-NOTES.md)
+* 1685: [Satan's Invisible World Discovered](./satans-invisible-world-discovered.txt) by George Sinclair
 * 1727: [The History of the Devil](./the-history-of-the-devil.txt) by Daniel Defoe (SECOND EDITION)
   * 🔴
 * 1734: [The Koran](./the-koran) translated by George Sale
