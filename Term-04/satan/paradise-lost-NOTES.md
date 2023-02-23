@@ -156,6 +156,22 @@ Satan and his crew have considered appeasement toward God, the monarch of Heaven
 
 Satan: the 
 
+901-906
+```
+Satan exalted sat, by merit rais’d
+To that bad eminence; and from despair
+Thus high uplifted beyond hope, aspires
+Beyond thus high, insatiate to pursue
+Vain Warr with Heav’n, and by success untaught
+His proud imaginations thus displaid.
+```
+
+941: Moloc argues in favor of war with Heaven, saying that the demons have nothing to lose. If they are immortal, then they at worst will get Hell (which they already have). If they are not immortal, then the worst will be death (which is arguably better than Hell).
+
+1006: Belial argues that since God is omnipotent and omniscient, their efforts at overthrowing Heaven are going to be futile, and that it is better for the demons to simply accept their fate and cling to the possibility that God would go easy on them all after a while.  
+
+1130: Mammon argues
+
 
 ## Book III
 
