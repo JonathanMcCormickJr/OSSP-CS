@@ -2,6 +2,10 @@
 
 Computer Science with a focus on [Python](https://www.python.org/) programming.
 
+<img src="https://user-images.githubusercontent.com/67705789/221333285-bda5c26b-5dae-4e25-b686-b122bea54082.png" alt="Computer art" width="33%" height="auto"><img src="https://user-images.githubusercontent.com/67705789/221333502-678473c6-5935-4c6a-8c97-0e1245311585.png" alt="Computer art" width="33%" height="auto"><img src="https://user-images.githubusercontent.com/67705789/221333587-f175491d-5bb7-4380-88d2-ee1ea6f266cb.png" alt="Computer art" width="33%" height="auto">
+_Computer art prompted by Jonathan McCormick, Jr. and generated using [Craiyon AI](https://www.craiyon.com/). 24 Feb, 2023._
+
+
 ## Intro
 
 Inspired by the [Open-Source Computer Science Degree](https://github.com/mvillaloboz/open-source-cs-degree) and [Open Source Society University](https://github.com/ossu/computer-science), this project aims to document my path toward becoming at least as knowledgable and competent in the field of Computer Science as a person with 2-years, 4-years, 6-years, and 8-years CS degrees, respectively. The following document outlines my study resources used. The groupings by Term are meant to pace and structure the course more or less according to a typical Computer Science track at a college or university. The focus is on the core Computer Science courses, but other subject matters will be included here and there as I see fit. 
