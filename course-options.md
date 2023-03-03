@@ -45,6 +45,10 @@ BOOK: Hands-On Smart Contract Development with Solidity and Ethereum
 #### 🔴 Sperm
 [MIT OCW: The Science of Sperm](https://ocw.mit.edu/courses/7-345-the-science-of-sperm-fall-2014/)
 
+#### 🟡 Startup School (updated)
+Y Combinator: Startup School.
+
+
 ## ❤️ Fahrenheit Degree
 ≈ 4-years batchelor's degree
 
