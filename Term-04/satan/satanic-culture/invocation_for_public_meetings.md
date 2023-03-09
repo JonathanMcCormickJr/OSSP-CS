@@ -37,4 +37,4 @@ May the results be decided in accordance with science, reason, respect,
 kindness, and impartiality, and may they benefit those who live and work in 
 and around our beloved city of ________.
 
-It is in the infernal name I speak, Shem HaMephorash! Hail Satan!
+It is in the infernal name I speak, Hail Satan!
