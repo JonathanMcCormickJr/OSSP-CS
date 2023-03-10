@@ -3,9 +3,8 @@
 **By Jona⸸han McCormick, Jr.**
 
 9 March, 2023
-<!--
-|---------------------------------------------------------------------------|
--->
+
+<hr>
 
 Feel free to bow your heads if you so choose.
 
@@ -37,4 +36,14 @@ May the results be decided in accordance with science, reason, respect,
 kindness, and impartiality, and may they benefit those who live and work in 
 and around our beloved city of ________.
 
-It is in the infernal name I speak, Hail Satan!
+I speak in the name of the original human rights supporter, him who encourages 
+the discovery of forbidden knowledge, 
+
+the Serpent & the Scapegoat, 
+
+the Data Analyst, & the Dragon, 
+
+the Lion and the Lightning:
+
+Ave Satanas!
+Hail Satan!
