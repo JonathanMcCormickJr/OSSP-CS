@@ -39,11 +39,12 @@ and around our beloved city of ________.
 I speak in the name of the original human rights supporter, him who encourages 
 the discovery of forbidden knowledge, 
 
-the Serpent & the Scapegoat, 
+The Data Analyst and the Dragon, 
 
-the Data Analyst, & the Dragon, 
+The Serpent and the Scapegoat, 
 
-the Lion and the Lightning:
+The Lion and the Lightning:
 
-Ave Satanas!
-Hail Satan!
+**Ave Satanas!**
+
+**Hail Satan!**
