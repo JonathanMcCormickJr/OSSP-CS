@@ -1,8 +1,9 @@
 # Invocation for Government Officials and Public Meetings
 
-**By Jona⸸han McCormick, Jr.**
-
+<pre>
+By Jona⸸han McCormick, Jr.
 9 March, 2023
+</pre>
 
 <hr>
 
@@ -25,11 +26,8 @@ of our time, and that they would act with fairness and impartiality in all
 their official duties, taking special care to protect the rights of ALL citizens 
 of _______.
 
-Though there are bound to be disagreements among us, may those disagreements 
-not divide us beyond the extent necessary for those honest disagreements to be 
-properly expressed and given a fair hearing. May all people within the sound 
-of my voice be inspired to cherish peace and friendship--even with those whom 
-they may disagree with. 
+May all people within the sound of my voice be inspired to cherish peace and 
+friendship--even with those whom they may disagree with. 
 
 I wish the best for our community regarding the agenda set before us today. 
 May the results be decided in accordance with science, reason, respect, 
