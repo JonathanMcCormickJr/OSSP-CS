@@ -32,7 +32,7 @@ This project is for me to document my personal journey as a self-directed studen
 * [🟩 Term 3: Sololearn, Hack the Box Academy, edX, et al: Summer 2020 - Spring 2022](/Term-03)
 * [🟨 Term 4: MIT OCW: Summer 2022, Spring 2023](/Term-04)
 
-### ❤️ "Fahrenheit Degree" (≈ 4-years batchelor's degree)
+### ❤️ "Fahrenheit Degree" (≈ 4-years bachelor's degree)
 #### Named after the [Fahrenheit scale](https://en.wikipedia.org/wiki/Fahrenheit) for measuring temperature (used mostly by the Americans), where the melting point of purified water ice is ~32 °F (31.9998 °F) and the boiling point of water is ~212 °F (211.971 °F). 
 * [🟥 Term 5](/Term-05)
 * [🟥 Term 6](/Term-06)
