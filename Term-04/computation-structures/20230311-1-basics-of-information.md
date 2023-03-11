@@ -114,14 +114,17 @@ So, the average of these is `(0.6 * 0.73696559...) + (0.4 + 1.321928...)`, which
 much information have you learned about the digit?** 
 
 `0 % 3 = 0`
+`3 % 3 = 0`
+`6 % 3 = 0`
+`9 % 3 = 0`
 
-Therefore, the value of the digit is 0. 
+Therefore, the value of the digit could be 0, 3, 6, or 9. 
 
-We have narrowed it from 10 possible values to 1 value. So, `n=10` and `m=1`. 
+We have narrowed it from 10 possible values to 4 values. So, `n=10` and `m=4`. 
 
-`I(n-->m) = log2(n/m) = log2(10/1) = 3.321928095`
+`I(n-->m) = log2(n/m) = log2(10/4) = 1.321928095`
 
-So, we have learned about 3.3219 bits of information. 
+So, we have learned about 1.3219 bits of information. 
 
 
 **E. X is an unknown 8-bit binary number. You are given another 8-bit binary number,
