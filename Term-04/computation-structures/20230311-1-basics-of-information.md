@@ -107,7 +107,7 @@ Therefore, with 2 choices here is our table:
 | heads | 0.6 | 0.73696559... |
 | tails | 0.4 | 1.321928... |
 
-So, the average of these is `(0.6 * 0.73696559...) + (0.4 + 1.321928...)`, which equals about `0.9709505945`.
+So, the average of these is `(0.6 * 0.73696559...) + (0.4 + 1.321928...)`, which equals about `0.9709505945` bits of information.
 
 
 **D. A single decimal digit is chosen at random and you’re told that its value is 0 mod 3. How
