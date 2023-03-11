@@ -20,4 +20,8 @@ distractions.
 Online education provides more opportunities for the use of the
 scientific method through A/B testing. 
 
+The human things, like droppping the chalk, or telling a joke, help make the course memorable for students. 
 
+Terman says he does not believe in "dumb questions".
+
+Having a rapid question-answer cycle helps make "stuck" experiences shorter, which is better for progressing throught the course. 
