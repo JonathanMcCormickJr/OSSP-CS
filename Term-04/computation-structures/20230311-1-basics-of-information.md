@@ -28,10 +28,45 @@ The entropy H(X) is a LOWER BOUND on the number of bits we need to transmit in o
 
 ### Worksheet problems 1: Information Content and Entropy
 
-A. You are given an unknown 3-bit binary number. You are then told that the binary
-representation contains exactly two 1’s. How much information have you been given?
-B. You are then given the additional information that the number is also odd. How much
-additional information have you been given?
+**A. You are given an unknown 3-bit binary number. You are then told that the binary
+representation contains exactly two 1’s. How much information have you been given?**
+
+While I might be tempted to hastily say "two bits", the reality is that I have not really been given that much info. So, let's use the formula `log2(1/p)`. 
+
+First, we need to calculate `p`, which is the probability.
+
+In a 3-bit number, out of all possible values, how much does the statement "2 bits are each `1`" actually narrow things down.
+
+``` python
+import math
+
+x1 = 0b000
+x2 = 0b001
+x3 = 0b010
+x4 = 0b011
+x5 = 0b100
+x6 = 0b101
+x7 = 0b110
+x8 = 0b111
+
+# So...
+n_of_x = 8
+
+# Now, if we know that exactly 2 of the bits are 1's, that narrows us down to...
+x4 = 0b011
+x6 = 0b101
+x7 = 0b110
+
+m_of_x = 3
+
+p = m_of_x / n_of_x
+
+print(math.log2(1/p))  # 1.4150374992788437
+
+```
+
+**B. You are then given the additional information that the number is also odd. How much
+additional information have you been given?**
 C. A random variable X represents the outcome of flipping an unfair coin, where p(HEADS)
 = 0.6. Please give the value for the entropy H(X). You may express your answer as a
 numeric expression (i.e., you don’t have to actually do the arithmetic).
