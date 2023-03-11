@@ -99,6 +99,16 @@ So, we get `0.5849625007211562` bits of additional info.
 = 0.6. Please give the value for the entropy H(X). You may express your answer as a
 numeric expression (i.e., you don’t have to actually do the arithmetic).**
 
+`H(X) = (p1 * log2(1/p1)) + (p2 * log2(1/p2)) + ...`
+
+Therefore, with 2 choices here is our table:
+| choice | p | log2(1/p) |
+|-|-|-|
+| heads | 0.6 | 0.73696559... |
+| tails | 0.4 | 1.321928... |
+
+So, the average of these is `(0.6 * 0.73696559...) + (0.4 + 1.321928...)`, which equals about `0.9709505945`.
+
 
 **D. A single decimal digit is chosen at random and you’re told that its value is 0 mod 3. How
 much information have you learned about the digit?** 
