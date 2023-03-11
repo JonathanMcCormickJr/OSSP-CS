@@ -61,7 +61,7 @@ m_of_x = 3
 
 p = m_of_x / n_of_x
 
-print(math.log2(1/p))  # 1.4150374992788437
+print(math.log2(1/p))  # = log2(8/3) bits or 1.4150374992788437
 
 ```
 
