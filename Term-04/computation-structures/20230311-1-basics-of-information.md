@@ -1,6 +1,6 @@
 # 1 Basics of Information
 
-Notes by Jonathan McCormick, Jr. 2023-03-11
+Notes by Jonathan McCormick, Jr. 2023-03-11.
 
 ## 1.2.1What is Information?
 
