@@ -65,6 +65,9 @@ print(math.log2(1/p))  # = log2(8/3) bits or 1.4150374992788437
 
 ```
 
+So, the amount of information you have been given is `log2(8/3)` bits or `1.4150374992788437` bits
+
+
 **B. You are then given the additional information that the number is also odd. How much
 additional information have you been given?**
 C. A random variable X represents the outcome of flipping an unfair coin, where p(HEADS)
