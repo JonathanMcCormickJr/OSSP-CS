@@ -70,15 +70,42 @@ So, the amount of information you have been given is `log2(8/3)` bits or `1.4150
 
 **B. You are then given the additional information that the number is also odd. How much
 additional information have you been given?**
-C. A random variable X represents the outcome of flipping an unfair coin, where p(HEADS)
+
+``` python
+import math
+
+x4 = 0b011
+x6 = 0b101
+x7 = 0b110
+
+n_of_x = 3
+
+# If we have ADDITIONAL info that the num is also ODD...
+
+x4 = 0b011
+x6 = 0b101
+
+m_of_x = 2
+
+p = n_of_x / m_of_x
+
+print(math.log2(p))  # log2(3/2) = 0.5849625007211562
+```
+
+So, we get `0.5849625007211562` bits of additional info. 
+
+
+**C. A random variable X represents the outcome of flipping an unfair coin, where p(HEADS)
 = 0.6. Please give the value for the entropy H(X). You may express your answer as a
-numeric expression (i.e., you don’t have to actually do the arithmetic).
-D. A single decimal digit is chosen at random and you’re told that its value is 0 mod 3. How
-much information have you learned about the digit? 
-E. X is an unknown 8-bit binary number. You are given another 8-bit binary number,
+numeric expression (i.e., you don’t have to actually do the arithmetic).**
+
+
+**D. A single decimal digit is chosen at random and you’re told that its value is 0 mod 3. How
+much information have you learned about the digit?** 
+**E. X is an unknown 8-bit binary number. You are given another 8-bit binary number,
 10101100, and told that the Hamming distance between X and 10101100 is one. How
 many bits of information about X have you been given? You can give a formula if you
-wish.
+wish.**
 F. We wish to transmit messages comprised of the four symbols shown below with their
 associated probabilities and 5-bit fixed-length encoding.
 
