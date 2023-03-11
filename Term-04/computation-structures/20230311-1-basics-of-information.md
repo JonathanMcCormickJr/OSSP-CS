@@ -131,8 +131,22 @@ So, we have learned about 1.3219 bits of information.
 10101100, and told that the Hamming distance between X and 10101100 is one. How
 many bits of information about X have you been given? You can give a formula if you
 wish.**
-F. We wish to transmit messages comprised of the four symbols shown below with their
-associated probabilities and 5-bit fixed-length encoding.
+
+Since `10101100` has 8 bits, and since the Hamming distance is 1, only one of the 8 bits can be different in `x`. That means there are 8 possible numbers that could be `x`.
+
+`n=256`
+
+`m=8`
+
+`I(n→m) = log2(n/m) = log2(256/8) = 5`
+
+So, we have learned 5 bits of information. 
+
+
+
+
+**F. We wish to transmit messages comprised of the four symbols shown below with their
+associated probabilities and 5-bit fixed-length encoding.**
 
 |Symbol | p(symbol) | encoding |
 |---|-----|--------|
@@ -141,8 +155,8 @@ associated probabilities and 5-bit fixed-length encoding.
 | γ | 0.25 | 11011 |
 | δ | 0.125 | 10111 |
 
-An unknown symbol is received and you are told it’s not δ. How much information have
-you received?
+**An unknown symbol is received and you are told it’s not δ. How much information have
+you received?**
 
 G. When transmitting a message comprised of these four symbols with the probabilities as
 given above, what is the expected amount information received when you are told the
