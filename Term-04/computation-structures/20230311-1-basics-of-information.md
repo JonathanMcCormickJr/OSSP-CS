@@ -112,6 +112,18 @@ So, the average of these is `(0.6 * 0.73696559...) + (0.4 + 1.321928...)`, which
 
 **D. A single decimal digit is chosen at random and you’re told that its value is 0 mod 3. How
 much information have you learned about the digit?** 
+
+`0 % 3 = 0`
+
+Therefore, the value of the digit is 0. 
+
+We have narrowed it from 10 possible values to 1 value. So, `n=10` and `m=1`. 
+
+`I(n-->m) = log2(n/m) = log2(10/1) = 3.321928095`
+
+So, we have learned about 3.3219 bits of information. 
+
+
 **E. X is an unknown 8-bit binary number. You are given another 8-bit binary number,
 10101100, and told that the Hamming distance between X and 10101100 is one. How
 many bits of information about X have you been given? You can give a formula if you
