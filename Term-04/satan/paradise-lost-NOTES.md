@@ -176,7 +176,11 @@ His proud imaginations thus displaid.
 
 Then, after brief silence (no volunteers or objectors), Satan says he himself will undertake this solo. 
 
-**RESUME AT LINE 1415**
+There is then some description of Hell's features, including rivers inspired by Greek mythology. 
+
+1539-1767: Satan is allegedly the sire of a child with Sin.
+
+{RESUME AT 1769}
 
 
 
