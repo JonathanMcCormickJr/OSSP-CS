@@ -14,6 +14,17 @@ This is a list of ideas for classes that I can add as I progress through OSSP-CS
 #### 🔴 CCNA
 [NetworkChuck Free CCNA Training](https://youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P)
 
+#### 🔴 Economics, Intro to
+##### BOOKS:
+* N. Gregory Mankiw: Essentials of Economics
+* Henry Hazlitt: Economics in One Lesson
+* Milton Friedman: Capitalism and Freedom
+* Alan Mass: The Case for Socialism
+* Marx & Engels: The Communist Manifesto
+
+##### COURSES
+[MIT OCW: Principles of Microeconomics](https://ocw.mit.edu/courses/14-01sc-principles-of-microeconomics-fall-2011/)
+
 #### 🔴 Environment and Public Health
 ##### BOOKS:
 * Dr. Edna L. Negrón: Public Health and the Environment
