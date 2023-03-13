@@ -14,6 +14,16 @@ This is a list of ideas for classes that I can add as I progress through OSSP-CS
 #### 🔴 CCNA
 [NetworkChuck Free CCNA Training](https://youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P)
 
+#### 🔴 Environment and Public Health
+##### BOOKS:
+* Dr. Edna L. Negrón: Public Health and the Environment
+* James Collman: Naturally Dangerous
+* Smith & Lourie: Slow Death by Rubber Duck
+* John Brockman, et al: What Should We Be Worried About?
+
+##### COURSES
+* https://www.cdc.gov/nceh/ehs/elearn/ephoc.htm#:~:text=EPHOC%20courses%20are%20free.,minute%20modules%2C%20and%20a%20posttest.
+
 #### 🔴 History of Motherhood
 BOOK: Mother Nature: A history of mothers, infants, and natural selection.
 
