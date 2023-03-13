@@ -38,14 +38,15 @@ This is a list of ideas for classes that I can add as I progress through OSSP-CS
 #### 🔴 History of Motherhood
 BOOK: Mother Nature: A history of mothers, infants, and natural selection.
 
-#### 🔴 Intro to New Hampshire Law
-[NH Laws and Rules](https://www.nh.gov/glance/laws-rules.htm)
-
 #### 🔴 Libertarianism in History
 [MIT OCW: Libertarianism in History](https://ocw.mit.edu/courses/21h-181-libertarianism-in-history-spring-2014/)
 
 #### 🔴 Make Almost Anything
 [MIT OCW: How to Make (almost) anything](https://ocw.mit.edu/courses/mas-863-how-to-make-almost-anything-fall-2002/)
+
+#### 🔴 New Hampshire Law, Intro to
+[NH Laws and Rules](https://www.nh.gov/glance/laws-rules.htm)
+[NH Courts resources for Students](https://www.courts.nh.gov/students)
 
 #### 🔴 Paradise Lost
 [MIT OCW](https://ocw.mit.edu/courses/21l-995-special-topics-in-literature-miltons-paradise-lost-january-iap-2008/)
