@@ -1,3 +1,6 @@
+# A tool to automate the equation 
+# H(x) = E(I(x)) = ∑ᵢpᵢlog2(1/pᵢ)
+
 import math
 
 def log2(x):
