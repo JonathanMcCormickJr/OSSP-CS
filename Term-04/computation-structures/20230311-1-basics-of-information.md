@@ -158,6 +158,12 @@ associated probabilities and 5-bit fixed-length encoding.**
 **An unknown symbol is received and you are told it’s not δ. How much information have
 you received?**
 
+We start with 4 possible values of DIFFERENT probabilities `p` that all total to 100%.
+
+`100`
+
+{RESUME HERE}
+
 G. When transmitting a message comprised of these four symbols with the probabilities as
 given above, what is the expected amount information received when you are told the
 next symbol in the message?
