@@ -1,3 +1,6 @@
+# Information equation I(x): 
+# I(x) = log2(n/m) bits OR I(x) = log2(1/p) bits
+
 import math
 
 def log2(i):
