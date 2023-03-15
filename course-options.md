@@ -51,6 +51,15 @@ BOOK: Mother Nature: A history of mothers, infants, and natural selection.
 #### 🔴 Paradise Lost
 [MIT OCW](https://ocw.mit.edu/courses/21l-995-special-topics-in-literature-miltons-paradise-lost-january-iap-2008/)
 
+#### 🔴 Penetration Testing
+BOOKS:
+* Wil Allsopp: Advanced Penetration Testing
+
+COURSES:
+* Hack the Box Academy
+* Hack the Box
+* 
+
 #### 🔴 Reproductive Biology
 [MIT OCW: HST.071: Human Reproductive Biology](https://ocw.mit.edu/courses/hst-071-human-reproductive-biology-fall-2005/)
 
