@@ -180,7 +180,7 @@ There is then some description of Hell's features, including rivers inspired by 
 
 1539-1767: Satan is allegedly the sire of a child with Sin.
 
-{RESUME AT 1769}
+{RESUME AT 1910}
 
 
 
