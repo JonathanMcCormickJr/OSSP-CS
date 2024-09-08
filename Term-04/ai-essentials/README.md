@@ -1,0 +1,4 @@
+# Goodgle AI Essentials:
+https://www.credly.com/badges/3896cad9-a1ed-4a69-9c48-530648c8bae6/public_url 
+
+![image](https://github.com/user-attachments/assets/aa844d2e-8c4a-4a5b-a84e-9ddf2232b1b7)
