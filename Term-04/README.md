@@ -1,6 +1,8 @@
 # 🟨 Term 04
 **Self-study: Summer 2022, Spring 2023**
 
+#### [🟢 AWS Technical Essentials](./aws-tech-essentials)
+
 #### [🟡 Book Report: Write a book report on "Computer Basics (1985)" by Time-Life Books](./book-report)
 
 #### [🟡 Calculus 1A](./calculus-1A)
