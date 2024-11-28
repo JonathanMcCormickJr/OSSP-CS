@@ -17,6 +17,8 @@
 
 [MIT 6.004: Computation Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/syllabus/). 
 
+#### [🟢 CompTIA CASP+ / SecurityX beta](./SecurityX)
+
 #### [🟢 CompTIA Network+](./network-plus)
 
 #### [🟡 Computer Architecture](./computer-architecture)
