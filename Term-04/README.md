@@ -14,6 +14,8 @@
 
 #### [🟢 CompTIA CASP+ / SecurityX beta](./SecurityX)
 
+#### [🟡 CompTIA Linux+ beta](./linux-plus)
+
 #### [🟢 CompTIA Network+](./network-plus)
 
 #### [🟢 Google AI Essentials (in collaboration with Coursera and Oklahoma gov)](./ai-essentials)
