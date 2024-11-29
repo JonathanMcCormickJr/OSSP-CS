@@ -5,6 +5,14 @@ Pick 3 companies to apply to.
 ## 🔴 Calculus 1B
 [MIT Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about).
 
+#### [🟡 Computation Structures](./computation-structures)
+
+[MIT 6.004: Computation Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/syllabus/). 
+
+#### [🟡 Computer Architecture](./computer-architecture)
+ 
+[MIT 6.823: Computer System Architecture](https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/pages/syllabus/).
+
 ## 🔴 Government: assist in the development of the Liberland political/legal systems
 
 ## 🔴 UX Design
@@ -90,7 +98,9 @@ Main topics covered:
 * [MIT 6.837](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-837-computer-graphics-fall-2012/) *or*  
 * [UC San Diego edX](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x)
 
-## 🔴 [Religion: Satanism II: Satan and Human Nature](./satan)
+
+## [🟡 Religion: Satanism I: Intro to Satanism](./satan-i)
+
 
 ## 🔴 Taxation in the United States
 ### COURSES:
