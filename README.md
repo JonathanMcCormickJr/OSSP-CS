@@ -9,7 +9,7 @@ _Computer art prompted by Jonathan McCormick, Jr. and generated using [Craiyon A
 
 ## Intro
 
-Inspired by the [Open-Source Computer Science Degree](https://github.com/mvillaloboz/open-source-cs-degree) and [Open Source Society University](https://github.com/ossu/computer-science), this project aims to document my path toward becoming at least as knowledgable and competent in the field of Computer Science as a person with 2-years, 4-years, 6-years, and 8-years CS degrees, respectively. The following document outlines my study resources used. The groupings by Term are meant to pace and structure the course more or less according to a typical Computer Science track at a college or university. The focus is on the core Computer Science courses, but other subject matters will be included here and there as I see fit. 
+Inspired by the [Open-Source Computer Science Degree](https://github.com/mvillaloboz/open-source-cs-degree) and [Open Source Society University](https://github.com/ossu/computer-science), this project aims to document my path toward becoming at least as knowledgeable and competent in the field of Computer Science as a person with 2-years, 4-years, 6-years, and 8-years CS degrees, respectively. The following document outlines my study resources used. The groupings by Term are meant to pace and structure the course more or less according to a typical Computer Science track at a college or university. The focus is on the core Computer Science courses, but other subject matters will be included here and there as I see fit. 
 
 ## Why did I make OSSP-CS?
 
