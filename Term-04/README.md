@@ -23,6 +23,8 @@
 #### [🟡 Intro to Computer Science](./intro-cs)
 [MIT 6.0001 Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 
+#### [🔴 ISC2 CC](./cc)
+
 #### [🟡 Project0: Build a useful web app.](./project0)
 
 #### [🟢 Project1: Get an internship/job in tech.](./project1)
