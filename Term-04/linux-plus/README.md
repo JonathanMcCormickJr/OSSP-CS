@@ -1,5 +1,5 @@
 # Linux+ 
 
-Study and earn the Linux+ exam. 🐧
+Study and earn the Linux+ cert. 🐧
 
 
