@@ -19,4 +19,20 @@ Geometry problem.
 
 ![image](https://github.com/user-attachments/assets/eaee92dc-4779-4c7d-8a03-32c29427a41b)
 
+## Slope
+
+slope = rise / run = (f(b)-f(a))/(b-a) = "average rate of change"
+
+What if point `b` approaches point `a`? Then our secant starts to more and more resemble a tangent. 
+
+To define the derivative (slope for the tangent), we define it as this:
+```
+f'a = (f(b)-f(a))/(b-a) as b->a 
+```
+
+Keep in mind, a function can be continuous at point `a` without necessarily being differentiable at `a`. On the other hand, if a function is not continuous at `a`, then it is definitely not differentiable at `a` (although you can still sometimes identify left- and right-hand limits of slopes at `a`. 
+
+TRICKY BIT: If a tangent line exists at `a`, it will almost always have a derivative EXCEPT when the tangent line is vertical, like with `f(x) = cube_root(x)` where `a=0`, for example.
+
+![image](https://github.com/user-attachments/assets/40343abd-f42a-4b61-8e43-45d788c18223)
 
