@@ -66,6 +66,59 @@ Notice, as `x->0`, `f'(x)` the denominator now approaches `x*x` or `x^2`.
 
 **So, `f'(x) = lim(delta_x->0) -1/(x^2)`**
 
+***
+
+Here's a hack for finding the derivative function: 
+
+If `f(x) = a*x^n`, then, `f'(x) = a*n*x^(n-1)`
+
+So, for our prior example, (`f(x) = 1/x`), we would convert it into exponent form `f(x) = x^(-1)`:
+
+`f'(x) = -1*x^(-2)`
+
+This can be converted back to fractional form as:
+
+`f'(x) = -1/(x^2)`
+
+...which matches our previous results. 
+
+***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
