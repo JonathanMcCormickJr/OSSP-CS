@@ -64,11 +64,11 @@ This can be simplified to...
 
 Notice, as `x->0`, `f'(x)` the denominator now approaches `x*x` or `x^2`. 
 
-**So, `f'(x) = lim(delta_x->0) -1/(x^2)`**
+**So, `f'(x) = -1/(x^2)`**
 
 ***
 
-Here's a hack for finding the derivative function: 
+Here's a [hack](https://youtu.be/pBc4Udqw330?si=g6LVggGuQCKdXiUd) for finding the derivative function: 
 
 If `f(x) = a*x^n`, then, `f'(x) = a*n*x^(n-1)`
 
