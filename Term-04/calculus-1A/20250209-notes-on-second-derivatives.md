@@ -53,3 +53,31 @@ This is our second-derivative.
 
 ***
 
+## Higher-order derivatives
+
+### With prime notation, we simply add a tick mark for each layer of derivation. 
+
+First-order derivative: `f'(x)`
+
+Second-order derivative: `f''(x)`
+
+### In Leibniz Notation, that is:
+
+First-order derivative: `df/dx`
+
+Second-order derivative: `d(df/dx)/dx`, or `d/dx {d/dx (f)}`, or `(d/dx)^2 * (f)`, or `(d^2 f)/dx^2`
+
+***
+
+We can keep this trend going.
+
+| Description | Prime notation | Leibniz notation |
+| ------------- | ------------- | ------------- |
+| First derivative | `f'(x)` | `df/dx` |
+| Second derivative | `f''(x)` | `(d^2 f)/dx^2` |
+| Third derivative | `f'''(x)` | `(d^3 f)/dx^3` |
+| Fourth derivative | `f''''(x)` | `(d^4 f)/dx^4` |
+
+
+
+
