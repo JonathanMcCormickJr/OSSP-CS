@@ -8,3 +8,7 @@
 | cos(x)   | -sin(x)       |
 | cot(x)   | -csc^2 (x)    |
 | csc(x)   | -csc(x)cot(x) |
+
+## Pythagorian Trig Identity
+`sin^2 (x) + cox^2 (x) = 1`
+
