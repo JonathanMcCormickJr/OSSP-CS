@@ -1,6 +1,6 @@
 # Derivatives of Trigonometric Functions
 
-| Trig     | f'(Trig)      |
+| Trig     | Trig'         |
 |----------|---------------|
 | sin(x)   | cos(x)        |
 | tan(x)   | sec^2 (x)     |
