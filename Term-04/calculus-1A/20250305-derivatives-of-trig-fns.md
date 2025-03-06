@@ -12,3 +12,4 @@
 ## Pythagorian Trig Identity
 `sin^2 (x) + cox^2 (x) = 1`
 
+![image](https://github.com/user-attachments/assets/0bff36d9-7e2b-4766-a47e-54a6d4aa751a)
