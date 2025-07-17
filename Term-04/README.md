@@ -14,7 +14,7 @@
 
 #### [🟢 CompTIA CASP+ / SecurityX beta](./SecurityX)
 
-#### [🟡 CompTIA Linux+ beta](./linux-plus)
+#### [🟢 CompTIA Linux+ beta](./linux-plus)
 
 #### [🟢 CompTIA Network+](./network-plus)
 
