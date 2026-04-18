@@ -1,6 +1,5 @@
 # Term 05
-## 🔴 Internship
-Pick 3 companies to apply to.
+## 🔴 Linear Algebra
 
 ## 🟡 Write and publish a book
 
